@@ -1,0 +1,311 @@
+2024-04-22 11:08:05.739[info] server start!
+2024-04-22 11:12:39.677[info] server start!
+2024-04-22 11:13:29.138[info] server start!
+2024-04-22 11:14:20.664[info] server start!
+2024-04-22 11:15:19.786[info] server start!
+2024-04-22 11:15:38.980[info] server start!
+2024-04-22 11:15:57.508[info] server start!
+2024-04-22 11:16:04.675[info] server start!
+2024-04-22 11:16:32.240[info] server start!
+2024-04-22 11:16:40.712[info] server start!
+2024-04-22 11:17:03.478[error] 에러입니다.
+2024-04-22 11:17:03.479[warn] 경고입니다!
+2024-04-22 11:17:03.480[info] 정보로그입니다!
+2024-04-22 11:17:03.480[verbose] 로그테스트 verbose!
+2024-04-22 11:17:03.481[debug] 로그테스트 debug!
+2024-04-22 11:17:04.487[error] 에러입니다.
+2024-04-22 11:17:04.489[warn] 경고입니다!
+2024-04-22 11:17:04.490[info] 정보로그입니다!
+2024-04-22 11:17:04.491[verbose] 로그테스트 verbose!
+2024-04-22 11:17:04.493[debug] 로그테스트 debug!
+2024-04-22 11:17:08.259[error] 에러입니다.
+2024-04-22 11:17:08.260[warn] 경고입니다!
+2024-04-22 11:17:08.260[info] 정보로그입니다!
+2024-04-22 11:17:08.261[verbose] 로그테스트 verbose!
+2024-04-22 11:17:08.261[debug] 로그테스트 debug!
+2024-04-22 11:17:08.493[error] 에러입니다.
+2024-04-22 11:17:08.494[warn] 경고입니다!
+2024-04-22 11:17:08.495[info] 정보로그입니다!
+2024-04-22 11:17:08.495[verbose] 로그테스트 verbose!
+2024-04-22 11:17:08.496[debug] 로그테스트 debug!
+2024-04-22 11:17:08.690[error] 에러입니다.
+2024-04-22 11:17:08.690[warn] 경고입니다!
+2024-04-22 11:17:08.691[info] 정보로그입니다!
+2024-04-22 11:17:08.691[verbose] 로그테스트 verbose!
+2024-04-22 11:17:08.692[debug] 로그테스트 debug!
+2024-04-22 11:17:08.911[error] 에러입니다.
+2024-04-22 11:17:08.912[warn] 경고입니다!
+2024-04-22 11:17:08.913[info] 정보로그입니다!
+2024-04-22 11:17:08.913[verbose] 로그테스트 verbose!
+2024-04-22 11:17:08.914[debug] 로그테스트 debug!
+2024-04-22 11:17:09.100[error] 에러입니다.
+2024-04-22 11:17:09.101[warn] 경고입니다!
+2024-04-22 11:17:09.102[info] 정보로그입니다!
+2024-04-22 11:17:09.103[verbose] 로그테스트 verbose!
+2024-04-22 11:17:09.105[debug] 로그테스트 debug!
+2024-04-22 11:17:09.315[error] 에러입니다.
+2024-04-22 11:17:09.316[warn] 경고입니다!
+2024-04-22 11:17:09.317[info] 정보로그입니다!
+2024-04-22 11:17:09.318[verbose] 로그테스트 verbose!
+2024-04-22 11:17:09.319[debug] 로그테스트 debug!
+2024-04-22 11:17:09.519[error] 에러입니다.
+2024-04-22 11:17:09.520[warn] 경고입니다!
+2024-04-22 11:17:09.521[info] 정보로그입니다!
+2024-04-22 11:17:09.522[verbose] 로그테스트 verbose!
+2024-04-22 11:17:09.523[debug] 로그테스트 debug!
+2024-04-22 11:17:09.726[error] 에러입니다.
+2024-04-22 11:17:09.726[warn] 경고입니다!
+2024-04-22 11:17:09.727[info] 정보로그입니다!
+2024-04-22 11:17:09.727[verbose] 로그테스트 verbose!
+2024-04-22 11:17:09.728[debug] 로그테스트 debug!
+2024-04-22 11:17:19.749[error] 에러입니다.
+2024-04-22 11:17:19.749[warn] 경고입니다!
+2024-04-22 11:17:19.750[info] 정보로그입니다!
+2024-04-22 11:17:19.751[verbose] 로그테스트 verbose!
+2024-04-22 11:17:19.752[debug] 로그테스트 debug!
+2024-04-22 11:17:31.263[error] 에러입니다.
+2024-04-22 11:17:31.264[warn] 경고입니다!
+2024-04-22 11:17:31.264[info] 정보로그입니다!
+2024-04-22 11:17:31.265[verbose] 로그테스트 verbose!
+2024-04-22 11:17:31.265[debug] 로그테스트 debug!
+2024-04-22 11:19:41.067[info] server start!
+2024-04-22 11:20:29.603[error] 에러입니다.
+2024-04-22 11:20:29.604[warn] 경고입니다!
+2024-04-22 11:20:29.605[info] 정보로그입니다!
+2024-04-22 11:20:29.606[debug] 로그테스트 debug!
+2024-04-22 11:20:29.607[verbose] 로그테스트 verbose!
+2024-04-22 11:20:48.404[info] server start!
+2024-04-22 11:20:52.370[error] 에러입니다.
+2024-04-22 11:20:52.371[warn] 경고입니다!
+2024-04-22 11:20:52.371[info] 정보로그입니다!
+2024-04-22 11:21:18.222[error] 에러입니다.
+2024-04-22 11:21:19.550[error] 에러입니다.
+2024-04-22 11:21:19.843[error] 에러입니다.
+2024-04-22 11:21:20.071[error] 에러입니다.
+2024-04-22 11:21:20.277[error] 에러입니다.
+2024-04-22 11:21:20.489[error] 에러입니다.
+2024-04-22 11:21:20.731[error] 에러입니다.
+2024-04-22 11:21:31.020[info] server start!
+2024-04-22 11:21:31.119[error] 에러입니다.
+2024-04-22 11:21:31.120[warn] 경고입니다!
+2024-04-22 11:21:31.121[info] 정보로그입니다!
+2024-04-22 11:21:31.122[debug] 로그테스트 debug!
+2024-04-22 11:21:31.122[silly] 로그테스트 silly!
+2024-04-22 11:21:31.123[verbose] 로그테스트 verbose!
+2024-04-22 11:21:45.778[info] server start!
+2024-04-22 11:22:46.855[info] server start!
+2024-04-22 11:22:49.508[info] server start!
+2024-04-22 11:23:36.600[info] server start!
+2024-04-22 11:23:40.212[info] server start!
+2024-04-22 11:23:51.921[error] test log error
+2024-04-22 11:23:57.984[warn] test log warn
+2024-04-22 11:24:01.754[info] test log info
+2024-04-22 11:24:05.320[debug] test log debug
+2024-04-22 11:30:49.277[info] server start!
+2024-04-22 11:30:49.384[debug] test log debug
+2024-04-22 11:30:51.802[info] server start!
+2024-04-22 11:30:53.157[info] server start!
+2024-04-22 11:30:54.715[info] server start!
+2024-04-22 11:30:55.838[debug] test log debug
+2024-04-22 15:22:37.966[info] server start!
+2024-04-22 15:22:38.070[info] DB connection Success
+2024-04-22 15:22:38.070[error] undefined
+2024-04-22 15:23:11.430[info] server start!
+2024-04-22 15:23:11.536[info] DB connection Success
+2024-04-22 15:23:11.537[error] undefined
+2024-04-22 15:24:00.067[info] server start!
+2024-04-22 15:24:00.167[info] DB connection Success
+2024-04-22 15:24:00.186[info] Sequelize sync Success!!!!!!
+2024-04-22 15:53:25.212[info] server start!
+2024-04-22 15:53:25.317[info] DB connection Success
+2024-04-22 15:53:25.326[info] Sequelize sync Success!!!!!!
+2024-04-22 15:55:19.249[info] server start!
+2024-04-22 15:55:19.340[info] DB connection Success
+2024-04-22 15:55:19.348[info] Sequelize sync Success!!!!!!
+2024-04-22 15:55:21.118[info] server start!
+2024-04-22 15:55:21.202[info] DB connection Success
+2024-04-22 15:55:21.213[info] Sequelize sync Success!!!!!!
+2024-04-22 15:58:36.446[info] server start!
+2024-04-22 15:58:36.534[info] DB connection Success
+2024-04-22 15:58:36.545[info] Sequelize sync Success!!!!!!
+2024-04-22 15:59:15.324[info] server start!
+2024-04-22 15:59:15.433[info] DB connection Success
+2024-04-22 15:59:15.442[info] Sequelize sync Success!!!!!!
+2024-04-22 15:59:46.266[info] server start!
+2024-04-22 15:59:46.368[info] DB connection Success
+2024-04-22 15:59:46.377[info] Sequelize sync Success!!!!!!
+2024-04-22 16:02:55.429[info] server start!
+2024-04-22 16:02:55.538[info] DB connection Success
+2024-04-22 16:02:55.547[info] Sequelize sync Success!!!!!!
+2024-04-22 16:03:01.304[info] server start!
+2024-04-22 16:03:01.413[info] DB connection Success
+2024-04-22 16:03:01.421[info] Sequelize sync Success!!!!!!
+2024-04-22 16:03:04.058[info] server start!
+2024-04-22 16:03:04.201[info] DB connection Success
+2024-04-22 16:03:04.209[info] Sequelize sync Success!!!!!!
+2024-04-22 16:04:01.899[info] server start!
+2024-04-22 16:04:02.000[info] DB connection Success
+2024-04-22 16:04:02.009[info] Sequelize sync Success!!!!!!
+2024-04-22 16:05:07.538[info] server start!
+2024-04-22 16:05:07.753[info] DB connection Success
+2024-04-22 16:05:07.762[info] Sequelize sync Success!!!!!!
+2024-04-22 16:06:09.051[info] server start!
+2024-04-22 16:06:09.160[info] DB connection Success
+2024-04-22 16:06:09.169[info] Sequelize sync Success!!!!!!
+2024-04-22 16:07:05.084[info] server start!
+2024-04-22 16:07:05.181[info] DB connection Success
+2024-04-22 16:07:05.191[info] Sequelize sync Success!!!!!!
+2024-04-22 16:08:36.172[info] server start!
+2024-04-22 16:08:36.263[info] DB connection Success
+2024-04-22 16:08:36.272[info] Sequelize sync Success!!!!!!
+2024-04-22 16:08:42.590[info] server start!
+2024-04-22 16:08:42.786[info] DB connection Success
+2024-04-22 16:08:42.795[info] Sequelize sync Success!!!!!!
+2024-04-22 16:09:35.641[info] server start!
+2024-04-22 16:09:35.740[info] DB connection Success
+2024-04-22 16:09:35.750[info] Sequelize sync Success!!!!!!
+2024-04-22 16:10:10.691[info] server start!
+2024-04-22 16:10:10.771[info] DB connection Success
+2024-04-22 16:10:10.779[info] Sequelize sync Success!!!!!!
+2024-04-22 16:10:40.519[info] server start!
+2024-04-22 16:10:40.619[info] DB connection Success
+2024-04-22 16:10:40.629[info] Sequelize sync Success!!!!!!
+2024-04-22 16:10:48.988[info] server start!
+2024-04-22 16:10:49.081[info] DB connection Success
+2024-04-22 16:10:49.091[info] Sequelize sync Success!!!!!!
+2024-04-22 16:12:20.591[info] server start!
+2024-04-22 16:12:20.821[info] DB connection Success
+2024-04-22 16:12:20.831[info] Sequelize sync Success!!!!!!
+2024-04-22 16:12:33.595[info] server start!
+2024-04-22 16:12:33.694[info] DB connection Success
+2024-04-22 16:12:33.703[info] Sequelize sync Success!!!!!!
+2024-04-22 16:13:15.391[info] server start!
+2024-04-22 16:13:15.602[info] DB connection Success
+2024-04-22 16:13:15.611[info] Sequelize sync Success!!!!!!
+2024-04-22 16:13:29.585[info] server start!
+2024-04-22 16:13:29.681[info] DB connection Success
+2024-04-22 16:13:29.690[info] Sequelize sync Success!!!!!!
+2024-04-22 16:15:11.468[info] server start!
+2024-04-22 16:15:11.576[info] DB connection Success
+2024-04-22 16:15:11.584[info] Sequelize sync Success!!!!!!
+2024-04-22 16:15:24.571[info] server start!
+2024-04-22 16:15:24.668[info] DB connection Success
+2024-04-22 16:15:24.678[info] Sequelize sync Success!!!!!!
+2024-04-22 16:16:00.429[info] server start!
+2024-04-22 16:16:00.639[info] DB connection Success
+2024-04-22 16:16:00.650[info] Sequelize sync Success!!!!!!
+2024-04-22 16:17:42.279[info] server start!
+2024-04-22 16:17:42.379[info] DB connection Success
+2024-04-22 16:17:42.388[info] Sequelize sync Success!!!!!!
+2024-04-22 16:19:13.833[info] server start!
+2024-04-22 16:19:13.915[info] DB connection Success
+2024-04-22 16:19:13.923[info] Sequelize sync Success!!!!!!
+2024-04-22 16:20:49.373[info] server start!
+2024-04-22 16:20:49.480[info] DB connection Success
+2024-04-22 16:20:49.488[info] Sequelize sync Success!!!!!!
+2024-04-22 16:21:01.215[info] server start!
+2024-04-22 16:21:01.421[info] DB connection Success
+2024-04-22 16:21:01.430[info] Sequelize sync Success!!!!!!
+2024-04-22 16:21:18.648[info] server start!
+2024-04-22 16:21:18.740[info] DB connection Success
+2024-04-22 16:21:18.751[info] Sequelize sync Success!!!!!!
+2024-04-22 16:22:17.039[info] server start!
+2024-04-22 16:22:17.133[info] DB connection Success
+2024-04-22 16:22:17.141[info] Sequelize sync Success!!!!!!
+2024-04-22 16:22:30.743[info] server start!
+2024-04-22 16:22:30.841[info] DB connection Success
+2024-04-22 16:22:30.849[info] Sequelize sync Success!!!!!!
+2024-04-22 16:23:16.869[info] server start!
+2024-04-22 16:23:17.084[info] DB connection Success
+2024-04-22 16:23:17.094[info] Sequelize sync Success!!!!!!
+2024-04-22 16:23:21.679[info] server start!
+2024-04-22 16:23:21.772[info] DB connection Success
+2024-04-22 16:23:21.781[info] Sequelize sync Success!!!!!!
+2024-04-22 16:23:37.921[info] server start!
+2024-04-22 16:23:38.135[info] DB connection Success
+2024-04-22 16:23:38.144[info] Sequelize sync Success!!!!!!
+2024-04-22 16:30:05.469[info] server start!
+2024-04-22 16:30:05.780[info] DB connection Success
+2024-04-22 16:30:05.789[info] Sequelize sync Success!!!!!!
+2024-04-22 16:30:15.094[info] server start!
+2024-04-22 16:30:15.213[info] DB connection Success
+2024-04-22 16:30:15.223[info] Sequelize sync Success!!!!!!
+2024-04-22 16:30:26.840[info] server start!
+2024-04-22 16:30:26.939[info] DB connection Success
+2024-04-22 16:30:26.949[info] Sequelize sync Success!!!!!!
+2024-04-22 16:30:32.323[info] server start!
+2024-04-22 16:30:32.419[info] DB connection Success
+2024-04-22 16:30:32.428[info] Sequelize sync Success!!!!!!
+2024-04-22 16:30:59.768[info] server start!
+2024-04-22 16:30:59.975[info] DB connection Success
+2024-04-22 16:30:59.983[info] Sequelize sync Success!!!!!!
+2024-04-22 16:35:48.087[info] server start!
+2024-04-22 16:35:48.172[info] DB connection Success
+2024-04-22 16:35:48.181[info] Sequelize sync Success!!!!!!
+2024-04-22 16:36:09.712[info] router/department.js [object Object]
+2024-04-22 16:36:09.713[error] Error: Not allowed null (name)
+2024-04-22 16:36:09.718[error] departmentService.reg: TypeError: Cannot read property 'create' of undefined
+2024-04-22 16:36:09.718[error] router/department.js: TypeError: Cannot read property 'create' of undefined
+2024-04-22 16:38:14.227[info] router/department.js [object Object]
+2024-04-22 16:38:14.228[error] departmentService.reg: TypeError: Cannot read property 'create' of undefined
+2024-04-22 16:38:14.228[error] router/department.js: TypeError: Cannot read property 'create' of undefined
+2024-04-22 16:39:29.156[info] server start!
+2024-04-22 16:39:29.243[info] DB connection Success
+2024-04-22 16:39:29.252[info] Sequelize sync Success!!!!!!
+2024-04-22 16:39:42.309[info] router/department.js [object Object]
+2024-04-22 16:39:42.458[debug] departmentService.reg : {"id":1,"name":"부서 테스트1","code":"d-0001","description":"첫 부서 입력 테스트!","updatedAt":"2024-04-22T07:39:42.311Z","createdAt":"2024-04-22T07:39:42.311Z","deletedAt":null}
+2024-04-22 16:39:42.459[info] router/department.js.reg.result: {"id":1,"name":"부서 테스트1","code":"d-0001","description":"첫 부서 입력 테스트!","updatedAt":"2024-04-22T07:39:42.311Z","createdAt":"2024-04-22T07:39:42.311Z","deletedAt":null}
+2024-04-22 16:41:15.872[info] server start!
+2024-04-22 16:41:15.973[info] DB connection Success
+2024-04-22 16:41:15.989[info] Sequelize sync Success!!!!!!
+2024-04-22 17:05:01.728[info] server start!
+2024-04-22 17:05:01.930[info] DB connection Success
+2024-04-22 17:05:01.938[info] Sequelize sync Success!!!!!!
+2024-04-22 17:05:08.498[info] server start!
+2024-04-22 17:05:08.695[info] DB connection Success
+2024-04-22 17:05:08.703[info] Sequelize sync Success!!!!!!
+2024-04-22 17:05:41.489[info] server start!
+2024-04-22 17:05:41.699[info] DB connection Success
+2024-04-22 17:05:41.708[info] Sequelize sync Success!!!!!!
+2024-04-22 17:22:16.715[info] router/department.js [object Object]
+2024-04-22 17:22:16.864[debug] departmentService.reg : {"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-22T08:22:16.718Z","createdAt":"2024-04-22T08:22:16.718Z","deletedAt":null}
+2024-04-22 17:22:16.866[info] router/department.js.reg.result: {"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-22T08:22:16.718Z","createdAt":"2024-04-22T08:22:16.718Z","deletedAt":null}
+2024-04-22 17:22:57.808[info] router/department.js [object Object]
+2024-04-22 17:22:57.845[debug] departmentService.reg : {"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-22T08:22:57.809Z","createdAt":"2024-04-22T08:22:57.809Z","deletedAt":null}
+2024-04-22 17:22:57.845[info] router/department.js.reg.result: {"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-22T08:22:57.809Z","createdAt":"2024-04-22T08:22:57.809Z","deletedAt":null}
+2024-04-22 17:22:58.866[info] router/department.js [object Object]
+2024-04-22 17:22:58.877[debug] departmentService.reg : {"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-22T08:22:58.866Z","createdAt":"2024-04-22T08:22:58.866Z","deletedAt":null}
+2024-04-22 17:22:58.877[info] router/department.js.reg.result: {"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-22T08:22:58.866Z","createdAt":"2024-04-22T08:22:58.866Z","deletedAt":null}
+2024-04-22 17:23:21.974[info] server start!
+2024-04-22 17:23:22.076[info] DB connection Success
+2024-04-22 17:23:22.084[info] Sequelize sync Success!!!!!!
+2024-04-22 17:23:25.296[info] server start!
+2024-04-22 17:23:25.425[info] DB connection Success
+2024-04-22 17:23:25.433[info] Sequelize sync Success!!!!!!
+2024-04-22 17:23:27.167[info] (department.list.params) {}
+2024-04-22 17:23:27.180[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-22 17:23:27.181[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-22 17:23:31.488[info] (department.info.params) {"id":"10"}
+2024-04-22 17:23:31.492[debug] (departmentService.info) null
+2024-04-22 17:23:31.492[info] (department.info.result) null
+2024-04-22 17:23:33.916[info] (department.info.params) {"id":"1"}
+2024-04-22 17:23:33.918[debug] (departmentService.info) {"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}
+2024-04-22 17:23:33.923[info] (department.info.result) {"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}
+2024-04-22 17:23:38.300[info] (department.update.params) {"id":"7","name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정"}
+2024-04-22 17:23:38.308[debug] (departmentService.edit) {"updatedCount":0}
+2024-04-22 17:23:38.308[info] (department.update.result) {"updatedCount":0}
+2024-04-22 17:23:41.480[info] (department.delete.params) {"id":"5"}
+2024-04-22 17:23:41.482[debug] (departmentService.delete) {"deletedCount":0}
+2024-04-22 17:23:41.483[info] (department.delete.result) {"deletedCount":0}
+2024-04-22 17:24:19.839[info] server start!
+2024-04-22 17:24:19.978[info] DB connection Success
+2024-04-22 17:24:19.989[info] Sequelize sync Success!!!!!!
+2024-04-22 17:24:58.085[info] server start!
+2024-04-22 17:24:58.296[info] DB connection Success
+2024-04-22 17:24:58.304[info] Sequelize sync Success!!!!!!
+2024-04-22 17:25:10.760[info] server start!
+2024-04-22 17:25:10.851[info] DB connection Success
+2024-04-22 17:25:10.860[info] Sequelize sync Success!!!!!!
+2024-04-22 17:27:53.360[info] server start!
+2024-04-22 17:27:53.568[info] DB connection Success
+2024-04-22 17:27:53.577[info] Sequelize sync Success!!!!!!

@@ -1,0 +1,885 @@
+2024-04-25 10:34:12.440[info] server start!
+2024-04-25 10:34:12.559[error] undefined
+2024-04-25 10:34:39.277[info] router/auth.js [object Object]
+2024-04-25 10:34:39.380[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:35:47.205[info] server start!
+2024-04-25 10:35:47.325[error] undefined
+2024-04-25 10:35:49.602[info] router/auth.js [object Object]
+2024-04-25 10:35:49.698[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:36:01.488[info] server start!
+2024-04-25 10:36:01.641[error] undefined
+2024-04-25 10:36:37.976[info] router/auth.js [object Object]
+2024-04-25 10:36:38.077[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:36:51.392[info] server start!
+2024-04-25 10:36:51.511[error] undefined
+2024-04-25 10:36:51.898[info] router/auth.js [object Object]
+2024-04-25 10:36:52.054[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:36:57.189[info] server start!
+2024-04-25 10:36:57.313[error] undefined
+2024-04-25 10:37:01.433[info] server start!
+2024-04-25 10:37:01.584[error] undefined
+2024-04-25 10:37:01.711[info] router/auth.js [object Object]
+2024-04-25 10:37:01.837[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:37:11.047[info] server start!
+2024-04-25 10:37:11.182[error] undefined
+2024-04-25 10:37:14.542[info] server start!
+2024-04-25 10:37:14.765[error] undefined
+2024-04-25 10:37:14.972[info] router/auth.js [object Object]
+2024-04-25 10:37:15.071[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:37:22.479[info] server start!
+2024-04-25 10:37:22.589[error] undefined
+2024-04-25 10:38:52.047[info] server start!
+2024-04-25 10:38:52.161[error] undefined
+2024-04-25 10:39:07.415[info] server start!
+2024-04-25 10:39:07.639[error] undefined
+2024-04-25 10:39:12.143[info] server start!
+2024-04-25 10:39:12.266[error] undefined
+2024-04-25 10:39:15.550[info] server start!
+2024-04-25 10:39:15.660[error] undefined
+2024-04-25 10:40:14.927[info] server start!
+2024-04-25 10:40:15.041[error] undefined
+2024-04-25 10:40:23.805[info] server start!
+2024-04-25 10:40:23.922[error] undefined
+2024-04-25 10:40:37.719[info] server start!
+2024-04-25 10:40:37.829[error] undefined
+2024-04-25 10:40:43.135[info] server start!
+2024-04-25 10:40:43.276[error] undefined
+2024-04-25 10:41:20.044[info] server start!
+2024-04-25 10:41:20.168[error] undefined
+2024-04-25 10:41:24.158[info] server start!
+2024-04-25 10:41:24.267[error] undefined
+2024-04-25 10:42:12.837[info] server start!
+2024-04-25 10:42:12.946[error] undefined
+2024-04-25 10:43:22.132[info] server start!
+2024-04-25 10:43:22.251[error] undefined
+2024-04-25 10:44:39.969[info] server start!
+2024-04-25 10:44:40.076[error] undefined
+2024-04-25 10:45:07.125[info] server start!
+2024-04-25 10:45:07.236[error] undefined
+2024-04-25 10:45:36.519[info] server start!
+2024-04-25 10:45:36.630[error] undefined
+2024-04-25 10:46:27.330[info] router/auth.js [object Object]
+2024-04-25 10:46:27.430[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:47:17.760[info] server start!
+2024-04-25 10:47:17.911[error] undefined
+2024-04-25 10:47:19.306[info] router/auth.js [object Object]
+2024-04-25 10:47:19.451[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:48:55.688[info] server start!
+2024-04-25 10:49:43.344[info] server start!
+2024-04-25 10:49:43.450[error] undefined
+2024-04-25 10:49:45.500[info] router/auth.js [object Object]
+2024-04-25 10:49:45.702[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:50:58.189[info] server start!
+2024-04-25 10:50:58.309[error] undefined
+2024-04-25 10:52:11.824[info] router/auth.js [object Object]
+2024-04-25 10:52:11.926[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:52:27.292[info] server start!
+2024-04-25 10:52:27.397[error] undefined
+2024-04-25 10:52:41.753[info] server start!
+2024-04-25 10:52:41.875[error] undefined
+2024-04-25 10:52:43.605[info] router/auth.js [object Object]
+2024-04-25 10:52:43.708[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:52:48.558[error] Error: Not allowed null (postId)
+2024-04-25 10:52:48.559[info] router/post.js [object Object]
+2024-04-25 10:52:48.669[error] postService.reg: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 10:59:13.125[info] server start!
+2024-04-25 10:59:13.238[error] undefined
+2024-04-25 10:59:44.430[error] Error: Not allowed null (userId)
+2024-04-25 10:59:44.434[info] router/post.js [object Object]
+2024-04-25 10:59:44.533[error] postService.reg: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:00:41.514[info] server start!
+2024-04-25 11:00:41.635[error] undefined
+2024-04-25 11:00:47.389[info] router/auth.js [object Object]
+2024-04-25 11:00:47.492[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:01:26.361[info] server start!
+2024-04-25 11:01:26.586[error] undefined
+2024-04-25 11:01:32.744[info] server start!
+2024-04-25 11:01:32.853[error] undefined
+2024-04-25 11:01:35.263[info] router/auth.js [object Object]
+2024-04-25 11:01:35.463[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:02:48.453[info] server start!
+2024-04-25 11:02:48.562[error] undefined
+2024-04-25 11:02:52.454[info] server start!
+2024-04-25 11:02:52.677[error] undefined
+2024-04-25 11:02:58.053[info] server start!
+2024-04-25 11:02:58.176[error] undefined
+2024-04-25 11:02:59.390[info] router/auth.js [object Object]
+2024-04-25 11:02:59.589[error] router/auth.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:03:28.216[info] server start!
+2024-04-25 11:03:28.339[error] undefined
+2024-04-25 11:03:49.514[info] router/user.js [object Object]
+2024-04-25 11:03:49.516[debug] userService.reg - hashPassword: "123456"
+2024-04-25 11:03:49.655[error] userService.reg: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:03:49.656[error] router/user.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:04:49.849[info] server start!
+2024-04-25 11:04:49.981[error] undefined
+2024-04-25 11:04:51.543[info] router/user.js [object Object]
+2024-04-25 11:04:51.546[debug] userService.reg - hashPassword: "123456"
+2024-04-25 11:04:51.641[error] userService.reg: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:04:51.643[error] router/user.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:05:28.913[info] server start!
+2024-04-25 11:05:29.043[error] undefined
+2024-04-25 11:05:31.773[info] server start!
+2024-04-25 11:05:31.882[error] undefined
+2024-04-25 11:05:33.241[info] router/user.js [object Object]
+2024-04-25 11:05:33.244[debug] userService.reg - hashPassword: "123456"
+2024-04-25 11:05:33.367[error] userService.reg: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:05:33.369[error] router/user.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:05:54.552[info] server start!
+2024-04-25 11:05:54.767[error] undefined
+2024-04-25 11:06:01.965[info] server start!
+2024-04-25 11:06:02.092[error] undefined
+2024-04-25 11:06:04.369[info] server start!
+2024-04-25 11:06:04.489[error] undefined
+2024-04-25 11:06:05.094[info] router/user.js [object Object]
+2024-04-25 11:06:05.096[debug] userService.reg - hashPassword: "123456"
+2024-04-25 11:06:05.185[error] userService.reg: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:06:05.186[error] router/user.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:06:26.727[info] server start!
+2024-04-25 11:06:26.835[error] undefined
+2024-04-25 11:06:27.135[info] router/user.js [object Object]
+2024-04-25 11:06:27.138[debug] userService.reg - hashPassword: "123456"
+2024-04-25 11:06:27.270[error] userService.reg: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:06:27.271[error] router/user.js: SequelizeConnectionError: ����� "postgres"�� password ������ �����߽��ϴ�
+2024-04-25 11:07:56.986[info] server start!
+2024-04-25 11:07:57.206[info] DB connection Success
+2024-04-25 11:07:57.300[info] Sequelize sync Success!!!!!!
+2024-04-25 11:08:05.169[info] router/user.js [object Object]
+2024-04-25 11:08:05.171[debug] userService.reg - hashPassword: "123456"
+2024-04-25 11:08:05.200[debug] userService.reg : {"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","password":"8XvKDfQbp6af8ccp6c5paZoVAu1tn8w+lluhvyGY5SWfFnXG5COvpYHXjL0nmhtB4HroXnf7mo0pubOWVI2Qag==.9ade559689ef4661f461638b8db79d45754ab5808aa63a9bb2aad00f36a4d623b93e299d945b01adc0957f9b9d1840438577167c4d9005298518e35105836e76","role":"member2","email":"qsss@ddddd","phone":"12345","updatedAt":"2024-04-25T02:08:05.177Z","createdAt":"2024-04-25T02:08:05.177Z","updatedPwDate":null,"deletedAt":null}
+2024-04-25 11:08:05.201[info] router/user.js.reg.result: {"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","password":"8XvKDfQbp6af8ccp6c5paZoVAu1tn8w+lluhvyGY5SWfFnXG5COvpYHXjL0nmhtB4HroXnf7mo0pubOWVI2Qag==.9ade559689ef4661f461638b8db79d45754ab5808aa63a9bb2aad00f36a4d623b93e299d945b01adc0957f9b9d1840438577167c4d9005298518e35105836e76","role":"member2","email":"qsss@ddddd","phone":"12345","updatedAt":"2024-04-25T02:08:05.177Z","createdAt":"2024-04-25T02:08:05.177Z","updatedPwDate":null,"deletedAt":null}
+2024-04-25 11:08:22.246[info] server start!
+2024-04-25 11:08:22.455[info] DB connection Success
+2024-04-25 11:08:22.496[info] Sequelize sync Success!!!!!!
+2024-04-25 11:08:29.054[info] router/auth.js [object Object]
+2024-04-25 11:08:29.072[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQwMTA5MDksImV4cCI6MjA3NDAwNzMwOX0.tYCFL-4yhVX9ONlTQb_2hARI4NN3-fGv_jsfypbC5Ns"
+2024-04-25 11:08:29.073[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQwMTA5MDksImV4cCI6MjA3NDAwNzMwOX0.tYCFL-4yhVX9ONlTQb_2hARI4NN3-fGv_jsfypbC5Ns"
+2024-04-25 11:08:49.852[info] router/user.js [object Object]
+2024-04-25 11:08:49.854[debug] userService.reg - hashPassword: "123456"
+2024-04-25 11:08:49.982[debug] userService.reg : {"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","password":"dFfQIG1hy/l6OjogOvXYK/lzigK6qxf047Nx66QEoGTFq/1kvrU4jUcxL9rPvyK0uVblNXZqCWwIzEsAL3JeHg==.045c8d3e76999ad1e185e6b96610c742dface4b52b834d0b122dd44ced4b968a7f79b779f7f63f7a6807bc01355ca771ab72424f705bee48db9045090f3adcf3","role":"member2","email":"qsss@ddddd","phone":"12345","updatedAt":"2024-04-25T02:08:49.856Z","createdAt":"2024-04-25T02:08:49.856Z","updatedPwDate":null,"deletedAt":null}
+2024-04-25 11:08:49.983[info] router/user.js.reg.result: {"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","password":"dFfQIG1hy/l6OjogOvXYK/lzigK6qxf047Nx66QEoGTFq/1kvrU4jUcxL9rPvyK0uVblNXZqCWwIzEsAL3JeHg==.045c8d3e76999ad1e185e6b96610c742dface4b52b834d0b122dd44ced4b968a7f79b779f7f63f7a6807bc01355ca771ab72424f705bee48db9045090f3adcf3","role":"member2","email":"qsss@ddddd","phone":"12345","updatedAt":"2024-04-25T02:08:49.856Z","createdAt":"2024-04-25T02:08:49.856Z","updatedPwDate":null,"deletedAt":null}
+2024-04-25 11:08:58.749[info] router/comment.js [object Object]
+2024-04-25 11:08:58.750[error] Error: Not allowed null (postId)
+2024-04-25 11:08:58.760[debug] commentService.reg : {"id":2,"postId":null,"userId":38,"content":"댓글 부대 내가 댓글부대 선봉장이다.","updatedAt":"2024-04-25T02:08:58.752Z","createdAt":"2024-04-25T02:08:58.752Z","deletedAt":null}
+2024-04-25 11:09:40.969[info] server start!
+2024-04-25 11:09:41.178[info] DB connection Success
+2024-04-25 11:09:41.222[info] Sequelize sync Success!!!!!!
+2024-04-25 11:09:41.867[info] router/post.js [object Object]
+2024-04-25 11:09:41.888[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:09:41.889[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:09:48.340[info] router/post.js [object Object]
+2024-04-25 11:09:48.347[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_post_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:09:48.348[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_post_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:09:52.670[info] router/post.js [object Object]
+2024-04-25 11:09:52.674[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:09:52.674[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:09:58.401[info] router/post.js [object Object]
+2024-04-25 11:09:58.404[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:09:58.404[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:10:26.441[info] server start!
+2024-04-25 11:10:26.653[info] DB connection Success
+2024-04-25 11:10:26.692[info] Sequelize sync Success!!!!!!
+2024-04-25 11:10:28.575[info] router/post.js [object Object]
+2024-04-25 11:10:28.589[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:10:28.590[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:10:32.125[info] router/post.js [object Object]
+2024-04-25 11:10:32.128[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:10:32.129[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:10:45.888[info] server start!
+2024-04-25 11:10:46.131[info] DB connection Success
+2024-04-25 11:10:46.171[info] Sequelize sync Success!!!!!!
+2024-04-25 11:10:47.115[info] router/post.js [object Object]
+2024-04-25 11:10:47.130[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:10:47.131[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:11:08.169[info] router/post.js [object Object]
+2024-04-25 11:11:08.273[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:11:08.274[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:12:35.000[info] server start!
+2024-04-25 11:12:35.283[info] DB connection Success
+2024-04-25 11:12:35.328[info] Sequelize sync Success!!!!!!
+2024-04-25 11:12:37.108[info] router/post.js [object Object]
+2024-04-25 11:12:37.123[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:12:37.125[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:14:45.783[info] router/post.js [object Object]
+2024-04-25 11:14:45.978[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_hate_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_hate_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:14:45.979[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_hate_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_hate_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:16:31.660[info] router/post.js [object Object]
+2024-04-25 11:16:31.758[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:16:31.759[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:16:39.092[info] router/post.js [object Object]
+2024-04-25 11:16:39.095[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_post_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:16:39.095[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_post_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:16:42.632[info] router/post.js [object Object]
+2024-04-25 11:16:42.635[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:16:42.636[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:18:25.025[info] server start!
+2024-04-25 11:18:25.237[info] DB connection Success
+2024-04-25 11:18:25.317[info] Sequelize sync Success!!!!!!
+2024-04-25 11:18:26.963[info] router/post.js [object Object]
+2024-04-25 11:18:26.978[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:18:26.979[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:19:36.869[info] server start!
+2024-04-25 11:19:37.084[info] DB connection Success
+2024-04-25 11:19:37.136[info] Sequelize sync Success!!!!!!
+2024-04-25 11:19:41.400[info] router/post.js [object Object]
+2024-04-25 11:19:41.414[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:19:41.416[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:21:53.532[info] router/post.js [object Object]
+2024-04-25 11:21:53.717[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:21:53.720[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:23:33.085[info] server start!
+2024-04-25 11:23:33.464[info] DB connection Success
+2024-04-25 11:23:33.553[info] Sequelize sync Success!!!!!!
+2024-04-25 11:23:35.944[info] server start!
+2024-04-25 11:23:36.308[info] DB connection Success
+2024-04-25 11:23:36.412[info] Sequelize sync Success!!!!!!
+2024-04-25 11:23:38.141[info] router/post.js [object Object]
+2024-04-25 11:23:38.173[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:23:38.176[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:23:43.903[info] server start!
+2024-04-25 11:23:44.351[info] DB connection Success
+2024-04-25 11:23:44.435[info] Sequelize sync Success!!!!!!
+2024-04-25 11:25:11.056[info] server start!
+2024-04-25 11:25:11.516[info] DB connection Success
+2024-04-25 11:25:11.618[info] Sequelize sync Success!!!!!!
+2024-04-25 11:25:12.671[info] router/post.js [object Object]
+2024-04-25 11:25:12.702[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:25:12.704[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:25:22.334[info] server start!
+2024-04-25 11:25:22.724[info] DB connection Success
+2024-04-25 11:25:22.859[info] Sequelize sync Success!!!!!!
+2024-04-25 11:25:24.003[info] router/post.js [object Object]
+2024-04-25 11:25:24.034[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:25:24.037[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:26:31.604[info] server start!
+2024-04-25 11:26:31.914[info] DB connection Success
+2024-04-25 11:26:32.109[info] Sequelize sync Success!!!!!!
+2024-04-25 11:26:37.854[info] router/post.js [object Object]
+2024-04-25 11:26:37.921[debug] postService.reg : {"userId":37,"postId":4,"updatedAt":"2024-04-25T02:26:37.863Z","createdAt":"2024-04-25T02:26:37.863Z","deletedAt":null}
+2024-04-25 11:26:37.924[info] router/post.js.regLike.result: {"userId":37,"postId":4,"updatedAt":"2024-04-25T02:26:37.863Z","createdAt":"2024-04-25T02:26:37.863Z","deletedAt":null}
+2024-04-25 11:27:53.396[info] server start!
+2024-04-25 11:27:53.764[info] DB connection Success
+2024-04-25 11:27:53.847[info] Sequelize sync Success!!!!!!
+2024-04-25 11:28:17.737[info] server start!
+2024-04-25 11:28:18.097[info] DB connection Success
+2024-04-25 11:28:18.273[info] Sequelize sync Success!!!!!!
+2024-04-25 11:28:23.080[info] router/post.js [object Object]
+2024-04-25 11:28:23.135[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:28:23.140[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:28:35.714[info] server start!
+2024-04-25 11:28:36.050[info] DB connection Success
+2024-04-25 11:28:36.140[info] Sequelize sync Success!!!!!!
+2024-04-25 11:28:42.806[info] router/post.js [object Object]
+2024-04-25 11:28:42.855[error] postService.reg: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:28:42.859[error] router/post.js: SequelizeForeignKeyConstraintError: "post_user_like_joins" 테이블에서 자료 추가, 갱신 작업이 "post_user_like_joins_user_id_fkey" 참조키(foreign key) 제약 조건을 위배했습니다
+2024-04-25 11:29:02.744[info] server start!
+2024-04-25 11:29:03.096[info] DB connection Success
+2024-04-25 11:29:03.269[info] Sequelize sync Success!!!!!!
+2024-04-25 11:29:18.592[info] router/post.js [object Object]
+2024-04-25 11:29:18.815[debug] postService.reg : {"userId":37,"postId":4,"updatedAt":"2024-04-25T02:29:18.598Z","createdAt":"2024-04-25T02:29:18.598Z","deletedAt":null}
+2024-04-25 11:29:18.818[info] router/post.js.regLike.result: {"userId":37,"postId":4,"updatedAt":"2024-04-25T02:29:18.598Z","createdAt":"2024-04-25T02:29:18.598Z","deletedAt":null}
+2024-04-25 13:24:56.261[info] server start!
+2024-04-25 13:24:56.463[info] DB connection Success
+2024-04-25 13:24:56.511[info] Sequelize sync Success!!!!!!
+2024-04-25 13:59:50.202[info] server start!
+2024-04-25 13:59:50.401[info] DB connection Success
+2024-04-25 13:59:50.446[info] Sequelize sync Success!!!!!!
+2024-04-25 14:00:42.183[info] server start!
+2024-04-25 14:00:42.512[info] DB connection Success
+2024-04-25 14:00:42.558[info] Sequelize sync Success!!!!!!
+2024-04-25 14:01:39.478[info] server start!
+2024-04-25 14:01:39.698[info] DB connection Success
+2024-04-25 14:01:39.743[info] Sequelize sync Success!!!!!!
+2024-04-25 14:01:46.656[info] server start!
+2024-04-25 14:01:46.887[info] DB connection Success
+2024-04-25 14:01:46.930[info] Sequelize sync Success!!!!!!
+2024-04-25 14:01:54.413[info] server start!
+2024-04-25 14:01:54.619[info] DB connection Success
+2024-04-25 14:01:54.662[info] Sequelize sync Success!!!!!!
+2024-04-25 14:02:10.094[info] server start!
+2024-04-25 14:02:10.447[info] DB connection Success
+2024-04-25 14:02:10.514[info] Sequelize sync Success!!!!!!
+2024-04-25 14:02:27.318[info] server start!
+2024-04-25 14:02:27.524[info] DB connection Success
+2024-04-25 14:02:27.566[info] Sequelize sync Success!!!!!!
+2024-04-25 14:02:32.275[info] server start!
+2024-04-25 14:02:32.484[info] DB connection Success
+2024-04-25 14:02:32.526[info] Sequelize sync Success!!!!!!
+2024-04-25 14:04:00.612[info] server start!
+2024-04-25 14:04:00.920[info] DB connection Success
+2024-04-25 14:04:00.962[info] Sequelize sync Success!!!!!!
+2024-04-25 14:43:50.215[info] server start!
+2024-04-25 14:43:50.431[info] DB connection Success
+2024-04-25 14:43:50.485[info] Sequelize sync Success!!!!!!
+2024-04-25 14:44:47.559[info] server start!
+2024-04-25 14:44:47.777[info] DB connection Success
+2024-04-25 14:44:47.835[info] Sequelize sync Success!!!!!!
+2024-04-25 14:45:09.050[info] server start!
+2024-04-25 14:45:09.271[info] DB connection Success
+2024-04-25 14:45:09.313[info] Sequelize sync Success!!!!!!
+2024-04-25 14:45:33.513[info] server start!
+2024-04-25 14:45:33.717[info] DB connection Success
+2024-04-25 14:45:33.761[info] Sequelize sync Success!!!!!!
+2024-04-25 14:46:24.485[info] server start!
+2024-04-25 14:46:24.702[info] DB connection Success
+2024-04-25 14:46:24.744[info] Sequelize sync Success!!!!!!
+2024-04-25 14:46:42.859[info] server start!
+2024-04-25 14:46:43.073[info] DB connection Success
+2024-04-25 14:46:43.121[info] Sequelize sync Success!!!!!!
+2024-04-25 14:47:06.215[info] server start!
+2024-04-25 14:47:06.426[info] DB connection Success
+2024-04-25 14:47:06.466[info] Sequelize sync Success!!!!!!
+2024-04-25 14:47:09.456[error] ./router/weather.js.map: RangeError: Invalid time value
+2024-04-25 14:47:22.572[info] server start!
+2024-04-25 14:47:22.842[info] DB connection Success
+2024-04-25 14:47:22.890[info] Sequelize sync Success!!!!!!
+2024-04-25 14:47:36.115[info] server start!
+2024-04-25 14:47:36.337[info] DB connection Success
+2024-04-25 14:47:36.377[info] Sequelize sync Success!!!!!!
+2024-04-25 14:52:39.885[info] server start!
+2024-04-25 14:52:40.091[info] DB connection Success
+2024-04-25 14:52:40.142[info] Sequelize sync Success!!!!!!
+2024-04-25 14:53:29.803[info] server start!
+2024-04-25 14:53:30.049[info] DB connection Success
+2024-04-25 14:53:30.127[info] Sequelize sync Success!!!!!!
+2024-04-25 14:53:45.361[info] server start!
+2024-04-25 14:53:45.578[info] DB connection Success
+2024-04-25 14:53:45.624[info] Sequelize sync Success!!!!!!
+2024-04-25 14:55:30.048[info] server start!
+2024-04-25 14:55:30.269[info] DB connection Success
+2024-04-25 14:55:30.321[info] Sequelize sync Success!!!!!!
+2024-04-25 14:55:47.474[info] server start!
+2024-04-25 14:55:47.685[info] DB connection Success
+2024-04-25 14:55:47.729[info] Sequelize sync Success!!!!!!
+2024-04-25 14:56:17.840[info] server start!
+2024-04-25 14:56:18.048[info] DB connection Success
+2024-04-25 14:56:18.091[info] Sequelize sync Success!!!!!!
+2024-04-25 14:58:01.107[info] server start!
+2024-04-25 14:58:01.335[info] DB connection Success
+2024-04-25 14:58:01.384[info] Sequelize sync Success!!!!!!
+2024-04-25 14:59:23.628[info] server start!
+2024-04-25 14:59:23.884[info] DB connection Success
+2024-04-25 14:59:23.937[info] Sequelize sync Success!!!!!!
+2024-04-25 14:59:58.955[info] server start!
+2024-04-25 14:59:59.163[info] DB connection Success
+2024-04-25 14:59:59.209[info] Sequelize sync Success!!!!!!
+2024-04-25 15:01:58.172[info] server start!
+2024-04-25 15:01:58.375[info] DB connection Success
+2024-04-25 15:01:58.417[info] Sequelize sync Success!!!!!!
+2024-04-25 15:02:04.307[info] server start!
+2024-04-25 15:02:04.595[info] DB connection Success
+2024-04-25 15:02:04.637[info] Sequelize sync Success!!!!!!
+2024-04-25 15:02:24.412[info] server start!
+2024-04-25 15:02:24.912[info] DB connection Success
+2024-04-25 15:02:24.984[info] Sequelize sync Success!!!!!!
+2024-04-25 15:02:43.079[info] server start!
+2024-04-25 15:02:43.312[info] DB connection Success
+2024-04-25 15:02:43.358[info] Sequelize sync Success!!!!!!
+2024-04-25 15:03:22.029[info] server start!
+2024-04-25 15:03:22.234[info] DB connection Success
+2024-04-25 15:03:22.273[info] Sequelize sync Success!!!!!!
+2024-04-25 15:04:03.336[info] server start!
+2024-04-25 15:04:03.544[info] DB connection Success
+2024-04-25 15:04:03.588[info] Sequelize sync Success!!!!!!
+2024-04-25 15:04:13.363[info] server start!
+2024-04-25 15:04:13.571[info] DB connection Success
+2024-04-25 15:04:13.611[info] Sequelize sync Success!!!!!!
+2024-04-25 15:05:30.571[info] server start!
+2024-04-25 15:05:30.800[info] DB connection Success
+2024-04-25 15:05:30.846[info] Sequelize sync Success!!!!!!
+2024-04-25 15:05:31.522[error] ./router/weather.js.map: TypeError: Cannot read properties of undefined (reading 'end')
+2024-04-25 15:08:49.282[error] ./router/weather.js.map: TypeError: Cannot read properties of undefined (reading 'end')
+2024-04-25 15:09:23.252[info] server start!
+2024-04-25 15:09:23.576[info] DB connection Success
+2024-04-25 15:09:23.622[info] Sequelize sync Success!!!!!!
+2024-04-25 15:13:12.161[info] server start!
+2024-04-25 15:13:12.386[info] DB connection Success
+2024-04-25 15:13:12.427[info] Sequelize sync Success!!!!!!
+2024-04-25 15:13:30.640[info] server start!
+2024-04-25 15:13:30.925[info] DB connection Success
+2024-04-25 15:13:30.965[info] Sequelize sync Success!!!!!!
+2024-04-25 15:13:34.495[error] ./router/weather.js.map: TypeError: Cannot read properties of undefined (reading 'end')
+2024-04-25 15:13:48.979[info] server start!
+2024-04-25 15:13:49.206[info] DB connection Success
+2024-04-25 15:13:49.249[info] Sequelize sync Success!!!!!!
+2024-04-25 15:13:55.395[error] ./router/weather.js.map: TypeError: Cannot read properties of undefined (reading 'end')
+2024-04-25 15:14:24.480[info] server start!
+2024-04-25 15:14:24.684[info] DB connection Success
+2024-04-25 15:14:24.723[info] Sequelize sync Success!!!!!!
+2024-04-25 15:14:26.476[error] ./router/weather.js.map: TypeError: Cannot read properties of undefined (reading 'end')
+2024-04-25 15:14:53.256[info] server start!
+2024-04-25 15:14:53.612[info] DB connection Success
+2024-04-25 15:14:53.656[info] Sequelize sync Success!!!!!!
+2024-04-25 15:15:13.064[info] server start!
+2024-04-25 15:15:13.372[info] DB connection Success
+2024-04-25 15:15:13.410[info] Sequelize sync Success!!!!!!
+2024-04-25 15:15:24.444[info] server start!
+2024-04-25 15:15:24.754[info] DB connection Success
+2024-04-25 15:15:24.793[info] Sequelize sync Success!!!!!!
+2024-04-25 15:15:45.335[info] server start!
+2024-04-25 15:15:45.553[info] DB connection Success
+2024-04-25 15:15:45.606[info] Sequelize sync Success!!!!!!
+2024-04-25 15:15:48.390[info] server start!
+2024-04-25 15:15:48.593[info] DB connection Success
+2024-04-25 15:15:48.636[info] Sequelize sync Success!!!!!!
+2024-04-25 15:15:52.387[info] server start!
+2024-04-25 15:15:52.594[info] DB connection Success
+2024-04-25 15:15:52.640[info] Sequelize sync Success!!!!!!
+2024-04-25 15:15:54.078[error] ./router/weather.js.map: TypeError: Cannot read properties of undefined (reading 'end')
+2024-04-25 15:16:26.388[info] server start!
+2024-04-25 15:16:26.771[info] DB connection Success
+2024-04-25 15:16:26.819[info] Sequelize sync Success!!!!!!
+2024-04-25 15:16:53.159[info] server start!
+2024-04-25 15:16:53.489[info] DB connection Success
+2024-04-25 15:16:53.542[info] Sequelize sync Success!!!!!!
+2024-04-25 15:16:55.277[info] server start!
+2024-04-25 15:16:55.486[info] DB connection Success
+2024-04-25 15:16:55.525[info] Sequelize sync Success!!!!!!
+2024-04-25 15:16:58.871[error] ./router/weather.js.map: TypeError: Cannot read properties of undefined (reading 'toString')
+2024-04-25 15:17:07.600[info] server start!
+2024-04-25 15:17:07.975[info] DB connection Success
+2024-04-25 15:17:08.027[info] Sequelize sync Success!!!!!!
+2024-04-25 15:17:54.419[info] server start!
+2024-04-25 15:17:54.626[info] DB connection Success
+2024-04-25 15:17:54.665[info] Sequelize sync Success!!!!!!
+2024-04-25 15:19:09.957[info] server start!
+2024-04-25 15:19:10.163[info] DB connection Success
+2024-04-25 15:19:10.208[info] Sequelize sync Success!!!!!!
+2024-04-25 15:19:48.478[info] server start!
+2024-04-25 15:19:48.779[info] DB connection Success
+2024-04-25 15:19:48.818[info] Sequelize sync Success!!!!!!
+2024-04-25 15:20:14.068[info] server start!
+2024-04-25 15:20:14.376[info] DB connection Success
+2024-04-25 15:20:14.416[info] Sequelize sync Success!!!!!!
+2024-04-25 15:20:46.752[info] server start!
+2024-04-25 15:20:46.991[info] DB connection Success
+2024-04-25 15:20:47.030[info] Sequelize sync Success!!!!!!
+2024-04-25 15:21:05.614[info] server start!
+2024-04-25 15:21:05.813[info] DB connection Success
+2024-04-25 15:21:05.852[info] Sequelize sync Success!!!!!!
+2024-04-25 15:21:10.595[info] server start!
+2024-04-25 15:21:10.805[info] DB connection Success
+2024-04-25 15:21:10.872[info] Sequelize sync Success!!!!!!
+2024-04-25 15:21:44.243[info] server start!
+2024-04-25 15:21:44.565[info] DB connection Success
+2024-04-25 15:21:44.608[info] Sequelize sync Success!!!!!!
+2024-04-25 15:21:47.594[info] server start!
+2024-04-25 15:21:47.826[info] DB connection Success
+2024-04-25 15:21:47.867[info] Sequelize sync Success!!!!!!
+2024-04-25 15:22:31.225[info] server start!
+2024-04-25 15:22:31.437[info] DB connection Success
+2024-04-25 15:22:31.479[info] Sequelize sync Success!!!!!!
+2024-04-25 15:25:23.165[info] server start!
+2024-04-25 15:25:23.399[info] DB connection Success
+2024-04-25 15:25:23.447[info] Sequelize sync Success!!!!!!
+2024-04-25 15:25:34.658[info] server start!
+2024-04-25 15:25:34.903[info] DB connection Success
+2024-04-25 15:25:34.954[info] Sequelize sync Success!!!!!!
+2024-04-25 15:26:10.397[info] server start!
+2024-04-25 15:26:10.620[info] DB connection Success
+2024-04-25 15:26:10.669[info] Sequelize sync Success!!!!!!
+2024-04-25 15:26:16.280[info] server start!
+2024-04-25 15:26:16.499[info] DB connection Success
+2024-04-25 15:26:16.546[info] Sequelize sync Success!!!!!!
+2024-04-25 15:26:45.793[info] server start!
+2024-04-25 15:26:46.008[info] DB connection Success
+2024-04-25 15:26:46.057[info] Sequelize sync Success!!!!!!
+2024-04-25 15:26:59.056[info] server start!
+2024-04-25 15:26:59.372[info] DB connection Success
+2024-04-25 15:26:59.418[info] Sequelize sync Success!!!!!!
+2024-04-25 15:27:02.831[error] ./router/weather.js.map: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+2024-04-25 15:28:18.418[info] server start!
+2024-04-25 15:28:18.721[info] DB connection Success
+2024-04-25 15:28:18.767[info] Sequelize sync Success!!!!!!
+2024-04-25 15:28:23.189[info] server start!
+2024-04-25 15:28:23.398[info] DB connection Success
+2024-04-25 15:28:23.444[info] Sequelize sync Success!!!!!!
+2024-04-25 15:28:27.260[error] ./router/weather.js.map: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+2024-04-25 15:29:43.637[info] server start!
+2024-04-25 15:29:43.843[info] DB connection Success
+2024-04-25 15:29:43.886[info] Sequelize sync Success!!!!!!
+2024-04-25 15:31:04.982[info] server start!
+2024-04-25 15:31:05.308[info] DB connection Success
+2024-04-25 15:31:05.361[info] Sequelize sync Success!!!!!!
+2024-04-25 15:31:19.189[info] server start!
+2024-04-25 15:31:19.398[info] DB connection Success
+2024-04-25 15:31:19.439[info] Sequelize sync Success!!!!!!
+2024-04-25 15:31:30.036[info] server start!
+2024-04-25 15:31:30.357[info] DB connection Success
+2024-04-25 15:31:30.398[info] Sequelize sync Success!!!!!!
+2024-04-25 15:31:38.837[info] server start!
+2024-04-25 15:31:39.052[info] DB connection Success
+2024-04-25 15:31:39.094[info] Sequelize sync Success!!!!!!
+2024-04-25 15:31:55.085[error] ./router/weather.js.map: TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received an instance of Object
+2024-04-25 15:32:32.934[info] server start!
+2024-04-25 15:32:33.176[info] DB connection Success
+2024-04-25 15:32:33.251[info] Sequelize sync Success!!!!!!
+2024-04-25 15:32:50.985[info] server start!
+2024-04-25 15:32:51.301[info] DB connection Success
+2024-04-25 15:32:51.347[info] Sequelize sync Success!!!!!!
+2024-04-25 15:33:20.797[info] server start!
+2024-04-25 15:33:21.015[info] DB connection Success
+2024-04-25 15:33:21.055[info] Sequelize sync Success!!!!!!
+2024-04-25 15:34:32.506[info] server start!
+2024-04-25 15:34:32.829[info] DB connection Success
+2024-04-25 15:34:32.868[info] Sequelize sync Success!!!!!!
+2024-04-25 15:47:38.302[info] server start!
+2024-04-25 15:47:38.507[info] DB connection Success
+2024-04-25 15:47:38.552[info] Sequelize sync Success!!!!!!
+2024-04-25 15:47:44.125[info] server start!
+2024-04-25 15:47:44.410[info] DB connection Success
+2024-04-25 15:47:44.469[info] Sequelize sync Success!!!!!!
+2024-04-25 15:47:45.993[info] server start!
+2024-04-25 15:47:46.197[info] DB connection Success
+2024-04-25 15:47:46.239[info] Sequelize sync Success!!!!!!
+2024-04-25 15:48:00.284[info] server start!
+2024-04-25 15:48:00.597[info] DB connection Success
+2024-04-25 15:48:00.637[info] Sequelize sync Success!!!!!!
+2024-04-25 15:48:45.979[error] ./router/weather.js.map: TypeError: result.filter is not a function
+2024-04-25 15:49:10.462[info] server start!
+2024-04-25 15:49:10.915[info] DB connection Success
+2024-04-25 15:49:10.954[info] Sequelize sync Success!!!!!!
+2024-04-25 16:12:57.224[info] server start!
+2024-04-25 16:12:57.644[info] DB connection Success
+2024-04-25 16:12:57.695[info] Sequelize sync Success!!!!!!
+2024-04-25 16:13:39.251[info] server start!
+2024-04-25 16:13:39.492[info] DB connection Success
+2024-04-25 16:13:39.541[info] Sequelize sync Success!!!!!!
+2024-04-25 16:14:35.667[info] server start!
+2024-04-25 16:14:35.985[info] DB connection Success
+2024-04-25 16:14:36.025[info] Sequelize sync Success!!!!!!
+2024-04-25 16:17:57.595[info] server start!
+2024-04-25 16:17:57.871[info] DB connection Success
+2024-04-25 16:17:57.928[info] Sequelize sync Success!!!!!!
+2024-04-25 16:21:36.346[info] server start!
+2024-04-25 16:21:36.561[info] DB connection Success
+2024-04-25 16:21:36.602[info] Sequelize sync Success!!!!!!
+2024-04-25 17:20:06.435[info] server start!
+2024-04-25 17:20:06.690[info] DB connection Success
+2024-04-25 17:20:06.736[info] Sequelize sync Success!!!!!!
+2024-04-25 17:20:18.269[info] server start!
+2024-04-25 17:20:18.599[info] DB connection Success
+2024-04-25 17:20:18.660[info] Sequelize sync Success!!!!!!
+2024-04-25 17:20:34.494[info] server start!
+2024-04-25 17:20:34.697[info] DB connection Success
+2024-04-25 17:20:34.738[info] Sequelize sync Success!!!!!!
+2024-04-25 17:21:08.976[info] server start!
+2024-04-25 17:21:09.183[info] DB connection Success
+2024-04-25 17:21:09.225[info] Sequelize sync Success!!!!!!
+2024-04-25 18:58:00.639[info] server start!
+2024-04-25 18:58:01.015[info] DB connection Success
+2024-04-25 18:58:01.100[info] Sequelize sync Success!!!!!!
+2024-04-25 19:00:53.151[info] server start!
+2024-04-25 19:00:53.471[info] DB connection Success
+2024-04-25 19:00:53.517[info] Sequelize sync Success!!!!!!
+2024-04-25 19:01:24.787[info] server start!
+2024-04-25 19:01:25.008[info] DB connection Success
+2024-04-25 19:01:25.094[info] Sequelize sync Success!!!!!!
+2024-04-25 19:01:43.164[info] server start!
+2024-04-25 19:01:43.519[info] DB connection Success
+2024-04-25 19:01:43.557[info] Sequelize sync Success!!!!!!
+2024-04-25 20:07:46.977[info] server start!
+2024-04-25 20:07:47.198[info] DB connection Success
+2024-04-25 20:07:47.255[info] Sequelize sync Success!!!!!!
+2024-04-25 20:08:11.981[info] server start!
+2024-04-25 20:08:12.218[info] DB connection Success
+2024-04-25 20:08:12.260[info] Sequelize sync Success!!!!!!
+2024-04-25 20:19:17.633[info] server start!
+2024-04-25 20:19:18.063[info] DB connection Success
+2024-04-25 20:19:18.115[info] Sequelize sync Success!!!!!!
+2024-04-25 20:19:31.355[info] server start!
+2024-04-25 20:19:31.600[info] DB connection Success
+2024-04-25 20:19:31.649[info] Sequelize sync Success!!!!!!
+2024-04-25 20:19:59.502[info] server start!
+2024-04-25 20:19:59.735[info] DB connection Success
+2024-04-25 20:19:59.783[info] Sequelize sync Success!!!!!!
+2024-04-25 20:20:11.952[info] server start!
+2024-04-25 20:20:12.162[info] DB connection Success
+2024-04-25 20:20:12.207[info] Sequelize sync Success!!!!!!
+2024-04-25 20:20:32.320[info] server start!
+2024-04-25 20:20:32.646[info] DB connection Success
+2024-04-25 20:20:32.702[info] Sequelize sync Success!!!!!!
+2024-04-25 20:20:38.941[info] server start!
+2024-04-25 20:20:39.258[info] DB connection Success
+2024-04-25 20:20:39.329[info] Sequelize sync Success!!!!!!
+2024-04-25 20:21:28.696[info] server start!
+2024-04-25 20:21:29.148[info] DB connection Success
+2024-04-25 20:21:29.215[info] Sequelize sync Success!!!!!!
+2024-04-25 20:23:00.939[info] server start!
+2024-04-25 20:23:01.166[info] DB connection Success
+2024-04-25 20:23:01.205[info] Sequelize sync Success!!!!!!
+2024-04-25 20:23:31.589[info] server start!
+2024-04-25 20:23:31.827[info] DB connection Success
+2024-04-25 20:23:31.883[info] Sequelize sync Success!!!!!!
+2024-04-25 20:23:35.028[info] server start!
+2024-04-25 20:23:35.272[info] DB connection Success
+2024-04-25 20:23:35.317[info] Sequelize sync Success!!!!!!
+2024-04-25 20:23:39.175[info] server start!
+2024-04-25 20:23:39.469[info] DB connection Success
+2024-04-25 20:23:39.516[info] Sequelize sync Success!!!!!!
+2024-04-25 20:28:34.801[info] server start!
+2024-04-25 20:28:35.082[info] DB connection Success
+2024-04-25 20:28:35.132[info] Sequelize sync Success!!!!!!
+2024-04-25 20:28:37.273[info] server start!
+2024-04-25 20:28:37.584[info] DB connection Success
+2024-04-25 20:28:37.635[info] Sequelize sync Success!!!!!!
+2024-04-25 20:28:41.425[info] server start!
+2024-04-25 20:28:41.850[info] DB connection Success
+2024-04-25 20:28:41.904[info] Sequelize sync Success!!!!!!
+2024-04-25 20:32:37.347[info] server start!
+2024-04-25 20:32:37.572[info] DB connection Success
+2024-04-25 20:32:37.622[info] Sequelize sync Success!!!!!!
+2024-04-25 20:33:37.517[info] server start!
+2024-04-25 20:33:37.772[info] DB connection Success
+2024-04-25 20:33:37.824[info] Sequelize sync Success!!!!!!
+2024-04-25 20:34:44.241[info] server start!
+2024-04-25 20:34:44.487[info] DB connection Success
+2024-04-25 20:34:44.529[info] Sequelize sync Success!!!!!!
+2024-04-25 20:34:57.361[error] ./router/weather.js.map: ReferenceError: document is not defined
+2024-04-25 20:35:00.389[error] ./router/weather.js.map: ReferenceError: document is not defined
+2024-04-25 20:35:17.131[error] 에러입니다.
+2024-04-25 20:35:17.132[warn] 경고입니다!
+2024-04-25 20:35:17.133[info] 정보로그입니다!
+2024-04-25 20:35:17.134[debug] 로그테스트 debug!
+2024-04-25 20:35:17.135[verbose] 로그테스트 verbose!
+2024-04-25 20:35:21.381[error] ./router/weather.js.map: ReferenceError: document is not defined
+2024-04-25 20:35:37.034[info] server start!
+2024-04-25 20:35:37.383[info] DB connection Success
+2024-04-25 20:35:37.432[info] Sequelize sync Success!!!!!!
+2024-04-25 20:35:59.351[info] server start!
+2024-04-25 20:35:59.726[info] DB connection Success
+2024-04-25 20:35:59.778[info] Sequelize sync Success!!!!!!
+2024-04-25 20:36:00.607[error] ./router/weather.js.map: ReferenceError: document is not defined
+2024-04-25 20:36:28.333[info] server start!
+2024-04-25 20:36:28.736[info] DB connection Success
+2024-04-25 20:36:28.788[info] Sequelize sync Success!!!!!!
+2024-04-25 20:36:31.353[info] server start!
+2024-04-25 20:36:31.603[info] DB connection Success
+2024-04-25 20:36:31.650[info] Sequelize sync Success!!!!!!
+2024-04-25 20:36:33.910[info] server start!
+2024-04-25 20:36:34.158[info] DB connection Success
+2024-04-25 20:36:34.207[info] Sequelize sync Success!!!!!!
+2024-04-25 20:36:37.872[error] ./router/weather.js.map: ReferenceError: document is not defined
+2024-04-25 20:37:00.389[info] server start!
+2024-04-25 20:37:00.653[info] DB connection Success
+2024-04-25 20:37:00.699[info] Sequelize sync Success!!!!!!
+2024-04-25 20:37:03.186[error] ./router/weather.js.map: ReferenceError: document is not defined
+2024-04-25 20:37:38.078[info] server start!
+2024-04-25 20:37:38.419[info] DB connection Success
+2024-04-25 20:37:38.495[info] Sequelize sync Success!!!!!!
+2024-04-25 20:37:42.814[info] server start!
+2024-04-25 20:37:43.058[info] DB connection Success
+2024-04-25 20:37:43.107[info] Sequelize sync Success!!!!!!
+2024-04-25 20:37:43.409[error] ./router/weather.js.map: ReferenceError: document is not defined
+2024-04-25 20:38:18.466[info] server start!
+2024-04-25 20:38:18.695[info] DB connection Success
+2024-04-25 20:38:18.750[info] Sequelize sync Success!!!!!!
+2024-04-25 20:38:48.370[info] server start!
+2024-04-25 20:38:48.720[info] DB connection Success
+2024-04-25 20:38:48.772[info] Sequelize sync Success!!!!!!
+2024-04-25 20:38:51.671[info] server start!
+2024-04-25 20:38:52.028[info] DB connection Success
+2024-04-25 20:38:52.078[info] Sequelize sync Success!!!!!!
+2024-04-25 20:39:01.094[info] server start!
+2024-04-25 20:39:01.400[info] DB connection Success
+2024-04-25 20:39:01.446[info] Sequelize sync Success!!!!!!
+2024-04-25 20:39:14.744[error] ./router/weather.js.map: ReferenceError: document is not defined
+2024-04-25 20:40:28.064[info] server start!
+2024-04-25 20:40:28.428[info] DB connection Success
+2024-04-25 20:40:28.484[info] Sequelize sync Success!!!!!!
+2024-04-25 20:40:34.228[info] server start!
+2024-04-25 20:40:34.500[info] DB connection Success
+2024-04-25 20:40:34.557[info] Sequelize sync Success!!!!!!
+2024-04-25 20:42:21.195[info] server start!
+2024-04-25 20:42:21.415[info] DB connection Success
+2024-04-25 20:42:21.458[info] Sequelize sync Success!!!!!!
+2024-04-25 20:42:26.338[info] server start!
+2024-04-25 20:42:26.642[info] DB connection Success
+2024-04-25 20:42:26.693[info] Sequelize sync Success!!!!!!
+2024-04-25 20:44:17.383[info] server start!
+2024-04-25 20:44:17.713[info] DB connection Success
+2024-04-25 20:44:17.769[info] Sequelize sync Success!!!!!!
+2024-04-25 20:45:00.434[info] server start!
+2024-04-25 20:45:00.733[info] DB connection Success
+2024-04-25 20:45:00.805[info] Sequelize sync Success!!!!!!
+2024-04-25 20:45:19.008[info] server start!
+2024-04-25 20:45:19.288[info] DB connection Success
+2024-04-25 20:45:19.336[info] Sequelize sync Success!!!!!!
+2024-04-25 20:45:23.199[info] server start!
+2024-04-25 20:45:23.620[info] DB connection Success
+2024-04-25 20:45:23.674[info] Sequelize sync Success!!!!!!
+2024-04-25 20:46:41.525[info] server start!
+2024-04-25 20:46:41.773[info] DB connection Success
+2024-04-25 20:46:41.822[info] Sequelize sync Success!!!!!!
+2024-04-25 20:47:28.713[info] server start!
+2024-04-25 20:47:28.985[info] DB connection Success
+2024-04-25 20:47:29.172[info] Sequelize sync Success!!!!!!
+2024-04-25 20:47:32.344[info] server start!
+2024-04-25 20:47:32.636[info] DB connection Success
+2024-04-25 20:47:32.684[info] Sequelize sync Success!!!!!!
+2024-04-25 20:48:55.239[info] server start!
+2024-04-25 20:48:55.501[info] DB connection Success
+2024-04-25 20:48:55.554[info] Sequelize sync Success!!!!!!
+2024-04-25 20:49:08.989[info] server start!
+2024-04-25 20:49:09.356[info] DB connection Success
+2024-04-25 20:49:09.423[info] Sequelize sync Success!!!!!!
+2024-04-25 20:49:12.860[info] (user.list.params) {"ids":null,"departmentIds":null}
+2024-04-25 20:49:12.891[debug] (userService.list) {"count":27,"rows":[{"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:49.856Z","updatedAt":"2024-04-25T02:08:49.856Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:05.177Z","updatedAt":"2024-04-25T02:08:05.177Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":38,"departmentId":5,"name":"인턴4","userid":"uuuu2","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T01:24:46.077Z","updatedAt":"2024-04-25T01:24:46.077Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":36,"departmentId":5,"name":"인턴4","userid":"uuuu1","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:39:34.684Z","updatedAt":"2024-04-25T00:39:34.684Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":34,"departmentId":5,"name":"인턴4","userid":"user5","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:43.549Z","updatedAt":"2024-04-25T00:37:43.549Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":33,"departmentId":5,"name":"인턴4","userid":"user4","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:09.358Z","updatedAt":"2024-04-25T00:37:09.358Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":31,"departmentId":5,"name":"인턴4","userid":"user3","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:36:51.390Z","updatedAt":"2024-04-25T00:36:51.390Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":30,"departmentId":7,"name":"인턴3","userid":"user2","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:35:03.021Z","updatedAt":"2024-04-25T00:35:03.021Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":28,"departmentId":7,"name":"인턴3","userid":"user1","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:34:50.103Z","updatedAt":"2024-04-25T00:34:50.103Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":26,"departmentId":7,"name":"인턴3","userid":"ttestw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T08:13:49.302Z","updatedAt":"2024-04-23T08:13:49.302Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":25,"departmentId":7,"name":"인턴3","userid":"ttest","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T07:04:50.238Z","updatedAt":"2024-04-23T07:04:50.238Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":24,"departmentId":7,"name":"인턴3","userid":"sda22","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T06:41:35.608Z","updatedAt":"2024-04-23T06:41:35.608Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":23,"departmentId":7,"name":"인턴3","userid":"sdasw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:57:56.470Z","updatedAt":"2024-04-23T05:57:56.470Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":22,"departmentId":7,"name":"인턴3","userid":"sdas","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:30:13.711Z","updatedAt":"2024-04-23T05:30:13.711Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":20,"departmentId":7,"name":"인턴3","userid":"ioioio","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:29:13.887Z","updatedAt":"2024-04-23T05:29:13.887Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":18,"departmentId":7,"name":"인턴3","userid":"dfsd","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:28:41.405Z","updatedAt":"2024-04-23T05:28:41.405Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":15,"departmentId":2,"name":"인턴","userid":"ms3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:40.008Z","updatedAt":"2024-04-23T05:26:40.008Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":13,"departmentId":2,"name":"인턴","userid":"master3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:35.310Z","updatedAt":"2024-04-23T05:26:35.310Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":11,"departmentId":2,"name":"인턴","userid":"master2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:23:40.981Z","updatedAt":"2024-04-23T04:23:40.981Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":10,"departmentId":2,"name":"사원","userid":"master","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:20.081Z","updatedAt":"2024-04-23T04:19:20.081Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":9,"departmentId":2,"name":"사장","userid":"egf2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:08.339Z","updatedAt":"2024-04-23T04:19:08.339Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":7,"departmentId":2,"name":"이사","userid":"egf","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:59.178Z","updatedAt":"2024-04-23T04:18:59.178Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":6,"departmentId":2,"name":"이사","userid":"abc2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:54.464Z","updatedAt":"2024-04-23T04:18:54.464Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":5,"departmentId":2,"name":"이사","userid":"ㄷ구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:49.296Z","updatedAt":"2024-04-23T04:18:49.296Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":4,"departmentId":2,"name":"이사","userid":"구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:44.165Z","updatedAt":"2024-04-23T04:18:44.165Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":3,"departmentId":2,"name":"이사","userid":"2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:34.856Z","updatedAt":"2024-04-23T04:18:34.856Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":1,"departmentId":1,"name":"김개발","userid":"tes1","role":"member","email":"qsss@ddddd","phone":"1","updatedPwDate":null,"createdAt":"2024-04-23T04:18:05.048Z","updatedAt":"2024-04-23T04:18:05.048Z","deletedAt":null,"Department":{"id":1,"name":"이름수정1","code":"수정하는중","createdAt":"2024-04-22T07:41:28.065Z"}}]}
+2024-04-25 20:49:12.899[info] (user.list.result) {"count":27,"rows":[{"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:49.856Z","updatedAt":"2024-04-25T02:08:49.856Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:05.177Z","updatedAt":"2024-04-25T02:08:05.177Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":38,"departmentId":5,"name":"인턴4","userid":"uuuu2","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T01:24:46.077Z","updatedAt":"2024-04-25T01:24:46.077Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":36,"departmentId":5,"name":"인턴4","userid":"uuuu1","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:39:34.684Z","updatedAt":"2024-04-25T00:39:34.684Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":34,"departmentId":5,"name":"인턴4","userid":"user5","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:43.549Z","updatedAt":"2024-04-25T00:37:43.549Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":33,"departmentId":5,"name":"인턴4","userid":"user4","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:09.358Z","updatedAt":"2024-04-25T00:37:09.358Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":31,"departmentId":5,"name":"인턴4","userid":"user3","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:36:51.390Z","updatedAt":"2024-04-25T00:36:51.390Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":30,"departmentId":7,"name":"인턴3","userid":"user2","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:35:03.021Z","updatedAt":"2024-04-25T00:35:03.021Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":28,"departmentId":7,"name":"인턴3","userid":"user1","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:34:50.103Z","updatedAt":"2024-04-25T00:34:50.103Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":26,"departmentId":7,"name":"인턴3","userid":"ttestw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T08:13:49.302Z","updatedAt":"2024-04-23T08:13:49.302Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":25,"departmentId":7,"name":"인턴3","userid":"ttest","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T07:04:50.238Z","updatedAt":"2024-04-23T07:04:50.238Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":24,"departmentId":7,"name":"인턴3","userid":"sda22","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T06:41:35.608Z","updatedAt":"2024-04-23T06:41:35.608Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":23,"departmentId":7,"name":"인턴3","userid":"sdasw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:57:56.470Z","updatedAt":"2024-04-23T05:57:56.470Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":22,"departmentId":7,"name":"인턴3","userid":"sdas","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:30:13.711Z","updatedAt":"2024-04-23T05:30:13.711Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":20,"departmentId":7,"name":"인턴3","userid":"ioioio","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:29:13.887Z","updatedAt":"2024-04-23T05:29:13.887Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":18,"departmentId":7,"name":"인턴3","userid":"dfsd","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:28:41.405Z","updatedAt":"2024-04-23T05:28:41.405Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":15,"departmentId":2,"name":"인턴","userid":"ms3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:40.008Z","updatedAt":"2024-04-23T05:26:40.008Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":13,"departmentId":2,"name":"인턴","userid":"master3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:35.310Z","updatedAt":"2024-04-23T05:26:35.310Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":11,"departmentId":2,"name":"인턴","userid":"master2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:23:40.981Z","updatedAt":"2024-04-23T04:23:40.981Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":10,"departmentId":2,"name":"사원","userid":"master","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:20.081Z","updatedAt":"2024-04-23T04:19:20.081Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":9,"departmentId":2,"name":"사장","userid":"egf2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:08.339Z","updatedAt":"2024-04-23T04:19:08.339Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":7,"departmentId":2,"name":"이사","userid":"egf","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:59.178Z","updatedAt":"2024-04-23T04:18:59.178Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":6,"departmentId":2,"name":"이사","userid":"abc2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:54.464Z","updatedAt":"2024-04-23T04:18:54.464Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":5,"departmentId":2,"name":"이사","userid":"ㄷ구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:49.296Z","updatedAt":"2024-04-23T04:18:49.296Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":4,"departmentId":2,"name":"이사","userid":"구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:44.165Z","updatedAt":"2024-04-23T04:18:44.165Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":3,"departmentId":2,"name":"이사","userid":"2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:34.856Z","updatedAt":"2024-04-23T04:18:34.856Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":1,"departmentId":1,"name":"김개발","userid":"tes1","role":"member","email":"qsss@ddddd","phone":"1","updatedPwDate":null,"createdAt":"2024-04-23T04:18:05.048Z","updatedAt":"2024-04-23T04:18:05.048Z","deletedAt":null,"Department":{"id":1,"name":"이름수정1","code":"수정하는중","createdAt":"2024-04-22T07:41:28.065Z"}}]}
+2024-04-25 20:50:22.114[info] server start!
+2024-04-25 20:50:22.693[info] DB connection Success
+2024-04-25 20:50:22.746[info] Sequelize sync Success!!!!!!
+2024-04-25 20:50:30.932[info] server start!
+2024-04-25 20:50:32.582[info] server start!
+2024-04-25 20:50:32.820[info] DB connection Success
+2024-04-25 20:50:32.869[info] Sequelize sync Success!!!!!!
+2024-04-25 20:50:35.186[info] (user.list.params) {"ids":null,"departmentIds":null}
+2024-04-25 20:50:35.220[debug] (userService.list) {"count":27,"rows":[{"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:49.856Z","updatedAt":"2024-04-25T02:08:49.856Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:05.177Z","updatedAt":"2024-04-25T02:08:05.177Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":38,"departmentId":5,"name":"인턴4","userid":"uuuu2","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T01:24:46.077Z","updatedAt":"2024-04-25T01:24:46.077Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":36,"departmentId":5,"name":"인턴4","userid":"uuuu1","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:39:34.684Z","updatedAt":"2024-04-25T00:39:34.684Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":34,"departmentId":5,"name":"인턴4","userid":"user5","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:43.549Z","updatedAt":"2024-04-25T00:37:43.549Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":33,"departmentId":5,"name":"인턴4","userid":"user4","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:09.358Z","updatedAt":"2024-04-25T00:37:09.358Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":31,"departmentId":5,"name":"인턴4","userid":"user3","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:36:51.390Z","updatedAt":"2024-04-25T00:36:51.390Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":30,"departmentId":7,"name":"인턴3","userid":"user2","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:35:03.021Z","updatedAt":"2024-04-25T00:35:03.021Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":28,"departmentId":7,"name":"인턴3","userid":"user1","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:34:50.103Z","updatedAt":"2024-04-25T00:34:50.103Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":26,"departmentId":7,"name":"인턴3","userid":"ttestw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T08:13:49.302Z","updatedAt":"2024-04-23T08:13:49.302Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":25,"departmentId":7,"name":"인턴3","userid":"ttest","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T07:04:50.238Z","updatedAt":"2024-04-23T07:04:50.238Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":24,"departmentId":7,"name":"인턴3","userid":"sda22","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T06:41:35.608Z","updatedAt":"2024-04-23T06:41:35.608Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":23,"departmentId":7,"name":"인턴3","userid":"sdasw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:57:56.470Z","updatedAt":"2024-04-23T05:57:56.470Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":22,"departmentId":7,"name":"인턴3","userid":"sdas","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:30:13.711Z","updatedAt":"2024-04-23T05:30:13.711Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":20,"departmentId":7,"name":"인턴3","userid":"ioioio","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:29:13.887Z","updatedAt":"2024-04-23T05:29:13.887Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":18,"departmentId":7,"name":"인턴3","userid":"dfsd","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:28:41.405Z","updatedAt":"2024-04-23T05:28:41.405Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":15,"departmentId":2,"name":"인턴","userid":"ms3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:40.008Z","updatedAt":"2024-04-23T05:26:40.008Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":13,"departmentId":2,"name":"인턴","userid":"master3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:35.310Z","updatedAt":"2024-04-23T05:26:35.310Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":11,"departmentId":2,"name":"인턴","userid":"master2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:23:40.981Z","updatedAt":"2024-04-23T04:23:40.981Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":10,"departmentId":2,"name":"사원","userid":"master","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:20.081Z","updatedAt":"2024-04-23T04:19:20.081Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":9,"departmentId":2,"name":"사장","userid":"egf2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:08.339Z","updatedAt":"2024-04-23T04:19:08.339Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":7,"departmentId":2,"name":"이사","userid":"egf","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:59.178Z","updatedAt":"2024-04-23T04:18:59.178Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":6,"departmentId":2,"name":"이사","userid":"abc2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:54.464Z","updatedAt":"2024-04-23T04:18:54.464Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":5,"departmentId":2,"name":"이사","userid":"ㄷ구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:49.296Z","updatedAt":"2024-04-23T04:18:49.296Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":4,"departmentId":2,"name":"이사","userid":"구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:44.165Z","updatedAt":"2024-04-23T04:18:44.165Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":3,"departmentId":2,"name":"이사","userid":"2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:34.856Z","updatedAt":"2024-04-23T04:18:34.856Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":1,"departmentId":1,"name":"김개발","userid":"tes1","role":"member","email":"qsss@ddddd","phone":"1","updatedPwDate":null,"createdAt":"2024-04-23T04:18:05.048Z","updatedAt":"2024-04-23T04:18:05.048Z","deletedAt":null,"Department":{"id":1,"name":"이름수정1","code":"수정하는중","createdAt":"2024-04-22T07:41:28.065Z"}}]}
+2024-04-25 20:50:35.230[info] (user.list.result) {"count":27,"rows":[{"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:49.856Z","updatedAt":"2024-04-25T02:08:49.856Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:05.177Z","updatedAt":"2024-04-25T02:08:05.177Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":38,"departmentId":5,"name":"인턴4","userid":"uuuu2","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T01:24:46.077Z","updatedAt":"2024-04-25T01:24:46.077Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":36,"departmentId":5,"name":"인턴4","userid":"uuuu1","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:39:34.684Z","updatedAt":"2024-04-25T00:39:34.684Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":34,"departmentId":5,"name":"인턴4","userid":"user5","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:43.549Z","updatedAt":"2024-04-25T00:37:43.549Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":33,"departmentId":5,"name":"인턴4","userid":"user4","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:09.358Z","updatedAt":"2024-04-25T00:37:09.358Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":31,"departmentId":5,"name":"인턴4","userid":"user3","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:36:51.390Z","updatedAt":"2024-04-25T00:36:51.390Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":30,"departmentId":7,"name":"인턴3","userid":"user2","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:35:03.021Z","updatedAt":"2024-04-25T00:35:03.021Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":28,"departmentId":7,"name":"인턴3","userid":"user1","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:34:50.103Z","updatedAt":"2024-04-25T00:34:50.103Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":26,"departmentId":7,"name":"인턴3","userid":"ttestw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T08:13:49.302Z","updatedAt":"2024-04-23T08:13:49.302Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":25,"departmentId":7,"name":"인턴3","userid":"ttest","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T07:04:50.238Z","updatedAt":"2024-04-23T07:04:50.238Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":24,"departmentId":7,"name":"인턴3","userid":"sda22","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T06:41:35.608Z","updatedAt":"2024-04-23T06:41:35.608Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":23,"departmentId":7,"name":"인턴3","userid":"sdasw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:57:56.470Z","updatedAt":"2024-04-23T05:57:56.470Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":22,"departmentId":7,"name":"인턴3","userid":"sdas","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:30:13.711Z","updatedAt":"2024-04-23T05:30:13.711Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":20,"departmentId":7,"name":"인턴3","userid":"ioioio","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:29:13.887Z","updatedAt":"2024-04-23T05:29:13.887Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":18,"departmentId":7,"name":"인턴3","userid":"dfsd","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:28:41.405Z","updatedAt":"2024-04-23T05:28:41.405Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":15,"departmentId":2,"name":"인턴","userid":"ms3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:40.008Z","updatedAt":"2024-04-23T05:26:40.008Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":13,"departmentId":2,"name":"인턴","userid":"master3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:35.310Z","updatedAt":"2024-04-23T05:26:35.310Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":11,"departmentId":2,"name":"인턴","userid":"master2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:23:40.981Z","updatedAt":"2024-04-23T04:23:40.981Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":10,"departmentId":2,"name":"사원","userid":"master","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:20.081Z","updatedAt":"2024-04-23T04:19:20.081Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":9,"departmentId":2,"name":"사장","userid":"egf2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:08.339Z","updatedAt":"2024-04-23T04:19:08.339Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":7,"departmentId":2,"name":"이사","userid":"egf","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:59.178Z","updatedAt":"2024-04-23T04:18:59.178Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":6,"departmentId":2,"name":"이사","userid":"abc2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:54.464Z","updatedAt":"2024-04-23T04:18:54.464Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":5,"departmentId":2,"name":"이사","userid":"ㄷ구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:49.296Z","updatedAt":"2024-04-23T04:18:49.296Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":4,"departmentId":2,"name":"이사","userid":"구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:44.165Z","updatedAt":"2024-04-23T04:18:44.165Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":3,"departmentId":2,"name":"이사","userid":"2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:34.856Z","updatedAt":"2024-04-23T04:18:34.856Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":1,"departmentId":1,"name":"김개발","userid":"tes1","role":"member","email":"qsss@ddddd","phone":"1","updatedPwDate":null,"createdAt":"2024-04-23T04:18:05.048Z","updatedAt":"2024-04-23T04:18:05.048Z","deletedAt":null,"Department":{"id":1,"name":"이름수정1","code":"수정하는중","createdAt":"2024-04-22T07:41:28.065Z"}}]}
+2024-04-25 20:51:09.695[info] server start!
+2024-04-25 20:51:09.927[info] DB connection Success
+2024-04-25 20:51:09.975[info] Sequelize sync Success!!!!!!
+2024-04-25 20:51:13.977[info] (user.list.params) {"ids":null,"departmentIds":null}
+2024-04-25 20:51:14.011[debug] (userService.list) {"count":27,"rows":[{"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:49.856Z","updatedAt":"2024-04-25T02:08:49.856Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:05.177Z","updatedAt":"2024-04-25T02:08:05.177Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":38,"departmentId":5,"name":"인턴4","userid":"uuuu2","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T01:24:46.077Z","updatedAt":"2024-04-25T01:24:46.077Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":36,"departmentId":5,"name":"인턴4","userid":"uuuu1","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:39:34.684Z","updatedAt":"2024-04-25T00:39:34.684Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":34,"departmentId":5,"name":"인턴4","userid":"user5","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:43.549Z","updatedAt":"2024-04-25T00:37:43.549Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":33,"departmentId":5,"name":"인턴4","userid":"user4","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:09.358Z","updatedAt":"2024-04-25T00:37:09.358Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":31,"departmentId":5,"name":"인턴4","userid":"user3","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:36:51.390Z","updatedAt":"2024-04-25T00:36:51.390Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":30,"departmentId":7,"name":"인턴3","userid":"user2","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:35:03.021Z","updatedAt":"2024-04-25T00:35:03.021Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":28,"departmentId":7,"name":"인턴3","userid":"user1","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:34:50.103Z","updatedAt":"2024-04-25T00:34:50.103Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":26,"departmentId":7,"name":"인턴3","userid":"ttestw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T08:13:49.302Z","updatedAt":"2024-04-23T08:13:49.302Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":25,"departmentId":7,"name":"인턴3","userid":"ttest","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T07:04:50.238Z","updatedAt":"2024-04-23T07:04:50.238Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":24,"departmentId":7,"name":"인턴3","userid":"sda22","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T06:41:35.608Z","updatedAt":"2024-04-23T06:41:35.608Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":23,"departmentId":7,"name":"인턴3","userid":"sdasw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:57:56.470Z","updatedAt":"2024-04-23T05:57:56.470Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":22,"departmentId":7,"name":"인턴3","userid":"sdas","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:30:13.711Z","updatedAt":"2024-04-23T05:30:13.711Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":20,"departmentId":7,"name":"인턴3","userid":"ioioio","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:29:13.887Z","updatedAt":"2024-04-23T05:29:13.887Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":18,"departmentId":7,"name":"인턴3","userid":"dfsd","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:28:41.405Z","updatedAt":"2024-04-23T05:28:41.405Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":15,"departmentId":2,"name":"인턴","userid":"ms3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:40.008Z","updatedAt":"2024-04-23T05:26:40.008Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":13,"departmentId":2,"name":"인턴","userid":"master3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:35.310Z","updatedAt":"2024-04-23T05:26:35.310Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":11,"departmentId":2,"name":"인턴","userid":"master2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:23:40.981Z","updatedAt":"2024-04-23T04:23:40.981Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":10,"departmentId":2,"name":"사원","userid":"master","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:20.081Z","updatedAt":"2024-04-23T04:19:20.081Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":9,"departmentId":2,"name":"사장","userid":"egf2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:08.339Z","updatedAt":"2024-04-23T04:19:08.339Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":7,"departmentId":2,"name":"이사","userid":"egf","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:59.178Z","updatedAt":"2024-04-23T04:18:59.178Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":6,"departmentId":2,"name":"이사","userid":"abc2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:54.464Z","updatedAt":"2024-04-23T04:18:54.464Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":5,"departmentId":2,"name":"이사","userid":"ㄷ구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:49.296Z","updatedAt":"2024-04-23T04:18:49.296Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":4,"departmentId":2,"name":"이사","userid":"구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:44.165Z","updatedAt":"2024-04-23T04:18:44.165Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":3,"departmentId":2,"name":"이사","userid":"2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:34.856Z","updatedAt":"2024-04-23T04:18:34.856Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":1,"departmentId":1,"name":"김개발","userid":"tes1","role":"member","email":"qsss@ddddd","phone":"1","updatedPwDate":null,"createdAt":"2024-04-23T04:18:05.048Z","updatedAt":"2024-04-23T04:18:05.048Z","deletedAt":null,"Department":{"id":1,"name":"이름수정1","code":"수정하는중","createdAt":"2024-04-22T07:41:28.065Z"}}]}
+2024-04-25 20:51:31.593[info] server start!
+2024-04-25 20:51:31.815[info] DB connection Success
+2024-04-25 20:51:31.866[info] Sequelize sync Success!!!!!!
+2024-04-25 20:51:54.454[info] server start!
+2024-04-25 20:51:54.675[info] DB connection Success
+2024-04-25 20:51:54.724[info] Sequelize sync Success!!!!!!
+2024-04-25 20:52:28.793[info] server start!
+2024-04-25 20:52:29.111[info] DB connection Success
+2024-04-25 20:52:29.152[info] Sequelize sync Success!!!!!!
+2024-04-25 20:52:40.624[info] server start!
+2024-04-25 20:52:40.921[info] DB connection Success
+2024-04-25 20:52:41.000[info] Sequelize sync Success!!!!!!
+2024-04-25 20:52:43.498[info] server start!
+2024-04-25 20:52:43.735[info] DB connection Success
+2024-04-25 20:52:43.790[info] Sequelize sync Success!!!!!!
+2024-04-25 20:52:49.961[info] server start!
+2024-04-25 20:52:50.309[info] DB connection Success
+2024-04-25 20:52:50.363[info] Sequelize sync Success!!!!!!
+2024-04-25 20:53:57.024[info] server start!
+2024-04-25 20:53:57.238[info] DB connection Success
+2024-04-25 20:53:57.278[info] Sequelize sync Success!!!!!!
+2024-04-25 20:53:59.971[info] (user.list.params) {"ids":null,"departmentIds":null}
+2024-04-25 20:54:00.009[debug] (userService.list) {"count":27,"rows":[{"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:49.856Z","updatedAt":"2024-04-25T02:08:49.856Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:05.177Z","updatedAt":"2024-04-25T02:08:05.177Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":38,"departmentId":5,"name":"인턴4","userid":"uuuu2","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T01:24:46.077Z","updatedAt":"2024-04-25T01:24:46.077Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":36,"departmentId":5,"name":"인턴4","userid":"uuuu1","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:39:34.684Z","updatedAt":"2024-04-25T00:39:34.684Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":34,"departmentId":5,"name":"인턴4","userid":"user5","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:43.549Z","updatedAt":"2024-04-25T00:37:43.549Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":33,"departmentId":5,"name":"인턴4","userid":"user4","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:09.358Z","updatedAt":"2024-04-25T00:37:09.358Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":31,"departmentId":5,"name":"인턴4","userid":"user3","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:36:51.390Z","updatedAt":"2024-04-25T00:36:51.390Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":30,"departmentId":7,"name":"인턴3","userid":"user2","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:35:03.021Z","updatedAt":"2024-04-25T00:35:03.021Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":28,"departmentId":7,"name":"인턴3","userid":"user1","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:34:50.103Z","updatedAt":"2024-04-25T00:34:50.103Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":26,"departmentId":7,"name":"인턴3","userid":"ttestw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T08:13:49.302Z","updatedAt":"2024-04-23T08:13:49.302Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":25,"departmentId":7,"name":"인턴3","userid":"ttest","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T07:04:50.238Z","updatedAt":"2024-04-23T07:04:50.238Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":24,"departmentId":7,"name":"인턴3","userid":"sda22","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T06:41:35.608Z","updatedAt":"2024-04-23T06:41:35.608Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":23,"departmentId":7,"name":"인턴3","userid":"sdasw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:57:56.470Z","updatedAt":"2024-04-23T05:57:56.470Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":22,"departmentId":7,"name":"인턴3","userid":"sdas","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:30:13.711Z","updatedAt":"2024-04-23T05:30:13.711Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":20,"departmentId":7,"name":"인턴3","userid":"ioioio","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:29:13.887Z","updatedAt":"2024-04-23T05:29:13.887Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":18,"departmentId":7,"name":"인턴3","userid":"dfsd","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:28:41.405Z","updatedAt":"2024-04-23T05:28:41.405Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":15,"departmentId":2,"name":"인턴","userid":"ms3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:40.008Z","updatedAt":"2024-04-23T05:26:40.008Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":13,"departmentId":2,"name":"인턴","userid":"master3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:35.310Z","updatedAt":"2024-04-23T05:26:35.310Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":11,"departmentId":2,"name":"인턴","userid":"master2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:23:40.981Z","updatedAt":"2024-04-23T04:23:40.981Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":10,"departmentId":2,"name":"사원","userid":"master","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:20.081Z","updatedAt":"2024-04-23T04:19:20.081Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":9,"departmentId":2,"name":"사장","userid":"egf2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:08.339Z","updatedAt":"2024-04-23T04:19:08.339Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":7,"departmentId":2,"name":"이사","userid":"egf","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:59.178Z","updatedAt":"2024-04-23T04:18:59.178Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":6,"departmentId":2,"name":"이사","userid":"abc2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:54.464Z","updatedAt":"2024-04-23T04:18:54.464Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":5,"departmentId":2,"name":"이사","userid":"ㄷ구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:49.296Z","updatedAt":"2024-04-23T04:18:49.296Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":4,"departmentId":2,"name":"이사","userid":"구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:44.165Z","updatedAt":"2024-04-23T04:18:44.165Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":3,"departmentId":2,"name":"이사","userid":"2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:34.856Z","updatedAt":"2024-04-23T04:18:34.856Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":1,"departmentId":1,"name":"김개발","userid":"tes1","role":"member","email":"qsss@ddddd","phone":"1","updatedPwDate":null,"createdAt":"2024-04-23T04:18:05.048Z","updatedAt":"2024-04-23T04:18:05.048Z","deletedAt":null,"Department":{"id":1,"name":"이름수정1","code":"수정하는중","createdAt":"2024-04-22T07:41:28.065Z"}}]}
+2024-04-25 20:54:07.233[info] server start!
+2024-04-25 20:54:07.450[info] DB connection Success
+2024-04-25 20:54:07.491[info] Sequelize sync Success!!!!!!
+2024-04-25 20:54:35.887[info] server start!
+2024-04-25 20:54:36.288[info] DB connection Success
+2024-04-25 20:54:36.334[info] Sequelize sync Success!!!!!!
+2024-04-25 20:54:38.908[info] server start!
+2024-04-25 20:54:39.123[info] DB connection Success
+2024-04-25 20:54:39.172[info] Sequelize sync Success!!!!!!
+2024-04-25 20:54:44.489[info] (user.list.params) {"ids":null,"departmentIds":null}
+2024-04-25 20:54:44.535[debug] (userService.list) {"count":27,"rows":[{"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:49.856Z","updatedAt":"2024-04-25T02:08:49.856Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:05.177Z","updatedAt":"2024-04-25T02:08:05.177Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":38,"departmentId":5,"name":"인턴4","userid":"uuuu2","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T01:24:46.077Z","updatedAt":"2024-04-25T01:24:46.077Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":36,"departmentId":5,"name":"인턴4","userid":"uuuu1","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:39:34.684Z","updatedAt":"2024-04-25T00:39:34.684Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":34,"departmentId":5,"name":"인턴4","userid":"user5","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:43.549Z","updatedAt":"2024-04-25T00:37:43.549Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":33,"departmentId":5,"name":"인턴4","userid":"user4","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:09.358Z","updatedAt":"2024-04-25T00:37:09.358Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":31,"departmentId":5,"name":"인턴4","userid":"user3","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:36:51.390Z","updatedAt":"2024-04-25T00:36:51.390Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":30,"departmentId":7,"name":"인턴3","userid":"user2","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:35:03.021Z","updatedAt":"2024-04-25T00:35:03.021Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":28,"departmentId":7,"name":"인턴3","userid":"user1","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:34:50.103Z","updatedAt":"2024-04-25T00:34:50.103Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":26,"departmentId":7,"name":"인턴3","userid":"ttestw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T08:13:49.302Z","updatedAt":"2024-04-23T08:13:49.302Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":25,"departmentId":7,"name":"인턴3","userid":"ttest","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T07:04:50.238Z","updatedAt":"2024-04-23T07:04:50.238Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":24,"departmentId":7,"name":"인턴3","userid":"sda22","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T06:41:35.608Z","updatedAt":"2024-04-23T06:41:35.608Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":23,"departmentId":7,"name":"인턴3","userid":"sdasw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:57:56.470Z","updatedAt":"2024-04-23T05:57:56.470Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":22,"departmentId":7,"name":"인턴3","userid":"sdas","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:30:13.711Z","updatedAt":"2024-04-23T05:30:13.711Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":20,"departmentId":7,"name":"인턴3","userid":"ioioio","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:29:13.887Z","updatedAt":"2024-04-23T05:29:13.887Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":18,"departmentId":7,"name":"인턴3","userid":"dfsd","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:28:41.405Z","updatedAt":"2024-04-23T05:28:41.405Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":15,"departmentId":2,"name":"인턴","userid":"ms3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:40.008Z","updatedAt":"2024-04-23T05:26:40.008Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":13,"departmentId":2,"name":"인턴","userid":"master3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:35.310Z","updatedAt":"2024-04-23T05:26:35.310Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":11,"departmentId":2,"name":"인턴","userid":"master2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:23:40.981Z","updatedAt":"2024-04-23T04:23:40.981Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":10,"departmentId":2,"name":"사원","userid":"master","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:20.081Z","updatedAt":"2024-04-23T04:19:20.081Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":9,"departmentId":2,"name":"사장","userid":"egf2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:08.339Z","updatedAt":"2024-04-23T04:19:08.339Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":7,"departmentId":2,"name":"이사","userid":"egf","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:59.178Z","updatedAt":"2024-04-23T04:18:59.178Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":6,"departmentId":2,"name":"이사","userid":"abc2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:54.464Z","updatedAt":"2024-04-23T04:18:54.464Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":5,"departmentId":2,"name":"이사","userid":"ㄷ구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:49.296Z","updatedAt":"2024-04-23T04:18:49.296Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":4,"departmentId":2,"name":"이사","userid":"구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:44.165Z","updatedAt":"2024-04-23T04:18:44.165Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":3,"departmentId":2,"name":"이사","userid":"2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:34.856Z","updatedAt":"2024-04-23T04:18:34.856Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":1,"departmentId":1,"name":"김개발","userid":"tes1","role":"member","email":"qsss@ddddd","phone":"1","updatedPwDate":null,"createdAt":"2024-04-23T04:18:05.048Z","updatedAt":"2024-04-23T04:18:05.048Z","deletedAt":null,"Department":{"id":1,"name":"이름수정1","code":"수정하는중","createdAt":"2024-04-22T07:41:28.065Z"}}]}
+2024-04-25 20:54:44.548[info] (user.list.result) {"count":27,"rows":[{"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:49.856Z","updatedAt":"2024-04-25T02:08:49.856Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:05.177Z","updatedAt":"2024-04-25T02:08:05.177Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":38,"departmentId":5,"name":"인턴4","userid":"uuuu2","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T01:24:46.077Z","updatedAt":"2024-04-25T01:24:46.077Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":36,"departmentId":5,"name":"인턴4","userid":"uuuu1","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:39:34.684Z","updatedAt":"2024-04-25T00:39:34.684Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":34,"departmentId":5,"name":"인턴4","userid":"user5","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:43.549Z","updatedAt":"2024-04-25T00:37:43.549Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":33,"departmentId":5,"name":"인턴4","userid":"user4","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:09.358Z","updatedAt":"2024-04-25T00:37:09.358Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":31,"departmentId":5,"name":"인턴4","userid":"user3","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:36:51.390Z","updatedAt":"2024-04-25T00:36:51.390Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":30,"departmentId":7,"name":"인턴3","userid":"user2","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:35:03.021Z","updatedAt":"2024-04-25T00:35:03.021Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":28,"departmentId":7,"name":"인턴3","userid":"user1","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:34:50.103Z","updatedAt":"2024-04-25T00:34:50.103Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":26,"departmentId":7,"name":"인턴3","userid":"ttestw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T08:13:49.302Z","updatedAt":"2024-04-23T08:13:49.302Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":25,"departmentId":7,"name":"인턴3","userid":"ttest","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T07:04:50.238Z","updatedAt":"2024-04-23T07:04:50.238Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":24,"departmentId":7,"name":"인턴3","userid":"sda22","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T06:41:35.608Z","updatedAt":"2024-04-23T06:41:35.608Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":23,"departmentId":7,"name":"인턴3","userid":"sdasw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:57:56.470Z","updatedAt":"2024-04-23T05:57:56.470Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":22,"departmentId":7,"name":"인턴3","userid":"sdas","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:30:13.711Z","updatedAt":"2024-04-23T05:30:13.711Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":20,"departmentId":7,"name":"인턴3","userid":"ioioio","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:29:13.887Z","updatedAt":"2024-04-23T05:29:13.887Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":18,"departmentId":7,"name":"인턴3","userid":"dfsd","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:28:41.405Z","updatedAt":"2024-04-23T05:28:41.405Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":15,"departmentId":2,"name":"인턴","userid":"ms3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:40.008Z","updatedAt":"2024-04-23T05:26:40.008Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":13,"departmentId":2,"name":"인턴","userid":"master3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:35.310Z","updatedAt":"2024-04-23T05:26:35.310Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":11,"departmentId":2,"name":"인턴","userid":"master2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:23:40.981Z","updatedAt":"2024-04-23T04:23:40.981Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":10,"departmentId":2,"name":"사원","userid":"master","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:20.081Z","updatedAt":"2024-04-23T04:19:20.081Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":9,"departmentId":2,"name":"사장","userid":"egf2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:08.339Z","updatedAt":"2024-04-23T04:19:08.339Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":7,"departmentId":2,"name":"이사","userid":"egf","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:59.178Z","updatedAt":"2024-04-23T04:18:59.178Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":6,"departmentId":2,"name":"이사","userid":"abc2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:54.464Z","updatedAt":"2024-04-23T04:18:54.464Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":5,"departmentId":2,"name":"이사","userid":"ㄷ구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:49.296Z","updatedAt":"2024-04-23T04:18:49.296Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":4,"departmentId":2,"name":"이사","userid":"구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:44.165Z","updatedAt":"2024-04-23T04:18:44.165Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":3,"departmentId":2,"name":"이사","userid":"2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:34.856Z","updatedAt":"2024-04-23T04:18:34.856Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":1,"departmentId":1,"name":"김개발","userid":"tes1","role":"member","email":"qsss@ddddd","phone":"1","updatedPwDate":null,"createdAt":"2024-04-23T04:18:05.048Z","updatedAt":"2024-04-23T04:18:05.048Z","deletedAt":null,"Department":{"id":1,"name":"이름수정1","code":"수정하는중","createdAt":"2024-04-22T07:41:28.065Z"}}]}
+2024-04-25 20:55:34.334[info] server start!
+2024-04-25 20:55:34.672[info] DB connection Success
+2024-04-25 20:55:34.726[info] Sequelize sync Success!!!!!!
+2024-04-25 20:56:06.171[info] server start!
+2024-04-25 20:56:06.409[info] DB connection Success
+2024-04-25 20:56:06.454[info] Sequelize sync Success!!!!!!
+2024-04-25 20:56:29.451[info] server start!
+2024-04-25 20:56:29.715[info] DB connection Success
+2024-04-25 20:56:29.772[info] Sequelize sync Success!!!!!!
+2024-04-25 20:56:30.876[info] (user.list.params) {"password":"sdf"}
+2024-04-25 20:56:30.881[error] (userService.list) SequelizeEagerLoadingError: Department is not associated to User!
+2024-04-25 20:56:38.221[info] server start!
+2024-04-25 20:56:39.789[info] server start!
+2024-04-25 20:56:40.075[info] DB connection Success
+2024-04-25 20:56:40.135[info] Sequelize sync Success!!!!!!
+2024-04-25 20:56:47.777[info] server start!
+2024-04-25 20:56:48.014[info] DB connection Success
+2024-04-25 20:56:48.056[info] Sequelize sync Success!!!!!!
+2024-04-25 20:56:48.718[info] (user.list.params) {"username":"dfs","password":"sdf"}
+2024-04-25 20:56:48.724[error] (userService.list) SequelizeEagerLoadingError: Department is not associated to User!
+2024-04-25 20:56:51.697[info] (user.list.params) {}
+2024-04-25 20:56:51.722[debug] (userService.list) {"count":27,"rows":[{"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:49.856Z","updatedAt":"2024-04-25T02:08:49.856Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:05.177Z","updatedAt":"2024-04-25T02:08:05.177Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":38,"departmentId":5,"name":"인턴4","userid":"uuuu2","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T01:24:46.077Z","updatedAt":"2024-04-25T01:24:46.077Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":36,"departmentId":5,"name":"인턴4","userid":"uuuu1","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:39:34.684Z","updatedAt":"2024-04-25T00:39:34.684Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":34,"departmentId":5,"name":"인턴4","userid":"user5","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:43.549Z","updatedAt":"2024-04-25T00:37:43.549Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":33,"departmentId":5,"name":"인턴4","userid":"user4","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:09.358Z","updatedAt":"2024-04-25T00:37:09.358Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":31,"departmentId":5,"name":"인턴4","userid":"user3","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:36:51.390Z","updatedAt":"2024-04-25T00:36:51.390Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":30,"departmentId":7,"name":"인턴3","userid":"user2","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:35:03.021Z","updatedAt":"2024-04-25T00:35:03.021Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":28,"departmentId":7,"name":"인턴3","userid":"user1","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:34:50.103Z","updatedAt":"2024-04-25T00:34:50.103Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":26,"departmentId":7,"name":"인턴3","userid":"ttestw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T08:13:49.302Z","updatedAt":"2024-04-23T08:13:49.302Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":25,"departmentId":7,"name":"인턴3","userid":"ttest","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T07:04:50.238Z","updatedAt":"2024-04-23T07:04:50.238Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":24,"departmentId":7,"name":"인턴3","userid":"sda22","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T06:41:35.608Z","updatedAt":"2024-04-23T06:41:35.608Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":23,"departmentId":7,"name":"인턴3","userid":"sdasw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:57:56.470Z","updatedAt":"2024-04-23T05:57:56.470Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":22,"departmentId":7,"name":"인턴3","userid":"sdas","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:30:13.711Z","updatedAt":"2024-04-23T05:30:13.711Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":20,"departmentId":7,"name":"인턴3","userid":"ioioio","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:29:13.887Z","updatedAt":"2024-04-23T05:29:13.887Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":18,"departmentId":7,"name":"인턴3","userid":"dfsd","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:28:41.405Z","updatedAt":"2024-04-23T05:28:41.405Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":15,"departmentId":2,"name":"인턴","userid":"ms3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:40.008Z","updatedAt":"2024-04-23T05:26:40.008Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":13,"departmentId":2,"name":"인턴","userid":"master3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:35.310Z","updatedAt":"2024-04-23T05:26:35.310Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":11,"departmentId":2,"name":"인턴","userid":"master2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:23:40.981Z","updatedAt":"2024-04-23T04:23:40.981Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":10,"departmentId":2,"name":"사원","userid":"master","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:20.081Z","updatedAt":"2024-04-23T04:19:20.081Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":9,"departmentId":2,"name":"사장","userid":"egf2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:08.339Z","updatedAt":"2024-04-23T04:19:08.339Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":7,"departmentId":2,"name":"이사","userid":"egf","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:59.178Z","updatedAt":"2024-04-23T04:18:59.178Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":6,"departmentId":2,"name":"이사","userid":"abc2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:54.464Z","updatedAt":"2024-04-23T04:18:54.464Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":5,"departmentId":2,"name":"이사","userid":"ㄷ구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:49.296Z","updatedAt":"2024-04-23T04:18:49.296Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":4,"departmentId":2,"name":"이사","userid":"구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:44.165Z","updatedAt":"2024-04-23T04:18:44.165Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":3,"departmentId":2,"name":"이사","userid":"2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:34.856Z","updatedAt":"2024-04-23T04:18:34.856Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":1,"departmentId":1,"name":"김개발","userid":"tes1","role":"member","email":"qsss@ddddd","phone":"1","updatedPwDate":null,"createdAt":"2024-04-23T04:18:05.048Z","updatedAt":"2024-04-23T04:18:05.048Z","deletedAt":null,"Department":{"id":1,"name":"이름수정1","code":"수정하는중","createdAt":"2024-04-22T07:41:28.065Z"}}]}
+2024-04-25 20:57:35.991[info] server start!
+2024-04-25 20:57:36.325[info] DB connection Success
+2024-04-25 20:57:36.385[info] Sequelize sync Success!!!!!!
+2024-04-25 20:57:40.331[info] server start!
+2024-04-25 20:57:40.429[error] Error: Not allowed null (name)
+2024-04-25 20:57:54.319[info] server start!
+2024-04-25 20:57:54.536[info] DB connection Success
+2024-04-25 20:57:54.577[info] Sequelize sync Success!!!!!!
+2024-04-25 20:58:05.378[info] server start!
+2024-04-25 20:58:05.588[info] DB connection Success
+2024-04-25 20:58:05.635[info] Sequelize sync Success!!!!!!
+2024-04-25 20:58:12.585[info] server start!
+2024-04-25 20:58:12.838[info] DB connection Success
+2024-04-25 20:58:12.888[info] Sequelize sync Success!!!!!!
+2024-04-25 20:58:23.852[info] server start!
+2024-04-25 20:58:24.065[info] DB connection Success
+2024-04-25 20:58:24.104[info] Sequelize sync Success!!!!!!
+2024-04-25 20:59:17.891[info] server start!
+2024-04-25 20:59:23.419[info] server start!
+2024-04-25 20:59:23.690[info] DB connection Success
+2024-04-25 20:59:23.737[info] Sequelize sync Success!!!!!!
+2024-04-25 20:59:31.805[info] server start!
+2024-04-25 20:59:32.037[info] DB connection Success
+2024-04-25 20:59:32.089[info] Sequelize sync Success!!!!!!
+2024-04-25 20:59:38.085[info] server start!
+2024-04-25 20:59:38.411[info] DB connection Success
+2024-04-25 20:59:38.457[info] Sequelize sync Success!!!!!!
+2024-04-25 21:00:22.483[info] server start!
+2024-04-25 21:00:22.698[info] DB connection Success
+2024-04-25 21:00:22.748[info] Sequelize sync Success!!!!!!
+2024-04-25 21:00:25.339[error] Error: Not allowed null (name)
+2024-04-25 21:00:34.324[info] server start!
+2024-04-25 21:00:34.571[info] DB connection Success
+2024-04-25 21:00:34.613[info] Sequelize sync Success!!!!!!
+2024-04-25 21:00:42.696[error] Error: Not allowed null (name)
+2024-04-25 21:00:42.700[info] (user.list.params) {"username":"sdf","password":"sdf"}
+2024-04-25 21:00:42.735[debug] (userService.list) {"count":27,"rows":[{"id":40,"departmentId":5,"name":"인턴4","userid":"userin2","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:49.856Z","updatedAt":"2024-04-25T02:08:49.856Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":39,"departmentId":5,"name":"인턴4","userid":"userin1","role":"member2","email":"qsss@ddddd","phone":"12345","updatedPwDate":null,"createdAt":"2024-04-25T02:08:05.177Z","updatedAt":"2024-04-25T02:08:05.177Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":38,"departmentId":5,"name":"인턴4","userid":"uuuu2","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T01:24:46.077Z","updatedAt":"2024-04-25T01:24:46.077Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":36,"departmentId":5,"name":"인턴4","userid":"uuuu1","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:39:34.684Z","updatedAt":"2024-04-25T00:39:34.684Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":34,"departmentId":5,"name":"인턴4","userid":"user5","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:43.549Z","updatedAt":"2024-04-25T00:37:43.549Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":33,"departmentId":5,"name":"인턴4","userid":"user4","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:37:09.358Z","updatedAt":"2024-04-25T00:37:09.358Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":31,"departmentId":5,"name":"인턴4","userid":"user3","role":"member2","email":"qsss@ddddd","phone":"5","updatedPwDate":null,"createdAt":"2024-04-25T00:36:51.390Z","updatedAt":"2024-04-25T00:36:51.390Z","deletedAt":null,"Department":{"id":5,"name":"제조 부서실","code":"d-0011","createdAt":"2024-04-22T07:43:34.669Z"}},{"id":30,"departmentId":7,"name":"인턴3","userid":"user2","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:35:03.021Z","updatedAt":"2024-04-25T00:35:03.021Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":28,"departmentId":7,"name":"인턴3","userid":"user1","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-25T00:34:50.103Z","updatedAt":"2024-04-25T00:34:50.103Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":26,"departmentId":7,"name":"인턴3","userid":"ttestw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T08:13:49.302Z","updatedAt":"2024-04-23T08:13:49.302Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":25,"departmentId":7,"name":"인턴3","userid":"ttest","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T07:04:50.238Z","updatedAt":"2024-04-23T07:04:50.238Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":24,"departmentId":7,"name":"인턴3","userid":"sda22","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T06:41:35.608Z","updatedAt":"2024-04-23T06:41:35.608Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":23,"departmentId":7,"name":"인턴3","userid":"sdasw","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:57:56.470Z","updatedAt":"2024-04-23T05:57:56.470Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":22,"departmentId":7,"name":"인턴3","userid":"sdas","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:30:13.711Z","updatedAt":"2024-04-23T05:30:13.711Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":20,"departmentId":7,"name":"인턴3","userid":"ioioio","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:29:13.887Z","updatedAt":"2024-04-23T05:29:13.887Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":18,"departmentId":7,"name":"인턴3","userid":"dfsd","role":"member2","email":"qsss@ddddd","phone":"7","updatedPwDate":null,"createdAt":"2024-04-23T05:28:41.405Z","updatedAt":"2024-04-23T05:28:41.405Z","deletedAt":null,"Department":{"id":7,"name":"개인비서모음","code":"d-0022","createdAt":"2024-04-22T07:44:18.131Z"}},{"id":15,"departmentId":2,"name":"인턴","userid":"ms3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:40.008Z","updatedAt":"2024-04-23T05:26:40.008Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":13,"departmentId":2,"name":"인턴","userid":"master3","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T05:26:35.310Z","updatedAt":"2024-04-23T05:26:35.310Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":11,"departmentId":2,"name":"인턴","userid":"master2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:23:40.981Z","updatedAt":"2024-04-23T04:23:40.981Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":10,"departmentId":2,"name":"사원","userid":"master","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:20.081Z","updatedAt":"2024-04-23T04:19:20.081Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":9,"departmentId":2,"name":"사장","userid":"egf2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:19:08.339Z","updatedAt":"2024-04-23T04:19:08.339Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":7,"departmentId":2,"name":"이사","userid":"egf","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:59.178Z","updatedAt":"2024-04-23T04:18:59.178Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":6,"departmentId":2,"name":"이사","userid":"abc2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:54.464Z","updatedAt":"2024-04-23T04:18:54.464Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":5,"departmentId":2,"name":"이사","userid":"ㄷ구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:49.296Z","updatedAt":"2024-04-23T04:18:49.296Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":4,"departmentId":2,"name":"이사","userid":"구구2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:44.165Z","updatedAt":"2024-04-23T04:18:44.165Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":3,"departmentId":2,"name":"이사","userid":"2","role":"member","email":"qsss@ddddd","phone":"2","updatedPwDate":null,"createdAt":"2024-04-23T04:18:34.856Z","updatedAt":"2024-04-23T04:18:34.856Z","deletedAt":null,"Department":{"id":2,"name":"부서 테스트2","code":"d-0002","createdAt":"2024-04-22T07:42:40.637Z"}},{"id":1,"departmentId":1,"name":"김개발","userid":"tes1","role":"member","email":"qsss@ddddd","phone":"1","updatedPwDate":null,"createdAt":"2024-04-23T04:18:05.048Z","updatedAt":"2024-04-23T04:18:05.048Z","deletedAt":null,"Department":{"id":1,"name":"이름수정1","code":"수정하는중","createdAt":"2024-04-22T07:41:28.065Z"}}]}
+2024-04-25 21:00:59.724[info] server start!
+2024-04-25 21:00:59.949[info] DB connection Success
+2024-04-25 21:00:59.994[info] Sequelize sync Success!!!!!!
+2024-04-25 21:01:19.219[info] server start!
+2024-04-25 21:01:31.205[info] server start!
+2024-04-25 21:01:31.450[info] DB connection Success
+2024-04-25 21:01:31.490[info] Sequelize sync Success!!!!!!
+2024-04-25 21:01:59.435[info] server start!
+2024-04-25 21:01:59.767[info] DB connection Success
+2024-04-25 21:01:59.809[info] Sequelize sync Success!!!!!!
+2024-04-25 21:02:11.395[info] server start!
+2024-04-25 21:02:36.090[info] server start!
+2024-04-25 21:02:36.319[info] DB connection Success
+2024-04-25 21:02:36.370[info] Sequelize sync Success!!!!!!
+2024-04-25 21:02:37.055[error] (userService.list) SequelizeEagerLoadingError: Department is not associated to User!
+2024-04-25 21:05:03.592[info] server start!
+2024-04-25 21:05:03.820[info] DB connection Success
+2024-04-25 21:05:03.896[info] Sequelize sync Success!!!!!!
+2024-04-25 21:05:18.673[info] server start!
+2024-04-25 21:05:18.999[info] DB connection Success
+2024-04-25 21:05:19.042[info] Sequelize sync Success!!!!!!
+2024-04-25 21:05:29.462[info] server start!
+2024-04-25 21:05:29.709[info] DB connection Success
+2024-04-25 21:05:29.749[info] Sequelize sync Success!!!!!!
+2024-04-25 21:05:38.892[info] server start!
+2024-04-25 21:05:39.173[info] DB connection Success
+2024-04-25 21:05:39.218[info] Sequelize sync Success!!!!!!
+2024-04-25 21:09:00.598[info] server start!
+2024-04-25 21:09:00.925[info] DB connection Success
+2024-04-25 21:09:00.988[info] Sequelize sync Success!!!!!!
+2024-04-25 21:10:02.449[info] server start!
+2024-04-25 21:10:02.782[info] DB connection Success
+2024-04-25 21:10:02.834[info] Sequelize sync Success!!!!!!
+2024-04-25 21:10:22.790[info] server start!
+2024-04-25 21:10:23.006[info] DB connection Success
+2024-04-25 21:10:23.056[info] Sequelize sync Success!!!!!!
+2024-04-25 21:10:46.218[info] server start!
+2024-04-25 21:10:46.495[info] DB connection Success
+2024-04-25 21:10:46.538[info] Sequelize sync Success!!!!!!
+2024-04-25 21:10:49.189[info] server start!
+2024-04-25 21:10:49.680[info] DB connection Success
+2024-04-25 21:10:49.738[info] Sequelize sync Success!!!!!!
+2024-04-25 21:11:43.383[info] server start!
+2024-04-25 21:11:43.665[info] DB connection Success
+2024-04-25 21:11:43.718[info] Sequelize sync Success!!!!!!
+2024-04-25 21:13:12.333[info] server start!
+2024-04-25 21:13:12.674[info] DB connection Success
+2024-04-25 21:13:12.749[info] Sequelize sync Success!!!!!!

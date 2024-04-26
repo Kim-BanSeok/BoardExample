@@ -1,0 +1,51 @@
+/* 카테고리 선택되면*/
+.categoryItem.active {
+  background-color: rgb(31, 37, 82);
+  color: white;
+}
+
+.categoryItem {
+font-weight: bold;
+border: 1px solid rgb(31, 37, 82);
+  color: rgb(31, 37, 82);
+  background-color: rgb(255, 255, 255);
+  cursor: pointer;
+  padding: 5px 17px;
+  border-radius: 16.5px;
+  font-size: 13px;
+  line-height: 18px;
+  letter-spacing: -0.2px;
+  margin-right: 9px;
+  margin-bottom: 9px;
+  filter: drop-shadow(rgba(0, 0, 0, 0.08) 0px 1px 1px);
+}
+
+
+.categoryItem:hover {
+text-decoration: none;
+}
+
+
+.section {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+#categoryList{
+display: flex;
+  list-style-type: none;
+  padding: 0 7px;
+  height: 29px;
+}
+
+#categoryList li{
+  padding-bottom: 11px;
+  display: inline-block;
+  outline: none;
+  list-style: none;
+  cursor: pointer;
+  color: #919ba4;
+  font-size: 15px;
+  letter-spacing: -0.2px;
+}

@@ -1,0 +1,806 @@
+2024-04-23 09:31:34.552[info] server start!
+2024-04-23 09:31:34.664[info] DB connection Success
+2024-04-23 09:31:34.673[info] Sequelize sync Success!!!!!!
+2024-04-23 09:32:01.856[info] router/department.js [object Object]
+2024-04-23 09:32:01.896[debug] departmentService.reg : {"id":4,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T00:32:01.858Z","createdAt":"2024-04-23T00:32:01.858Z","deletedAt":null}
+2024-04-23 09:32:01.897[info] router/department.js.reg.result: {"id":4,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T00:32:01.858Z","createdAt":"2024-04-23T00:32:01.858Z","deletedAt":null}
+2024-04-23 09:34:44.561[info] (department.list.params) {"ids":"","name":"","code":""}
+2024-04-23 09:34:44.608[debug] (departmentService.list) {"count":4,"rows":[{"id":4,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T00:32:01.858Z","updatedAt":"2024-04-23T00:32:01.858Z","deletedAt":null},{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:34:44.610[info] (department.list.result) {"count":4,"rows":[{"id":4,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T00:32:01.858Z","updatedAt":"2024-04-23T00:32:01.858Z","deletedAt":null},{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:35:02.267[info] (department.list.params) {"ids":"1","name":"","code":""}
+2024-04-23 09:35:02.305[debug] (departmentService.list) {"count":1,"rows":[{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:35:02.306[info] (department.list.result) {"count":1,"rows":[{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:35:16.936[info] (department.list.params) {"ids":"[1,2,3,4]","name":"","code":""}
+2024-04-23 09:35:16.988[error] (departmentService.list) SequelizeDatabaseError: integer 자료형 대한 잘못된 입력: "[1,2,3,4]"
+2024-04-23 09:36:32.406[info] server start!
+2024-04-23 09:36:32.625[info] DB connection Success
+2024-04-23 09:36:32.634[info] Sequelize sync Success!!!!!!
+2024-04-23 09:37:03.905[info] server start!
+2024-04-23 09:37:04.115[info] DB connection Success
+2024-04-23 09:37:04.124[info] Sequelize sync Success!!!!!!
+2024-04-23 09:37:40.658[info] 1,2,3,4
+2024-04-23 09:37:40.659[info] 1,2,3,4
+2024-04-23 09:37:40.659[info] (department.list.params) {"ids":["1","2","3","4"],"name":"","code":""}
+2024-04-23 09:37:40.710[debug] (departmentService.list) {"count":4,"rows":[{"id":4,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T00:32:01.858Z","updatedAt":"2024-04-23T00:32:01.858Z","deletedAt":null},{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:37:40.712[info] (department.list.result) {"count":4,"rows":[{"id":4,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T00:32:01.858Z","updatedAt":"2024-04-23T00:32:01.858Z","deletedAt":null},{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:38:11.249[info] server start!
+2024-04-23 09:38:11.404[info] DB connection Success
+2024-04-23 09:38:11.413[info] Sequelize sync Success!!!!!!
+2024-04-23 09:38:14.532[info] 1,2,3,4
+2024-04-23 09:38:14.535[info] (department.list.params) {"ids":["1","2","3","4"],"name":"","code":""}
+2024-04-23 09:38:14.551[debug] (departmentService.list) {"count":4,"rows":[{"id":4,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T00:32:01.858Z","updatedAt":"2024-04-23T00:32:01.858Z","deletedAt":null},{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:38:14.553[info] (department.list.result) {"count":4,"rows":[{"id":4,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T00:32:01.858Z","updatedAt":"2024-04-23T00:32:01.858Z","deletedAt":null},{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:38:50.544[info] 1,2,3
+2024-04-23 09:38:50.545[info] (department.list.params) {"ids":["1","2","3"],"name":"","code":""}
+2024-04-23 09:38:50.586[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:38:50.588[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:38:52.296[info] 1,2
+2024-04-23 09:38:52.297[info] (department.list.params) {"ids":["1","2"],"name":"","code":""}
+2024-04-23 09:38:52.302[debug] (departmentService.list) {"count":2,"rows":[{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:38:52.303[info] (department.list.result) {"count":2,"rows":[{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:38:59.177[info] 1,2,3
+2024-04-23 09:38:59.178[info] (department.list.params) {"ids":["1","2","3"],"name":"","code":""}
+2024-04-23 09:38:59.184[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:38:59.185[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:39:01.882[info] 1,2,3,5,6
+2024-04-23 09:39:01.882[info] (department.list.params) {"ids":["1","2","3","5","6"],"name":"","code":""}
+2024-04-23 09:39:01.887[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:39:01.889[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:39:04.427[info] 1,2,3,5,6
+2024-04-23 09:39:04.428[info] (department.list.params) {"ids":["1","2","3","5","6"],"name":"wefe","code":""}
+2024-04-23 09:39:04.432[debug] (departmentService.list) {"count":0,"rows":[]}
+2024-04-23 09:39:04.432[info] (department.list.result) {"count":0,"rows":[]}
+2024-04-23 09:39:07.477[info] 1,2,3,5,6
+2024-04-23 09:39:07.478[info] (department.list.params) {"ids":["1","2","3","5","6"],"name":"","code":""}
+2024-04-23 09:39:07.483[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:39:07.484[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:39:09.704[info] 1,2,3,5,6
+2024-04-23 09:39:09.704[info] (department.list.params) {"ids":["1","2","3","5","6"],"name":"","code":""}
+2024-04-23 09:39:09.710[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:39:09.711[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:39:12.032[info] 1,2,3,5,6
+2024-04-23 09:39:12.034[info] (department.list.params) {"ids":["1","2","3","5","6"],"name":"ㄹㄷㄹㄷ랴덜댜ㅐ","code":""}
+2024-04-23 09:39:12.040[debug] (departmentService.list) {"count":0,"rows":[]}
+2024-04-23 09:39:12.040[info] (department.list.result) {"count":0,"rows":[]}
+2024-04-23 09:41:26.276[info] server start!
+2024-04-23 09:41:26.376[info] DB connection Success
+2024-04-23 09:41:26.387[info] Sequelize sync Success!!!!!!
+2024-04-23 09:42:08.080[info] server start!
+2024-04-23 09:42:08.190[info] DB connection Success
+2024-04-23 09:42:08.199[info] Sequelize sync Success!!!!!!
+2024-04-23 09:42:39.655[info] (department.list.params) {"ids":["1","2","3"],"name":"","code":""}
+2024-04-23 09:42:39.720[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:42:39.721[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null},{"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}]}
+2024-04-23 09:44:48.439[info] server start!
+2024-04-23 09:44:48.653[info] DB connection Success
+2024-04-23 09:44:48.662[info] Sequelize sync Success!!!!!!
+2024-04-23 09:45:03.475[info] server start!
+2024-04-23 09:45:03.597[info] DB connection Success
+2024-04-23 09:45:03.606[info] Sequelize sync Success!!!!!!
+2024-04-23 09:46:57.715[info] server start!
+2024-04-23 09:46:57.820[info] DB connection Success
+2024-04-23 09:46:57.828[info] Sequelize sync Success!!!!!!
+2024-04-23 09:47:37.663[info] server start!
+2024-04-23 09:47:37.763[info] DB connection Success
+2024-04-23 09:47:37.771[info] Sequelize sync Success!!!!!!
+2024-04-23 09:48:21.435[info] (department.info.params) {"id":"1"}
+2024-04-23 09:48:21.492[debug] (departmentService.info) {"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}
+2024-04-23 09:48:21.493[info] (department.info.result) {"id":1,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-22T08:22:16.718Z","deletedAt":null}
+2024-04-23 09:48:27.602[info] (department.info.params) {"id":"2"}
+2024-04-23 09:48:27.604[debug] (departmentService.info) {"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null}
+2024-04-23 09:48:27.605[info] (department.info.result) {"id":2,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-22T08:22:57.809Z","deletedAt":null}
+2024-04-23 09:49:38.474[info] server start!
+2024-04-23 09:49:38.585[info] DB connection Success
+2024-04-23 09:49:38.594[info] Sequelize sync Success!!!!!!
+2024-04-23 09:53:19.674[info] server start!
+2024-04-23 09:53:19.773[info] DB connection Success
+2024-04-23 09:53:19.781[info] Sequelize sync Success!!!!!!
+2024-04-23 09:54:38.202[info] (department.update.params) {"id":"1","name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정"}
+2024-04-23 09:54:38.259[debug] (departmentService.edit) {"updatedCount":1}
+2024-04-23 09:54:38.260[info] (department.update.result) {"updatedCount":1}
+2024-04-23 09:54:48.783[info] (department.update.params) {"id":"10","name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정"}
+2024-04-23 09:54:48.822[debug] (departmentService.edit) {"updatedCount":0}
+2024-04-23 09:54:48.822[info] (department.update.result) {"updatedCount":0}
+2024-04-23 09:54:54.942[info] (department.update.params) {"id":"2","name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정"}
+2024-04-23 09:54:54.954[debug] (departmentService.edit) {"updatedCount":1}
+2024-04-23 09:54:54.955[info] (department.update.result) {"updatedCount":1}
+2024-04-23 09:54:57.989[info] (department.update.params) {"id":"2","name":"조승민팀22 수정","code":"TESTCODE","description":"테스트 상세설명 수정"}
+2024-04-23 09:54:57.992[debug] (departmentService.edit) {"updatedCount":1}
+2024-04-23 09:54:57.993[info] (department.update.result) {"updatedCount":1}
+2024-04-23 10:03:45.892[info] (department.delete.params) {"id":"4"}
+2024-04-23 10:03:45.930[debug] (departmentService.delete) {"deletedCount":1}
+2024-04-23 10:03:45.931[info] (department.delete.result) {"deletedCount":1}
+2024-04-23 10:03:48.328[info] (department.delete.params) {"id":"4"}
+2024-04-23 10:03:48.330[debug] (departmentService.delete) {"deletedCount":0}
+2024-04-23 10:03:48.331[info] (department.delete.result) {"deletedCount":0}
+2024-04-23 10:04:01.387[info] (department.list.params) {"ids":null,"name":"","code":""}
+2024-04-23 10:04:01.431[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀22 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-23T00:54:57.990Z","deletedAt":null},{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:04:01.433[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀22 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-23T00:54:57.990Z","deletedAt":null},{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:05:16.669[info] server start!
+2024-04-23 10:05:16.782[info] DB connection Success
+2024-04-23 10:05:16.791[info] Sequelize sync Success!!!!!!
+2024-04-23 10:06:03.225[info] server start!
+2024-04-23 10:06:03.323[info] DB connection Success
+2024-04-23 10:06:03.332[info] Sequelize sync Success!!!!!!
+2024-04-23 10:07:27.132[info] server start!
+2024-04-23 10:07:27.232[info] DB connection Success
+2024-04-23 10:07:27.241[info] Sequelize sync Success!!!!!!
+2024-04-23 10:08:42.914[info] server start!
+2024-04-23 10:08:43.032[info] DB connection Success
+2024-04-23 10:08:43.040[info] Sequelize sync Success!!!!!!
+2024-04-23 10:09:23.748[info] server start!
+2024-04-23 10:09:23.858[info] DB connection Success
+2024-04-23 10:09:23.867[info] Sequelize sync Success!!!!!!
+2024-04-23 10:09:35.287[info] server start!
+2024-04-23 10:09:35.396[info] DB connection Success
+2024-04-23 10:09:35.404[info] Sequelize sync Success!!!!!!
+2024-04-23 10:09:45.092[info] (department.delete.params) {"id":"5"}
+2024-04-23 10:09:45.097[debug] (departmentService.delete) {"deletedCount":0}
+2024-04-23 10:09:45.098[info] (department.delete.result) {"deletedCount":0}
+2024-04-23 10:09:49.149[info] (department.delete.params) {"id":"4"}
+2024-04-23 10:09:49.161[debug] (departmentService.delete) {"deletedCount":1}
+2024-04-23 10:09:49.162[info] (department.delete.result) {"deletedCount":1}
+2024-04-23 10:14:36.462[info] server start!
+2024-04-23 10:14:36.571[info] DB connection Success
+2024-04-23 10:14:36.581[info] Sequelize sync Success!!!!!!
+2024-04-23 10:14:46.271[info] (department.list.params) {"ids":null,"name":"","code":""}
+2024-04-23 10:14:46.284[debug] (departmentService.list) {"count":3,"rows":[{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:14:46.285[info] (department.list.result) {"count":3,"rows":[{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:15:21.948[info] server start!
+2024-04-23 10:15:22.054[info] DB connection Success
+2024-04-23 10:15:22.068[info] Sequelize sync Success!!!!!!
+2024-04-23 10:15:23.791[info] (department.list.params) {"ids":null,"name":"","code":""}
+2024-04-23 10:15:23.803[debug] (departmentService.list) {"count":3,"rows":[{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:15:23.804[info] (department.list.result) {"count":3,"rows":[{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:15:37.668[info] server start!
+2024-04-23 10:15:37.764[info] DB connection Success
+2024-04-23 10:15:37.772[info] Sequelize sync Success!!!!!!
+2024-04-23 10:15:38.551[info] (department.list.params) {"ids":null,"name":"","code":""}
+2024-04-23 10:15:38.567[debug] (departmentService.list) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀22 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-23T00:54:57.990Z","deletedAt":null},{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:15:38.568[info] (department.list.result) {"count":3,"rows":[{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀22 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-23T00:54:57.990Z","deletedAt":null},{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:18:42.084[info] server start!
+2024-04-23 10:18:42.191[info] DB connection Success
+2024-04-23 10:18:42.202[info] Sequelize sync Success!!!!!!
+2024-04-23 10:18:59.940[info] server start!
+2024-04-23 10:19:00.035[info] DB connection Success
+2024-04-23 10:19:00.043[info] Sequelize sync Success!!!!!!
+2024-04-23 10:20:14.356[info] router/department.js [object Object]
+2024-04-23 10:20:14.395[debug] departmentService.reg : {"id":5,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:14.359Z","createdAt":"2024-04-23T01:20:14.359Z","deletedAt":null}
+2024-04-23 10:20:14.396[info] router/department.js.reg.result: {"id":5,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:14.359Z","createdAt":"2024-04-23T01:20:14.359Z","deletedAt":null}
+2024-04-23 10:20:14.915[info] router/department.js [object Object]
+2024-04-23 10:20:14.918[debug] departmentService.reg : {"id":6,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:14.916Z","createdAt":"2024-04-23T01:20:14.916Z","deletedAt":null}
+2024-04-23 10:20:14.920[info] router/department.js.reg.result: {"id":6,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:14.916Z","createdAt":"2024-04-23T01:20:14.916Z","deletedAt":null}
+2024-04-23 10:20:15.334[info] router/department.js [object Object]
+2024-04-23 10:20:15.336[debug] departmentService.reg : {"id":7,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:15.335Z","createdAt":"2024-04-23T01:20:15.335Z","deletedAt":null}
+2024-04-23 10:20:15.337[info] router/department.js.reg.result: {"id":7,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:15.335Z","createdAt":"2024-04-23T01:20:15.335Z","deletedAt":null}
+2024-04-23 10:20:15.752[info] router/department.js [object Object]
+2024-04-23 10:20:15.762[debug] departmentService.reg : {"id":8,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:15.752Z","createdAt":"2024-04-23T01:20:15.752Z","deletedAt":null}
+2024-04-23 10:20:15.764[info] router/department.js.reg.result: {"id":8,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:15.752Z","createdAt":"2024-04-23T01:20:15.752Z","deletedAt":null}
+2024-04-23 10:20:16.203[info] router/department.js [object Object]
+2024-04-23 10:20:16.207[debug] departmentService.reg : {"id":9,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:16.204Z","createdAt":"2024-04-23T01:20:16.204Z","deletedAt":null}
+2024-04-23 10:20:16.208[info] router/department.js.reg.result: {"id":9,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:16.204Z","createdAt":"2024-04-23T01:20:16.204Z","deletedAt":null}
+2024-04-23 10:20:16.490[info] router/department.js [object Object]
+2024-04-23 10:20:16.501[debug] departmentService.reg : {"id":10,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:16.491Z","createdAt":"2024-04-23T01:20:16.491Z","deletedAt":null}
+2024-04-23 10:20:16.503[info] router/department.js.reg.result: {"id":10,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:16.491Z","createdAt":"2024-04-23T01:20:16.491Z","deletedAt":null}
+2024-04-23 10:20:16.870[info] router/department.js [object Object]
+2024-04-23 10:20:16.881[debug] departmentService.reg : {"id":11,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:16.870Z","createdAt":"2024-04-23T01:20:16.870Z","deletedAt":null}
+2024-04-23 10:20:16.882[info] router/department.js.reg.result: {"id":11,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:16.870Z","createdAt":"2024-04-23T01:20:16.870Z","deletedAt":null}
+2024-04-23 10:20:17.820[info] router/department.js [object Object]
+2024-04-23 10:20:17.833[debug] departmentService.reg : {"id":12,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:17.822Z","createdAt":"2024-04-23T01:20:17.822Z","deletedAt":null}
+2024-04-23 10:20:17.835[info] router/department.js.reg.result: {"id":12,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:17.822Z","createdAt":"2024-04-23T01:20:17.822Z","deletedAt":null}
+2024-04-23 10:20:18.452[info] router/department.js [object Object]
+2024-04-23 10:20:18.455[debug] departmentService.reg : {"id":13,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:18.453Z","createdAt":"2024-04-23T01:20:18.453Z","deletedAt":null}
+2024-04-23 10:20:18.456[info] router/department.js.reg.result: {"id":13,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:18.453Z","createdAt":"2024-04-23T01:20:18.453Z","deletedAt":null}
+2024-04-23 10:20:18.836[info] router/department.js [object Object]
+2024-04-23 10:20:18.849[debug] departmentService.reg : {"id":14,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:18.838Z","createdAt":"2024-04-23T01:20:18.838Z","deletedAt":null}
+2024-04-23 10:20:18.850[info] router/department.js.reg.result: {"id":14,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:18.838Z","createdAt":"2024-04-23T01:20:18.838Z","deletedAt":null}
+2024-04-23 10:20:19.202[info] router/department.js [object Object]
+2024-04-23 10:20:19.213[debug] departmentService.reg : {"id":15,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:19.203Z","createdAt":"2024-04-23T01:20:19.203Z","deletedAt":null}
+2024-04-23 10:20:19.214[info] router/department.js.reg.result: {"id":15,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:19.203Z","createdAt":"2024-04-23T01:20:19.203Z","deletedAt":null}
+2024-04-23 10:20:19.620[info] router/department.js [object Object]
+2024-04-23 10:20:19.632[debug] departmentService.reg : {"id":16,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:19.621Z","createdAt":"2024-04-23T01:20:19.621Z","deletedAt":null}
+2024-04-23 10:20:19.633[info] router/department.js.reg.result: {"id":16,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:19.621Z","createdAt":"2024-04-23T01:20:19.621Z","deletedAt":null}
+2024-04-23 10:20:19.970[info] router/department.js [object Object]
+2024-04-23 10:20:19.981[debug] departmentService.reg : {"id":17,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:19.971Z","createdAt":"2024-04-23T01:20:19.971Z","deletedAt":null}
+2024-04-23 10:20:19.982[info] router/department.js.reg.result: {"id":17,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:19.971Z","createdAt":"2024-04-23T01:20:19.971Z","deletedAt":null}
+2024-04-23 10:20:20.382[info] router/department.js [object Object]
+2024-04-23 10:20:20.385[debug] departmentService.reg : {"id":18,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:20.382Z","createdAt":"2024-04-23T01:20:20.382Z","deletedAt":null}
+2024-04-23 10:20:20.385[info] router/department.js.reg.result: {"id":18,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:20.382Z","createdAt":"2024-04-23T01:20:20.382Z","deletedAt":null}
+2024-04-23 10:20:20.768[info] router/department.js [object Object]
+2024-04-23 10:20:20.778[debug] departmentService.reg : {"id":19,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:20.769Z","createdAt":"2024-04-23T01:20:20.769Z","deletedAt":null}
+2024-04-23 10:20:20.779[info] router/department.js.reg.result: {"id":19,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:20.769Z","createdAt":"2024-04-23T01:20:20.769Z","deletedAt":null}
+2024-04-23 10:20:21.117[info] router/department.js [object Object]
+2024-04-23 10:20:21.128[debug] departmentService.reg : {"id":20,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:21.118Z","createdAt":"2024-04-23T01:20:21.118Z","deletedAt":null}
+2024-04-23 10:20:21.129[info] router/department.js.reg.result: {"id":20,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:21.118Z","createdAt":"2024-04-23T01:20:21.118Z","deletedAt":null}
+2024-04-23 10:20:22.002[info] router/department.js [object Object]
+2024-04-23 10:20:22.013[debug] departmentService.reg : {"id":21,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:22.003Z","createdAt":"2024-04-23T01:20:22.003Z","deletedAt":null}
+2024-04-23 10:20:22.015[info] router/department.js.reg.result: {"id":21,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:20:22.003Z","createdAt":"2024-04-23T01:20:22.003Z","deletedAt":null}
+2024-04-23 10:20:34.373[info] (department.list.params) {"ids":null,"name":"","code":"","limit":"10","offset":"0"}
+2024-04-23 10:20:34.431[debug] (departmentService.list) {"count":20,"rows":[{"id":21,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:22.003Z","updatedAt":"2024-04-23T01:20:22.003Z","deletedAt":null},{"id":20,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:21.118Z","updatedAt":"2024-04-23T01:20:21.118Z","deletedAt":null},{"id":19,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:20.769Z","updatedAt":"2024-04-23T01:20:20.769Z","deletedAt":null},{"id":18,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:20.382Z","updatedAt":"2024-04-23T01:20:20.382Z","deletedAt":null},{"id":17,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:19.971Z","updatedAt":"2024-04-23T01:20:19.971Z","deletedAt":null},{"id":16,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:19.621Z","updatedAt":"2024-04-23T01:20:19.621Z","deletedAt":null},{"id":15,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:19.203Z","updatedAt":"2024-04-23T01:20:19.203Z","deletedAt":null},{"id":14,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:18.838Z","updatedAt":"2024-04-23T01:20:18.838Z","deletedAt":null},{"id":13,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:18.453Z","updatedAt":"2024-04-23T01:20:18.453Z","deletedAt":null},{"id":12,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:17.822Z","updatedAt":"2024-04-23T01:20:17.822Z","deletedAt":null}]}
+2024-04-23 10:20:34.434[info] (department.list.result) {"count":20,"rows":[{"id":21,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:22.003Z","updatedAt":"2024-04-23T01:20:22.003Z","deletedAt":null},{"id":20,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:21.118Z","updatedAt":"2024-04-23T01:20:21.118Z","deletedAt":null},{"id":19,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:20.769Z","updatedAt":"2024-04-23T01:20:20.769Z","deletedAt":null},{"id":18,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:20.382Z","updatedAt":"2024-04-23T01:20:20.382Z","deletedAt":null},{"id":17,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:19.971Z","updatedAt":"2024-04-23T01:20:19.971Z","deletedAt":null},{"id":16,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:19.621Z","updatedAt":"2024-04-23T01:20:19.621Z","deletedAt":null},{"id":15,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:19.203Z","updatedAt":"2024-04-23T01:20:19.203Z","deletedAt":null},{"id":14,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:18.838Z","updatedAt":"2024-04-23T01:20:18.838Z","deletedAt":null},{"id":13,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:18.453Z","updatedAt":"2024-04-23T01:20:18.453Z","deletedAt":null},{"id":12,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:17.822Z","updatedAt":"2024-04-23T01:20:17.822Z","deletedAt":null}]}
+2024-04-23 10:20:50.286[info] (department.list.params) {"ids":null,"name":"","code":"","limit":"10","offset":"10"}
+2024-04-23 10:20:50.346[debug] (departmentService.list) {"count":20,"rows":[{"id":11,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:16.870Z","updatedAt":"2024-04-23T01:20:16.870Z","deletedAt":null},{"id":10,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:16.491Z","updatedAt":"2024-04-23T01:20:16.491Z","deletedAt":null},{"id":9,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:16.204Z","updatedAt":"2024-04-23T01:20:16.204Z","deletedAt":null},{"id":8,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:15.752Z","updatedAt":"2024-04-23T01:20:15.752Z","deletedAt":null},{"id":7,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:15.335Z","updatedAt":"2024-04-23T01:20:15.335Z","deletedAt":null},{"id":6,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:14.916Z","updatedAt":"2024-04-23T01:20:14.916Z","deletedAt":null},{"id":5,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:14.359Z","updatedAt":"2024-04-23T01:20:14.359Z","deletedAt":null},{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀22 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-23T00:54:57.990Z","deletedAt":null},{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:20:50.350[info] (department.list.result) {"count":20,"rows":[{"id":11,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:16.870Z","updatedAt":"2024-04-23T01:20:16.870Z","deletedAt":null},{"id":10,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:16.491Z","updatedAt":"2024-04-23T01:20:16.491Z","deletedAt":null},{"id":9,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:16.204Z","updatedAt":"2024-04-23T01:20:16.204Z","deletedAt":null},{"id":8,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:15.752Z","updatedAt":"2024-04-23T01:20:15.752Z","deletedAt":null},{"id":7,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:15.335Z","updatedAt":"2024-04-23T01:20:15.335Z","deletedAt":null},{"id":6,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:14.916Z","updatedAt":"2024-04-23T01:20:14.916Z","deletedAt":null},{"id":5,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T01:20:14.359Z","updatedAt":"2024-04-23T01:20:14.359Z","deletedAt":null},{"id":3,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-22T08:22:58.866Z","updatedAt":"2024-04-22T08:22:58.866Z","deletedAt":null},{"id":2,"name":"조승민팀22 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:57.809Z","updatedAt":"2024-04-23T00:54:57.990Z","deletedAt":null},{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:20:56.718[info] (department.list.params) {"ids":null,"name":"","code":"","limit":"10","offset":"20"}
+2024-04-23 10:20:56.721[debug] (departmentService.list) {"count":20,"rows":[]}
+2024-04-23 10:20:56.721[info] (department.list.result) {"count":20,"rows":[]}
+2024-04-23 10:21:01.590[info] router/department.js [object Object]
+2024-04-23 10:21:01.602[debug] departmentService.reg : {"id":22,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:21:01.591Z","createdAt":"2024-04-23T01:21:01.591Z","deletedAt":null}
+2024-04-23 10:21:01.602[info] router/department.js.reg.result: {"id":22,"name":"조승민팀1314","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T01:21:01.591Z","createdAt":"2024-04-23T01:21:01.591Z","deletedAt":null}
+2024-04-23 10:21:04.320[info] (department.list.params) {"ids":null,"name":"","code":"","limit":"10","offset":"20"}
+2024-04-23 10:21:04.325[debug] (departmentService.list) {"count":21,"rows":[{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:21:04.326[info] (department.list.result) {"count":21,"rows":[{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:27:09.850[info] server start!
+2024-04-23 10:27:09.958[info] DB connection Success
+2024-04-23 10:27:09.967[info] Sequelize sync Success!!!!!!
+2024-04-23 10:27:18.865[info] (department.list.params) {"ids":null,"name":"","code":"","limit":"10","offset":"20"}
+2024-04-23 10:27:18.880[debug] (departmentService.list) {"count":21,"rows":[{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:27:18.881[info] (department.list.result) {"count":21,"rows":[{"id":1,"name":"조승민팀 수정","code":"TESTCODE","description":"테스트 상세설명 수정","createdAt":"2024-04-22T08:22:16.718Z","updatedAt":"2024-04-23T00:54:38.207Z","deletedAt":null}]}
+2024-04-23 10:28:50.146[info] server start!
+2024-04-23 10:28:50.262[info] DB connection Success
+2024-04-23 10:28:50.271[info] Sequelize sync Success!!!!!!
+2024-04-23 11:05:42.054[info] server start!
+2024-04-23 11:05:42.160[info] DB connection Success
+2024-04-23 11:05:42.186[info] Sequelize sync Success!!!!!!
+2024-04-23 11:10:35.928[info] server start!
+2024-04-23 11:10:36.038[info] DB connection Success
+2024-04-23 11:10:36.050[info] Sequelize sync Success!!!!!!
+2024-04-23 11:10:39.514[info] server start!
+2024-04-23 11:10:39.738[info] DB connection Success
+2024-04-23 11:10:39.751[info] Sequelize sync Success!!!!!!
+2024-04-23 11:11:10.013[info] server start!
+2024-04-23 11:11:10.116[info] DB connection Success
+2024-04-23 11:11:10.130[info] Sequelize sync Success!!!!!!
+2024-04-23 11:11:33.029[info] server start!
+2024-04-23 11:11:33.149[info] DB connection Success
+2024-04-23 11:11:33.161[info] Sequelize sync Success!!!!!!
+2024-04-23 11:11:37.035[info] server start!
+2024-04-23 11:11:37.141[info] DB connection Success
+2024-04-23 11:11:37.153[info] Sequelize sync Success!!!!!!
+2024-04-23 11:11:42.546[info] server start!
+2024-04-23 11:11:42.684[info] DB connection Success
+2024-04-23 11:11:42.698[info] Sequelize sync Success!!!!!!
+2024-04-23 11:12:14.148[info] server start!
+2024-04-23 11:12:14.255[info] DB connection Success
+2024-04-23 11:12:14.271[info] Sequelize sync Success!!!!!!
+2024-04-23 11:12:17.383[info] server start!
+2024-04-23 11:12:17.484[info] DB connection Success
+2024-04-23 11:12:17.496[info] Sequelize sync Success!!!!!!
+2024-04-23 11:12:22.868[info] server start!
+2024-04-23 11:12:23.096[info] DB connection Success
+2024-04-23 11:12:23.109[info] Sequelize sync Success!!!!!!
+2024-04-23 11:12:32.834[info] server start!
+2024-04-23 11:12:32.936[info] DB connection Success
+2024-04-23 11:12:32.948[info] Sequelize sync Success!!!!!!
+2024-04-23 11:28:09.954[info] server start!
+2024-04-23 11:28:10.082[info] DB connection Success
+2024-04-23 11:28:10.095[info] Sequelize sync Success!!!!!!
+2024-04-23 11:28:22.400[info] server start!
+2024-04-23 11:28:22.506[info] DB connection Success
+2024-04-23 11:28:22.532[info] Sequelize sync Success!!!!!!
+2024-04-23 11:28:24.801[info] server start!
+2024-04-23 11:28:24.908[info] DB connection Success
+2024-04-23 11:28:24.922[info] Sequelize sync Success!!!!!!
+2024-04-23 11:31:07.121[info] server start!
+2024-04-23 11:31:07.227[info] DB connection Success
+2024-04-23 11:31:07.259[info] Sequelize sync Success!!!!!!
+2024-04-23 12:57:16.458[info] router/department.js [object Object]
+2024-04-23 12:57:16.501[debug] departmentService.reg : {"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:16.460Z","createdAt":"2024-04-23T03:57:16.460Z","deletedAt":null}
+2024-04-23 12:57:16.503[info] router/department.js.reg.result: {"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:16.460Z","createdAt":"2024-04-23T03:57:16.460Z","deletedAt":null}
+2024-04-23 12:57:17.709[info] router/department.js [object Object]
+2024-04-23 12:57:17.721[debug] departmentService.reg : {"id":2,"name":"조승민2","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:17.710Z","createdAt":"2024-04-23T03:57:17.710Z","deletedAt":null}
+2024-04-23 12:57:17.725[info] router/department.js.reg.result: {"id":2,"name":"조승민2","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:17.710Z","createdAt":"2024-04-23T03:57:17.710Z","deletedAt":null}
+2024-04-23 12:57:18.619[info] router/department.js [object Object]
+2024-04-23 12:57:18.622[debug] departmentService.reg : {"id":3,"name":"조승민3","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:18.620Z","createdAt":"2024-04-23T03:57:18.620Z","deletedAt":null}
+2024-04-23 12:57:18.623[info] router/department.js.reg.result: {"id":3,"name":"조승민3","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:18.620Z","createdAt":"2024-04-23T03:57:18.620Z","deletedAt":null}
+2024-04-23 12:57:19.540[info] router/department.js [object Object]
+2024-04-23 12:57:19.551[debug] departmentService.reg : {"id":4,"name":"조승민4","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:19.541Z","createdAt":"2024-04-23T03:57:19.541Z","deletedAt":null}
+2024-04-23 12:57:19.553[info] router/department.js.reg.result: {"id":4,"name":"조승민4","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:19.541Z","createdAt":"2024-04-23T03:57:19.541Z","deletedAt":null}
+2024-04-23 12:57:20.542[info] router/department.js [object Object]
+2024-04-23 12:57:20.552[debug] departmentService.reg : {"id":5,"name":"조승민5","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:20.542Z","createdAt":"2024-04-23T03:57:20.542Z","deletedAt":null}
+2024-04-23 12:57:20.553[info] router/department.js.reg.result: {"id":5,"name":"조승민5","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:20.542Z","createdAt":"2024-04-23T03:57:20.542Z","deletedAt":null}
+2024-04-23 12:57:21.424[info] router/department.js [object Object]
+2024-04-23 12:57:21.427[debug] departmentService.reg : {"id":6,"name":"조승민6","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:21.425Z","createdAt":"2024-04-23T03:57:21.425Z","deletedAt":null}
+2024-04-23 12:57:21.428[info] router/department.js.reg.result: {"id":6,"name":"조승민6","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:21.425Z","createdAt":"2024-04-23T03:57:21.425Z","deletedAt":null}
+2024-04-23 12:57:22.342[info] router/department.js [object Object]
+2024-04-23 12:57:22.353[debug] departmentService.reg : {"id":7,"name":"조승민7","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:22.343Z","createdAt":"2024-04-23T03:57:22.343Z","deletedAt":null}
+2024-04-23 12:57:22.354[info] router/department.js.reg.result: {"id":7,"name":"조승민7","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:22.343Z","createdAt":"2024-04-23T03:57:22.343Z","deletedAt":null}
+2024-04-23 12:57:23.174[info] router/department.js [object Object]
+2024-04-23 12:57:23.185[debug] departmentService.reg : {"id":8,"name":"조승민8","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:23.175Z","createdAt":"2024-04-23T03:57:23.175Z","deletedAt":null}
+2024-04-23 12:57:23.187[info] router/department.js.reg.result: {"id":8,"name":"조승민8","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:23.175Z","createdAt":"2024-04-23T03:57:23.175Z","deletedAt":null}
+2024-04-23 12:57:24.158[info] router/department.js [object Object]
+2024-04-23 12:57:24.160[debug] departmentService.reg : {"id":9,"name":"조승민9","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:24.158Z","createdAt":"2024-04-23T03:57:24.158Z","deletedAt":null}
+2024-04-23 12:57:24.161[info] router/department.js.reg.result: {"id":9,"name":"조승민9","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:24.158Z","createdAt":"2024-04-23T03:57:24.158Z","deletedAt":null}
+2024-04-23 12:57:27.250[info] router/department.js [object Object]
+2024-04-23 12:57:27.261[debug] departmentService.reg : {"id":10,"name":"조승민10","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:27.251Z","createdAt":"2024-04-23T03:57:27.251Z","deletedAt":null}
+2024-04-23 12:57:27.262[info] router/department.js.reg.result: {"id":10,"name":"조승민10","code":"SMCTEAM","description":"테스트 상세설명","updatedAt":"2024-04-23T03:57:27.251Z","createdAt":"2024-04-23T03:57:27.251Z","deletedAt":null}
+2024-04-23 13:04:01.778[info] server start!
+2024-04-23 13:04:01.882[info] DB connection Success
+2024-04-23 13:04:01.894[info] Sequelize sync Success!!!!!!
+2024-04-23 13:04:28.928[info] server start!
+2024-04-23 13:04:29.031[info] DB connection Success
+2024-04-23 13:04:29.044[info] Sequelize sync Success!!!!!!
+2024-04-23 13:05:32.873[info] server start!
+2024-04-23 13:05:32.983[info] DB connection Success
+2024-04-23 13:05:32.996[info] Sequelize sync Success!!!!!!
+2024-04-23 13:06:42.962[info] server start!
+2024-04-23 13:06:43.076[info] DB connection Success
+2024-04-23 13:06:43.088[info] Sequelize sync Success!!!!!!
+2024-04-23 13:09:07.309[info] server start!
+2024-04-23 13:09:07.410[info] DB connection Success
+2024-04-23 13:09:07.423[info] Sequelize sync Success!!!!!!
+2024-04-23 13:10:05.517[info] server start!
+2024-04-23 13:10:05.726[info] DB connection Success
+2024-04-23 13:10:05.739[info] Sequelize sync Success!!!!!!
+2024-04-23 13:10:41.963[info] server start!
+2024-04-23 13:10:42.181[info] DB connection Success
+2024-04-23 13:10:42.194[info] Sequelize sync Success!!!!!!
+2024-04-23 13:12:37.434[info] server start!
+2024-04-23 13:12:37.543[info] DB connection Success
+2024-04-23 13:12:37.556[info] Sequelize sync Success!!!!!!
+2024-04-23 13:13:01.008[info] server start!
+2024-04-23 13:13:01.118[info] DB connection Success
+2024-04-23 13:13:01.130[info] Sequelize sync Success!!!!!!
+2024-04-23 13:15:03.179[info] server start!
+2024-04-23 13:15:03.267[info] DB connection Success
+2024-04-23 13:15:03.282[info] Sequelize sync Success!!!!!!
+2024-04-23 13:15:12.241[info] server start!
+2024-04-23 13:15:12.351[info] DB connection Success
+2024-04-23 13:15:12.364[info] Sequelize sync Success!!!!!!
+2024-04-23 13:15:51.862[info] router/user.js [object Object]
+2024-04-23 13:15:51.905[debug] userService.reg : {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T04:15:51.865Z","createdAt":"2024-04-23T04:15:51.865Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 13:15:51.906[info] router/user.js.reg.result: {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T04:15:51.865Z","createdAt":"2024-04-23T04:15:51.865Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 13:15:53.825[info] router/user.js [object Object]
+2024-04-23 13:15:53.830[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:15:53.831[error] router/user.js: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:15:56.257[info] router/user.js [object Object]
+2024-04-23 13:15:56.261[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:15:56.261[error] router/user.js: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:15:56.879[info] router/user.js [object Object]
+2024-04-23 13:15:56.882[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:15:56.883[error] router/user.js: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:16:33.223[info] router/user.js [object Object]
+2024-04-23 13:16:33.259[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:16:33.260[error] router/user.js: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:16:34.927[info] router/user.js [object Object]
+2024-04-23 13:16:34.931[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:16:34.932[error] router/user.js: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:16:52.024[info] router/user.js [object Object]
+2024-04-23 13:16:52.060[debug] userService.reg : {"id":11,"departmentId":1,"name":"김개발","userid":"test2","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T04:16:52.025Z","createdAt":"2024-04-23T04:16:52.025Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 13:16:52.061[info] router/user.js.reg.result: {"id":11,"departmentId":1,"name":"김개발","userid":"test2","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T04:16:52.025Z","createdAt":"2024-04-23T04:16:52.025Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 13:16:56.420[info] router/user.js [object Object]
+2024-04-23 13:16:56.423[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:16:56.424[error] router/user.js: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:16:58.841[info] router/user.js [object Object]
+2024-04-23 13:16:58.853[debug] userService.reg : {"id":13,"departmentId":1,"name":"김개발","userid":"test3","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T04:16:58.842Z","createdAt":"2024-04-23T04:16:58.842Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 13:16:58.854[info] router/user.js.reg.result: {"id":13,"departmentId":1,"name":"김개발","userid":"test3","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T04:16:58.842Z","createdAt":"2024-04-23T04:16:58.842Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 13:17:00.272[info] router/user.js [object Object]
+2024-04-23 13:17:00.284[debug] userService.reg : {"id":14,"departmentId":1,"name":"김개발","userid":"test4","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T04:17:00.272Z","createdAt":"2024-04-23T04:17:00.272Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 13:17:00.285[info] router/user.js.reg.result: {"id":14,"departmentId":1,"name":"김개발","userid":"test4","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T04:17:00.272Z","createdAt":"2024-04-23T04:17:00.272Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 13:17:01.541[info] router/user.js [object Object]
+2024-04-23 13:17:01.545[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:17:01.546[error] router/user.js: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 13:20:10.574[info] (user.list.params) {"ids":null,"departmentIds":null,"name":"","userid":""}
+2024-04-23 13:20:10.639[debug] (userService.list) {"count":5,"rows":[{"id":14,"departmentId":1,"name":"김개발","userid":"test4","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:17:00.272Z","updatedAt":"2024-04-23T04:17:00.272Z","deletedAt":null},{"id":13,"departmentId":1,"name":"김개발","userid":"test3","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:16:58.842Z","updatedAt":"2024-04-23T04:16:58.842Z","deletedAt":null},{"id":11,"departmentId":1,"name":"김개발","userid":"test2","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:16:52.025Z","updatedAt":"2024-04-23T04:16:52.025Z","deletedAt":null},{"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null},{"id":4,"departmentId":2,"name":"시스템관리자","userid":"system","password":"1234","role":null,"email":null,"phone":null,"updatedPwDate":null,"createdAt":"2024-04-23T03:57:30.237Z","updatedAt":"2024-04-23T03:57:30.237Z","deletedAt":null}]}
+2024-04-23 13:20:10.641[info] (user.list.result) {"count":5,"rows":[{"id":14,"departmentId":1,"name":"김개발","userid":"test4","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:17:00.272Z","updatedAt":"2024-04-23T04:17:00.272Z","deletedAt":null},{"id":13,"departmentId":1,"name":"김개발","userid":"test3","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:16:58.842Z","updatedAt":"2024-04-23T04:16:58.842Z","deletedAt":null},{"id":11,"departmentId":1,"name":"김개발","userid":"test2","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:16:52.025Z","updatedAt":"2024-04-23T04:16:52.025Z","deletedAt":null},{"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null},{"id":4,"departmentId":2,"name":"시스템관리자","userid":"system","password":"1234","role":null,"email":null,"phone":null,"updatedPwDate":null,"createdAt":"2024-04-23T03:57:30.237Z","updatedAt":"2024-04-23T03:57:30.237Z","deletedAt":null}]}
+2024-04-23 13:21:10.820[info] (user.list.params) {"ids":["1","2","3"],"departmentIds":null,"name":"","userid":"","role":"","email":"","phone":"","limit":"","offset":""}
+2024-04-23 13:21:10.866[debug] (userService.list) {"count":0,"rows":[]}
+2024-04-23 13:21:10.866[info] (user.list.result) {"count":0,"rows":[]}
+2024-04-23 13:21:19.651[info] (user.list.params) {"ids":["5","6","7"],"departmentIds":null,"name":"","userid":"","role":"","email":"","phone":"","limit":"","offset":""}
+2024-04-23 13:21:19.654[debug] (userService.list) {"count":1,"rows":[{"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null}]}
+2024-04-23 13:21:19.655[info] (user.list.result) {"count":1,"rows":[{"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null}]}
+2024-04-23 13:22:30.091[info] (user.info.params) {"id":"5"}
+2024-04-23 13:22:30.126[debug] (userService.info) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null}
+2024-04-23 13:22:30.127[info] (user.info.result) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null}
+2024-04-23 13:33:58.365[info] server start!
+2024-04-23 13:33:58.469[info] DB connection Success
+2024-04-23 13:33:58.482[info] Sequelize sync Success!!!!!!
+2024-04-23 13:34:27.545[info] (user.list.params) {"ids":["5","6","7"],"departmentIds":null,"name":"","userid":"","role":"","email":"","phone":"","limit":"","offset":""}
+2024-04-23 13:34:27.616[debug] (userService.list) {"count":1,"rows":[{"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}]}
+2024-04-23 13:34:27.618[info] (user.list.result) {"count":1,"rows":[{"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}]}
+2024-04-23 13:35:10.028[info] server start!
+2024-04-23 13:35:10.137[info] DB connection Success
+2024-04-23 13:35:10.151[info] Sequelize sync Success!!!!!!
+2024-04-23 13:36:10.034[info] server start!
+2024-04-23 13:36:10.155[info] DB connection Success
+2024-04-23 13:36:10.167[info] Sequelize sync Success!!!!!!
+2024-04-23 13:36:17.061[info] server start!
+2024-04-23 13:36:17.171[info] DB connection Success
+2024-04-23 13:36:17.185[info] Sequelize sync Success!!!!!!
+2024-04-23 13:36:20.965[info] (user.info.params) {"id":"5"}
+2024-04-23 13:36:20.980[debug] (userService.info) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:36:20.982[info] (user.info.result) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:36:41.790[info] server start!
+2024-04-23 13:36:41.893[info] DB connection Success
+2024-04-23 13:36:41.905[info] Sequelize sync Success!!!!!!
+2024-04-23 13:36:58.045[info] (user.info.params) {"id":"5"}
+2024-04-23 13:36:58.088[debug] (userService.info) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:36:58.089[info] (user.info.result) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:37:02.745[info] server start!
+2024-04-23 13:37:02.854[info] DB connection Success
+2024-04-23 13:37:02.866[info] Sequelize sync Success!!!!!!
+2024-04-23 13:37:04.257[info] server start!
+2024-04-23 13:37:04.363[info] DB connection Success
+2024-04-23 13:37:04.377[info] Sequelize sync Success!!!!!!
+2024-04-23 13:37:08.790[info] server start!
+2024-04-23 13:37:08.917[info] DB connection Success
+2024-04-23 13:37:08.948[info] Sequelize sync Success!!!!!!
+2024-04-23 13:37:10.391[info] (user.info.params) {"id":"5"}
+2024-04-23 13:37:10.403[debug] (userService.info) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:37:10.404[info] (user.info.result) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:37:19.687[info] server start!
+2024-04-23 13:37:19.791[info] DB connection Success
+2024-04-23 13:37:19.803[info] Sequelize sync Success!!!!!!
+2024-04-23 13:37:24.481[info] (user.info.params) {"id":"5"}
+2024-04-23 13:37:24.499[debug] (userService.info) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:37:24.500[info] (user.info.result) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:37:30.843[info] server start!
+2024-04-23 13:37:30.943[info] DB connection Success
+2024-04-23 13:37:30.954[info] Sequelize sync Success!!!!!!
+2024-04-23 13:37:34.136[info] (user.info.params) {"id":"5"}
+2024-04-23 13:37:34.151[debug] (userService.info) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:37:34.152[info] (user.info.result) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:37:38.753[info] server start!
+2024-04-23 13:37:38.858[info] DB connection Success
+2024-04-23 13:37:38.872[info] Sequelize sync Success!!!!!!
+2024-04-23 13:37:40.290[info] (user.info.params) {"id":"5"}
+2024-04-23 13:37:40.294[error] (userService.info) SequelizeEagerLoadingError: Department is associated to User using an alias. You've included an alias (Department123), but it does not match the alias(es) defined in your association (Department).
+2024-04-23 13:38:25.912[info] server start!
+2024-04-23 13:38:26.013[info] DB connection Success
+2024-04-23 13:38:26.026[info] Sequelize sync Success!!!!!!
+2024-04-23 13:38:29.297[info] server start!
+2024-04-23 13:38:29.397[info] DB connection Success
+2024-04-23 13:38:29.410[info] Sequelize sync Success!!!!!!
+2024-04-23 13:38:34.361[info] (user.info.params) {"id":"5"}
+2024-04-23 13:38:34.365[error] (userService.info) SequelizeEagerLoadingError: Department is associated to User using an alias. You've included an alias (Department123), but it does not match the alias(es) defined in your association (Department).
+2024-04-23 13:38:36.879[info] server start!
+2024-04-23 13:38:36.993[info] DB connection Success
+2024-04-23 13:38:37.008[info] Sequelize sync Success!!!!!!
+2024-04-23 13:38:39.139[info] (user.info.params) {"id":"5"}
+2024-04-23 13:38:39.155[debug] (userService.info) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:38:39.156[info] (user.info.result) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:16.460Z","updatedAt":"2024-04-23T03:57:16.460Z","deletedAt":null}}
+2024-04-23 13:39:13.672[info] server start!
+2024-04-23 13:39:13.768[info] DB connection Success
+2024-04-23 13:39:13.781[info] Sequelize sync Success!!!!!!
+2024-04-23 13:39:39.277[info] (user.info.params) {"id":"5"}
+2024-04-23 13:39:39.357[debug] (userService.info) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","createdAt":"2024-04-23T03:57:16.460Z"}}
+2024-04-23 13:39:39.359[info] (user.info.result) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","password":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","createdAt":"2024-04-23T03:57:16.460Z"}}
+2024-04-23 13:40:37.589[info] server start!
+2024-04-23 13:40:37.693[info] DB connection Success
+2024-04-23 13:40:37.704[info] Sequelize sync Success!!!!!!
+2024-04-23 13:41:16.621[info] (user.info.params) {"id":"5"}
+2024-04-23 13:41:16.667[debug] (userService.info) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","createdAt":"2024-04-23T03:57:16.460Z"}}
+2024-04-23 13:41:16.668[info] (user.info.result) {"id":5,"departmentId":1,"name":"김개발234","userid":"test","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedPwDate":null,"createdAt":"2024-04-23T04:15:51.865Z","updatedAt":"2024-04-23T04:15:51.865Z","deletedAt":null,"Department":{"id":1,"name":"조승민팀","code":"SMCTEAM","createdAt":"2024-04-23T03:57:16.460Z"}}
+2024-04-23 13:41:34.561[info] server start!
+2024-04-23 13:41:34.671[info] DB connection Success
+2024-04-23 13:41:34.683[info] Sequelize sync Success!!!!!!
+2024-04-23 13:42:39.679[info] server start!
+2024-04-23 13:42:39.775[info] DB connection Success
+2024-04-23 13:42:39.787[info] Sequelize sync Success!!!!!!
+2024-04-23 13:43:34.460[info] server start!
+2024-04-23 13:43:34.561[info] DB connection Success
+2024-04-23 13:43:34.575[info] Sequelize sync Success!!!!!!
+2024-04-23 13:45:05.350[info] server start!
+2024-04-23 13:45:05.446[info] DB connection Success
+2024-04-23 13:45:05.459[info] Sequelize sync Success!!!!!!
+2024-04-23 13:45:49.131[info] server start!
+2024-04-23 13:45:49.249[info] DB connection Success
+2024-04-23 13:45:49.261[info] Sequelize sync Success!!!!!!
+2024-04-23 13:46:12.965[info] server start!
+2024-04-23 13:46:13.084[info] DB connection Success
+2024-04-23 13:46:13.099[info] Sequelize sync Success!!!!!!
+2024-04-23 13:46:25.820[info] server start!
+2024-04-23 13:46:25.934[info] DB connection Success
+2024-04-23 13:46:25.947[info] Sequelize sync Success!!!!!!
+2024-04-23 13:47:33.881[info] server start!
+2024-04-23 13:47:33.988[info] DB connection Success
+2024-04-23 13:47:34.004[info] Sequelize sync Success!!!!!!
+2024-04-23 13:47:43.796[info] server start!
+2024-04-23 13:47:43.897[info] DB connection Success
+2024-04-23 13:47:43.911[info] Sequelize sync Success!!!!!!
+2024-04-23 13:49:54.296[info] server start!
+2024-04-23 13:49:54.412[info] DB connection Success
+2024-04-23 13:49:54.426[info] Sequelize sync Success!!!!!!
+2024-04-23 13:51:34.501[info] server start!
+2024-04-23 13:51:34.603[info] DB connection Success
+2024-04-23 13:51:34.616[info] Sequelize sync Success!!!!!!
+2024-04-23 13:52:40.336[info] server start!
+2024-04-23 13:52:40.431[info] DB connection Success
+2024-04-23 13:52:40.445[info] Sequelize sync Success!!!!!!
+2024-04-23 13:53:27.405[info] server start!
+2024-04-23 13:53:27.515[info] DB connection Success
+2024-04-23 13:53:27.528[info] Sequelize sync Success!!!!!!
+2024-04-23 13:54:48.710[info] server start!
+2024-04-23 13:54:48.921[info] DB connection Success
+2024-04-23 13:54:48.935[info] Sequelize sync Success!!!!!!
+2024-04-23 14:04:33.930[info] server start!
+2024-04-23 14:04:34.056[info] DB connection Success
+2024-04-23 14:04:34.071[info] Sequelize sync Success!!!!!!
+2024-04-23 14:07:27.674[info] server start!
+2024-04-23 14:07:27.875[info] DB connection Success
+2024-04-23 14:07:27.890[info] Sequelize sync Success!!!!!!
+2024-04-23 14:08:06.898[info] server start!
+2024-04-23 14:08:07.000[info] DB connection Success
+2024-04-23 14:08:07.013[info] Sequelize sync Success!!!!!!
+2024-04-23 14:08:12.861[info] server start!
+2024-04-23 14:08:12.975[info] DB connection Success
+2024-04-23 14:08:13.002[info] Sequelize sync Success!!!!!!
+2024-04-23 14:08:28.784[info] server start!
+2024-04-23 14:08:28.888[info] DB connection Success
+2024-04-23 14:08:28.901[info] Sequelize sync Success!!!!!!
+2024-04-23 14:08:47.689[info] server start!
+2024-04-23 14:08:47.797[info] DB connection Success
+2024-04-23 14:08:47.811[info] Sequelize sync Success!!!!!!
+2024-04-23 14:09:07.141[info] server start!
+2024-04-23 14:09:07.256[info] DB connection Success
+2024-04-23 14:09:07.268[info] Sequelize sync Success!!!!!!
+2024-04-23 14:11:11.003[info] server start!
+2024-04-23 14:11:11.116[info] DB connection Success
+2024-04-23 14:11:11.127[info] Sequelize sync Success!!!!!!
+2024-04-23 14:11:42.408[info] server start!
+2024-04-23 14:11:42.533[info] DB connection Success
+2024-04-23 14:11:42.546[info] Sequelize sync Success!!!!!!
+2024-04-23 14:16:25.928[info] server start!
+2024-04-23 14:16:26.139[info] DB connection Success
+2024-04-23 14:16:26.151[info] Sequelize sync Success!!!!!!
+2024-04-23 14:17:46.816[info] server start!
+2024-04-23 14:17:46.905[info] DB connection Success
+2024-04-23 14:17:46.916[info] Sequelize sync Success!!!!!!
+2024-04-23 14:19:28.247[info] server start!
+2024-04-23 14:19:28.335[info] DB connection Success
+2024-04-23 14:19:28.349[info] Sequelize sync Success!!!!!!
+2024-04-23 14:20:18.616[info] server start!
+2024-04-23 14:20:18.825[info] DB connection Success
+2024-04-23 14:20:18.838[info] Sequelize sync Success!!!!!!
+2024-04-23 14:21:52.344[info] server start!
+2024-04-23 14:21:52.443[info] DB connection Success
+2024-04-23 14:21:52.454[info] Sequelize sync Success!!!!!!
+2024-04-23 14:22:11.362[info] server start!
+2024-04-23 14:22:11.469[info] DB connection Success
+2024-04-23 14:22:11.481[info] Sequelize sync Success!!!!!!
+2024-04-23 14:22:39.376[info] server start!
+2024-04-23 14:22:39.480[info] DB connection Success
+2024-04-23 14:22:39.494[info] Sequelize sync Success!!!!!!
+2024-04-23 14:23:54.159[info] server start!
+2024-04-23 14:23:54.265[info] DB connection Success
+2024-04-23 14:23:54.276[info] Sequelize sync Success!!!!!!
+2024-04-23 14:25:08.681[info] server start!
+2024-04-23 14:25:08.781[info] DB connection Success
+2024-04-23 14:25:08.794[info] Sequelize sync Success!!!!!!
+2024-04-23 14:26:34.826[info] server start!
+2024-04-23 14:26:34.924[info] DB connection Success
+2024-04-23 14:26:34.937[info] Sequelize sync Success!!!!!!
+2024-04-23 14:26:39.314[info] server start!
+2024-04-23 14:26:39.416[info] DB connection Success
+2024-04-23 14:26:39.429[info] Sequelize sync Success!!!!!!
+2024-04-23 14:27:11.118[info] server start!
+2024-04-23 14:27:11.236[info] DB connection Success
+2024-04-23 14:27:11.248[info] Sequelize sync Success!!!!!!
+2024-04-23 14:27:53.187[info] server start!
+2024-04-23 14:27:53.285[info] DB connection Success
+2024-04-23 14:27:53.297[info] Sequelize sync Success!!!!!!
+2024-04-23 14:28:08.221[info] router/user.js [object Object]
+2024-04-23 14:28:08.223[debug] userService.reg - hashPassword: "test"
+2024-04-23 14:28:08.266[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 14:28:08.267[error] router/user.js: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 14:28:12.474[info] router/user.js [object Object]
+2024-04-23 14:28:12.476[debug] userService.reg - hashPassword: "test"
+2024-04-23 14:28:12.491[debug] userService.reg : {"id":17,"departmentId":1,"name":"김개발","userid":"test5","password":"es3KKAIXDll6AhWK1ldiFXXSNOUpyzk0TUnqIikcongiOij9gRCIJSXANTLnJbOoiYTqtNB+OIYecX0Z/oaNcQ==.d947fc13e8b5b7833efd0df0944223cbbfb432eebaff6cbfab3eed1c212c6f0fff5ed6277b943662f83c27dde39b31b6dbce0c6795ecd6c124ed3e42256be8e9","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T05:28:12.477Z","createdAt":"2024-04-23T05:28:12.477Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 14:28:12.492[info] router/user.js.reg.result: {"id":17,"departmentId":1,"name":"김개발","userid":"test5","password":"es3KKAIXDll6AhWK1ldiFXXSNOUpyzk0TUnqIikcongiOij9gRCIJSXANTLnJbOoiYTqtNB+OIYecX0Z/oaNcQ==.d947fc13e8b5b7833efd0df0944223cbbfb432eebaff6cbfab3eed1c212c6f0fff5ed6277b943662f83c27dde39b31b6dbce0c6795ecd6c124ed3e42256be8e9","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T05:28:12.477Z","createdAt":"2024-04-23T05:28:12.477Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 14:44:50.878[info] server start!
+2024-04-23 14:44:50.985[info] DB connection Success
+2024-04-23 14:44:51.000[info] Sequelize sync Success!!!!!!
+2024-04-23 14:46:40.883[info] server start!
+2024-04-23 14:46:40.996[info] DB connection Success
+2024-04-23 14:46:41.008[info] Sequelize sync Success!!!!!!
+2024-04-23 14:47:55.130[info] server start!
+2024-04-23 14:47:55.237[info] DB connection Success
+2024-04-23 14:47:55.251[info] Sequelize sync Success!!!!!!
+2024-04-23 14:48:15.554[info] server start!
+2024-04-23 14:48:15.652[info] DB connection Success
+2024-04-23 14:48:15.664[info] Sequelize sync Success!!!!!!
+2024-04-23 14:49:23.555[info] server start!
+2024-04-23 14:49:23.660[info] DB connection Success
+2024-04-23 14:49:23.673[info] Sequelize sync Success!!!!!!
+2024-04-23 14:49:48.391[info] server start!
+2024-04-23 14:49:48.497[info] DB connection Success
+2024-04-23 14:49:48.510[info] Sequelize sync Success!!!!!!
+2024-04-23 14:50:01.391[info] server start!
+2024-04-23 14:50:01.479[info] DB connection Success
+2024-04-23 14:50:01.491[info] Sequelize sync Success!!!!!!
+2024-04-23 14:50:53.759[info] server start!
+2024-04-23 14:50:53.864[info] DB connection Success
+2024-04-23 14:50:53.877[info] Sequelize sync Success!!!!!!
+2024-04-23 15:04:26.609[info] server start!
+2024-04-23 15:04:26.712[info] DB connection Success
+2024-04-23 15:04:26.727[info] Sequelize sync Success!!!!!!
+2024-04-23 15:36:52.336[info] server start!
+2024-04-23 15:36:52.530[info] DB connection Success
+2024-04-23 15:36:52.546[info] Sequelize sync Success!!!!!!
+2024-04-23 15:37:06.853[info] router/user.js [object Object]
+2024-04-23 15:37:06.855[error] userService.reg - hashPassword: TypeError [ERR_INVALID_ARG_TYPE]: The "iterations" argument must be of type number. Received type string ('1000')
+2024-04-23 15:37:06.855[error] router/user.js: TypeError [ERR_INVALID_ARG_TYPE]: The "iterations" argument must be of type number. Received type string ('1000')
+2024-04-23 15:37:32.178[info] server start!
+2024-04-23 15:37:32.279[info] DB connection Success
+2024-04-23 15:37:32.291[info] Sequelize sync Success!!!!!!
+2024-04-23 15:37:39.459[info] server start!
+2024-04-23 15:37:39.573[info] DB connection Success
+2024-04-23 15:37:39.585[info] Sequelize sync Success!!!!!!
+2024-04-23 15:37:48.266[info] router/user.js [object Object]
+2024-04-23 15:37:48.269[debug] userService.reg - hashPassword: "test"
+2024-04-23 15:37:48.289[debug] userService.reg : {"id":18,"departmentId":1,"name":"김개발","userid":"test35","password":"ewmjEC/t9uYplC6wd9IsrTcsPB4Ky8KV6Idafm/r9ZRd4RTy5iCcitAfdCsUTW0CVOU4ZRZlgMEJ0HwJnY4veg==.05e152cd2a4fd791cc72e4218a2665b22705f369dc3a70015286e010624c5c4d89cb58134ad3276b02056d57f2746b5955f54a9f37f94040135e9983a17e7b9f","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T06:37:48.271Z","createdAt":"2024-04-23T06:37:48.271Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 15:37:48.290[info] router/user.js.reg.result: {"id":18,"departmentId":1,"name":"김개발","userid":"test35","password":"ewmjEC/t9uYplC6wd9IsrTcsPB4Ky8KV6Idafm/r9ZRd4RTy5iCcitAfdCsUTW0CVOU4ZRZlgMEJ0HwJnY4veg==.05e152cd2a4fd791cc72e4218a2665b22705f369dc3a70015286e010624c5c4d89cb58134ad3276b02056d57f2746b5955f54a9f37f94040135e9983a17e7b9f","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T06:37:48.271Z","createdAt":"2024-04-23T06:37:48.271Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 16:13:03.883[info] server start!
+2024-04-23 16:13:04.110[info] DB connection Success
+2024-04-23 16:13:04.123[info] Sequelize sync Success!!!!!!
+2024-04-23 16:14:06.750[info] server start!
+2024-04-23 16:14:06.842[info] DB connection Success
+2024-04-23 16:14:06.856[info] Sequelize sync Success!!!!!!
+2024-04-23 16:14:17.617[info] server start!
+2024-04-23 16:14:17.713[info] DB connection Success
+2024-04-23 16:14:17.725[info] Sequelize sync Success!!!!!!
+2024-04-23 16:15:10.470[info] server start!
+2024-04-23 16:15:10.577[info] DB connection Success
+2024-04-23 16:15:10.590[info] Sequelize sync Success!!!!!!
+2024-04-23 16:15:43.446[info] server start!
+2024-04-23 16:15:43.552[info] DB connection Success
+2024-04-23 16:15:43.564[info] Sequelize sync Success!!!!!!
+2024-04-23 16:15:45.905[info] server start!
+2024-04-23 16:15:46.006[info] DB connection Success
+2024-04-23 16:15:46.020[info] Sequelize sync Success!!!!!!
+2024-04-23 16:17:17.931[info] server start!
+2024-04-23 16:17:18.040[info] DB connection Success
+2024-04-23 16:17:18.053[info] Sequelize sync Success!!!!!!
+2024-04-23 16:22:19.018[info] server start!
+2024-04-23 16:22:19.108[info] DB connection Success
+2024-04-23 16:22:19.120[info] Sequelize sync Success!!!!!!
+2024-04-23 16:24:21.004[info] server start!
+2024-04-23 16:24:21.233[info] DB connection Success
+2024-04-23 16:24:21.246[info] Sequelize sync Success!!!!!!
+2024-04-23 16:24:47.060[info] server start!
+2024-04-23 16:24:47.174[info] DB connection Success
+2024-04-23 16:24:47.186[info] Sequelize sync Success!!!!!!
+2024-04-23 16:25:48.932[info] server start!
+2024-04-23 16:25:49.144[info] DB connection Success
+2024-04-23 16:25:49.157[info] Sequelize sync Success!!!!!!
+2024-04-23 16:26:35.125[info] server start!
+2024-04-23 16:26:35.230[info] DB connection Success
+2024-04-23 16:26:35.244[info] Sequelize sync Success!!!!!!
+2024-04-23 16:27:06.865[info] server start!
+2024-04-23 16:27:07.087[info] DB connection Success
+2024-04-23 16:27:07.099[info] Sequelize sync Success!!!!!!
+2024-04-23 16:27:37.982[info] server start!
+2024-04-23 16:27:38.195[info] DB connection Success
+2024-04-23 16:27:38.209[info] Sequelize sync Success!!!!!!
+2024-04-23 16:28:04.232[info] server start!
+2024-04-23 16:28:04.314[info] DB connection Success
+2024-04-23 16:28:04.328[info] Sequelize sync Success!!!!!!
+2024-04-23 16:28:24.837[info] server start!
+2024-04-23 16:28:24.939[info] DB connection Success
+2024-04-23 16:28:24.953[info] Sequelize sync Success!!!!!!
+2024-04-23 16:28:28.768[info] server start!
+2024-04-23 16:28:28.970[info] DB connection Success
+2024-04-23 16:28:28.985[info] Sequelize sync Success!!!!!!
+2024-04-23 16:28:30.040[info] server start!
+2024-04-23 16:28:30.137[info] DB connection Success
+2024-04-23 16:28:30.149[info] Sequelize sync Success!!!!!!
+2024-04-23 16:29:25.305[info] server start!
+2024-04-23 16:29:25.405[info] DB connection Success
+2024-04-23 16:29:25.416[info] Sequelize sync Success!!!!!!
+2024-04-23 16:29:48.200[info] server start!
+2024-04-23 16:29:48.307[info] DB connection Success
+2024-04-23 16:29:48.319[info] Sequelize sync Success!!!!!!
+2024-04-23 16:31:51.071[info] server start!
+2024-04-23 16:31:51.185[info] DB connection Success
+2024-04-23 16:31:51.198[info] Sequelize sync Success!!!!!!
+2024-04-23 16:31:53.999[info] server start!
+2024-04-23 16:31:54.197[info] DB connection Success
+2024-04-23 16:31:54.213[info] Sequelize sync Success!!!!!!
+2024-04-23 16:32:35.218[info] server start!
+2024-04-23 16:32:35.320[info] DB connection Success
+2024-04-23 16:32:35.333[info] Sequelize sync Success!!!!!!
+2024-04-23 16:33:02.684[info] server start!
+2024-04-23 16:33:02.779[info] DB connection Success
+2024-04-23 16:33:02.791[info] Sequelize sync Success!!!!!!
+2024-04-23 16:33:24.618[info] server start!
+2024-04-23 16:33:24.721[info] DB connection Success
+2024-04-23 16:33:24.733[info] Sequelize sync Success!!!!!!
+2024-04-23 16:33:40.455[info] server start!
+2024-04-23 16:33:40.550[info] DB connection Success
+2024-04-23 16:33:40.561[info] Sequelize sync Success!!!!!!
+2024-04-23 16:33:51.923[info] server start!
+2024-04-23 16:33:52.029[info] DB connection Success
+2024-04-23 16:33:52.041[info] Sequelize sync Success!!!!!!
+2024-04-23 16:34:24.543[info] server start!
+2024-04-23 16:34:24.644[info] DB connection Success
+2024-04-23 16:34:24.656[info] Sequelize sync Success!!!!!!
+2024-04-23 16:34:55.200[info] server start!
+2024-04-23 16:34:55.311[info] DB connection Success
+2024-04-23 16:34:55.323[info] Sequelize sync Success!!!!!!
+2024-04-23 16:36:07.216[info] router/user.js [object Object]
+2024-04-23 16:36:07.218[debug] userService.reg - hashPassword: "@dbqlTl1"
+2024-04-23 16:36:07.271[debug] userService.reg : {"id":19,"departmentId":1,"name":"김개발","userid":"smc","password":"vFQdhph0eNYGAIOVBzHy4Ux+J+0OjPE1iz3L0lgQ0GAlN1KaCHG28vPf/xbyHlrPQRsbKMKxG+LmyBTWj/yGWA==.d443569faed4a14105163ab11695acad7687e7e03f0654c8a1b45d40663c04ec3ddb8a20cbdf6dbcaa14da37a0d31167f62a10fedf1f048d000b4a1a19b875eb","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T07:36:07.221Z","createdAt":"2024-04-23T07:36:07.221Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 16:36:07.273[info] router/user.js.reg.result: {"id":19,"departmentId":1,"name":"김개발","userid":"smc","password":"vFQdhph0eNYGAIOVBzHy4Ux+J+0OjPE1iz3L0lgQ0GAlN1KaCHG28vPf/xbyHlrPQRsbKMKxG+LmyBTWj/yGWA==.d443569faed4a14105163ab11695acad7687e7e03f0654c8a1b45d40663c04ec3ddb8a20cbdf6dbcaa14da37a0d31167f62a10fedf1f048d000b4a1a19b875eb","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T07:36:07.221Z","createdAt":"2024-04-23T07:36:07.221Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 16:36:16.986[info] router/auth.js [object Object]
+2024-04-23 16:36:16.996[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTksIm5hbW1lIjoi6rmA6rCc67CcIiwidXNlcmlkIjoic21jIiwicm9sZSI6Im1lbWJlciIsImlhdCI6MTcxMzg1Nzc3NiwiZXhwIjoxNzEzODY0OTc2fQ.mdbvWcGwf0FvHuIfJT-YAVaO6VarEZ06CnBnAWeUE3o"
+2024-04-23 16:36:16.997[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTksIm5hbW1lIjoi6rmA6rCc67CcIiwidXNlcmlkIjoic21jIiwicm9sZSI6Im1lbWJlciIsImlhdCI6MTcxMzg1Nzc3NiwiZXhwIjoxNzEzODY0OTc2fQ.mdbvWcGwf0FvHuIfJT-YAVaO6VarEZ06CnBnAWeUE3o"
+2024-04-23 16:48:43.613[info] server start!
+2024-04-23 16:48:43.721[info] DB connection Success
+2024-04-23 16:48:43.734[info] Sequelize sync Success!!!!!!
+2024-04-23 16:49:34.633[info] server start!
+2024-04-23 16:49:34.747[info] DB connection Success
+2024-04-23 16:49:34.759[info] Sequelize sync Success!!!!!!
+2024-04-23 16:50:12.032[info] server start!
+2024-04-23 16:50:12.129[info] DB connection Success
+2024-04-23 16:50:12.142[info] Sequelize sync Success!!!!!!
+2024-04-23 16:51:42.929[info] server start!
+2024-04-23 16:51:43.025[info] DB connection Success
+2024-04-23 16:51:43.037[info] Sequelize sync Success!!!!!!
+2024-04-23 16:52:19.343[info] server start!
+2024-04-23 16:52:19.479[info] DB connection Success
+2024-04-23 16:52:19.495[info] Sequelize sync Success!!!!!!
+2024-04-23 16:53:24.584[info] server start!
+2024-04-23 16:53:24.693[info] DB connection Success
+2024-04-23 16:53:24.705[info] Sequelize sync Success!!!!!!
+2024-04-23 16:54:39.121[info] server start!
+2024-04-23 16:54:39.220[info] DB connection Success
+2024-04-23 16:54:39.232[info] Sequelize sync Success!!!!!!
+2024-04-23 16:56:12.243[info] server start!
+2024-04-23 16:56:12.321[info] DB connection Success
+2024-04-23 16:56:12.333[info] Sequelize sync Success!!!!!!
+2024-04-23 16:56:59.840[info] server start!
+2024-04-23 16:56:59.934[info] DB connection Success
+2024-04-23 16:56:59.947[info] Sequelize sync Success!!!!!!
+2024-04-23 16:57:35.481[info] server start!
+2024-04-23 16:57:35.588[info] DB connection Success
+2024-04-23 16:57:35.600[info] Sequelize sync Success!!!!!!
+2024-04-23 16:57:55.851[info] server start!
+2024-04-23 16:57:55.952[info] DB connection Success
+2024-04-23 16:57:55.964[info] Sequelize sync Success!!!!!!
+2024-04-23 17:09:27.316[info] server start!
+2024-04-23 17:09:27.435[info] DB connection Success
+2024-04-23 17:09:27.447[info] Sequelize sync Success!!!!!!
+2024-04-23 17:09:32.706[info] server start!
+2024-04-23 17:09:32.926[info] DB connection Success
+2024-04-23 17:09:32.941[info] Sequelize sync Success!!!!!!
+2024-04-23 17:09:55.338[info] router/auth.js [object Object]
+2024-04-23 17:09:55.392[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTksIm5hbW1lIjoi6rmA6rCc67CcIiwidXNlcmlkIjoic21jIiwicm9sZSI6Im1lbWJlciIsImlhdCI6MTcxMzg1OTc5NSwiZXhwIjoxNzEzODY2OTk1fQ.dVxcu_g-l23FW2mzK4KKvu4kRktktfeMwWBP5qv3WnU"
+2024-04-23 17:09:55.393[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTksIm5hbW1lIjoi6rmA6rCc67CcIiwidXNlcmlkIjoic21jIiwicm9sZSI6Im1lbWJlciIsImlhdCI6MTcxMzg1OTc5NSwiZXhwIjoxNzEzODY2OTk1fQ.dVxcu_g-l23FW2mzK4KKvu4kRktktfeMwWBP5qv3WnU"
+2024-04-23 17:10:52.868[info] router/user.js [object Object]
+2024-04-23 17:10:52.870[debug] userService.reg - hashPassword: "@dbqlTl1"
+2024-04-23 17:10:52.917[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 17:10:52.919[error] router/user.js: SequelizeUniqueConstraintError: 중복된 키 값이 "users_userid_key" 고유 제약 조건을 위반함
+2024-04-23 17:10:59.583[info] router/user.js [object Object]
+2024-04-23 17:10:59.585[debug] userService.reg - hashPassword: "@dbqlTl1"
+2024-04-23 17:10:59.600[debug] userService.reg : {"id":21,"departmentId":1,"name":"김개발","userid":"smcr","password":"DGSWbJ60Prsgfyavde0L08NgaZ9eTE3PApZBA+F7flOTx67IET7BbMNvX+jPvLLmZwKXSE8qd2Rb+jp4c3dY3Q==.ecca43fb2b030af7a7d42b04ed6daead224cfbb042a53aae4fcc9601917feb83f58d105da24218084479983e41099a081ad9568ec4239f4407146096e980f10f","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T08:10:59.585Z","createdAt":"2024-04-23T08:10:59.585Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 17:10:59.602[info] router/user.js.reg.result: {"id":21,"departmentId":1,"name":"김개발","userid":"smcr","password":"DGSWbJ60Prsgfyavde0L08NgaZ9eTE3PApZBA+F7flOTx67IET7BbMNvX+jPvLLmZwKXSE8qd2Rb+jp4c3dY3Q==.ecca43fb2b030af7a7d42b04ed6daead224cfbb042a53aae4fcc9601917feb83f58d105da24218084479983e41099a081ad9568ec4239f4407146096e980f10f","role":"member","email":"kim@email.com","phone":"010-1234-5678","updatedAt":"2024-04-23T08:10:59.585Z","createdAt":"2024-04-23T08:10:59.585Z","updatedPwDate":null,"deletedAt":null}
+2024-04-23 17:11:12.671[info] (department.info.params) {"id":"2"}
+2024-04-23 17:11:12.716[debug] (departmentService.info) {"id":2,"name":"조승민2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:17.710Z","updatedAt":"2024-04-23T03:57:17.710Z","deletedAt":null,"Users":[{"id":4,"name":"시스템관리자","userid":"system","role":null,"email":null,"phone":null,"createdAt":"2024-04-23T03:57:30.237Z"}]}
+2024-04-23 17:11:12.717[info] (department.info.result) {"id":2,"name":"조승민2","code":"SMCTEAM","description":"테스트 상세설명","createdAt":"2024-04-23T03:57:17.710Z","updatedAt":"2024-04-23T03:57:17.710Z","deletedAt":null,"Users":[{"id":4,"name":"시스템관리자","userid":"system","role":null,"email":null,"phone":null,"createdAt":"2024-04-23T03:57:30.237Z"}]}
+2024-04-23 17:27:26.920[info] server start!
+2024-04-23 17:27:27.035[info] DB connection Success
+2024-04-23 17:27:27.056[info] Sequelize sync Success!!!!!!
+2024-04-23 17:39:07.320[info] server start!
+2024-04-23 17:39:07.428[info] DB connection Success
+2024-04-23 17:39:07.440[info] Sequelize sync Success!!!!!!
+2024-04-23 17:39:33.801[info] server start!
+2024-04-23 17:39:33.899[info] DB connection Success
+2024-04-23 17:39:33.912[info] Sequelize sync Success!!!!!!
+2024-04-23 17:39:47.899[info] server start!
+2024-04-23 17:39:48.010[info] DB connection Success
+2024-04-23 17:39:48.024[info] Sequelize sync Success!!!!!!
+2024-04-23 17:40:33.203[info] server start!
+2024-04-23 17:40:33.312[info] DB connection Success
+2024-04-23 17:40:33.324[info] Sequelize sync Success!!!!!!
+2024-04-23 17:41:11.297[info] server start!
+2024-04-23 17:41:11.511[info] DB connection Success
+2024-04-23 17:41:11.525[info] Sequelize sync Success!!!!!!
+2024-04-23 17:41:19.647[info] server start!
+2024-04-23 17:41:19.752[info] DB connection Success
+2024-04-23 17:41:19.764[info] Sequelize sync Success!!!!!!
+2024-04-23 17:41:24.571[info] server start!
+2024-04-23 17:41:24.658[info] DB connection Success
+2024-04-23 17:41:24.671[info] Sequelize sync Success!!!!!!
+2024-04-23 17:41:58.555[info] server start!
+2024-04-23 17:41:58.661[info] DB connection Success
+2024-04-23 17:41:58.673[info] Sequelize sync Success!!!!!!

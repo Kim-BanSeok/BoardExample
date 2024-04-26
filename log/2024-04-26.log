@@ -1,0 +1,185 @@
+2024-04-26 10:00:36.300[info] server start!
+2024-04-26 10:00:36.630[info] DB connection Success
+2024-04-26 10:00:36.689[info] Sequelize sync Success!!!!!!
+2024-04-26 10:01:53.132[info] server start!
+2024-04-26 10:01:53.417[info] DB connection Success
+2024-04-26 10:01:53.467[info] Sequelize sync Success!!!!!!
+2024-04-26 10:08:29.594[info] server start!
+2024-04-26 10:08:29.702[error] undefined
+2024-04-26 10:12:06.163[info] server start!
+2024-04-26 10:12:06.503[info] DB connection Success
+2024-04-26 10:12:06.548[info] Sequelize sync Success!!!!!!
+2024-04-26 11:01:14.588[info] server start!
+2024-04-26 11:01:14.631[error] SequelizeConnectionRefusedError
+2024-04-26 11:02:14.807[info] server start!
+2024-04-26 11:02:14.828[error] SequelizeConnectionRefusedError
+2024-04-26 11:03:51.676[info] server start!
+2024-04-26 11:03:51.700[error] SequelizeConnectionRefusedError
+2024-04-26 11:06:10.070[info] server start!
+2024-04-26 11:06:10.412[info] DB connection Success
+2024-04-26 11:06:10.474[info] Sequelize sync Success!!!!!!
+2024-04-26 11:07:25.470[info] server start!
+2024-04-26 11:07:25.494[error] SequelizeConnectionRefusedError
+2024-04-26 11:19:43.753[info] server start!
+2024-04-26 11:19:44.121[info] DB connection Success
+2024-04-26 11:19:44.178[info] Sequelize sync Success!!!!!!
+2024-04-26 11:33:02.649[info] server start!
+2024-04-26 11:33:02.980[info] DB connection Success
+2024-04-26 11:33:03.035[info] Sequelize sync Success!!!!!!
+2024-04-26 11:33:09.624[info] server start!
+2024-04-26 11:33:09.839[info] DB connection Success
+2024-04-26 11:33:09.882[info] Sequelize sync Success!!!!!!
+2024-04-26 11:34:18.679[info] server start!
+2024-04-26 11:34:19.009[info] DB connection Success
+2024-04-26 11:34:19.057[info] Sequelize sync Success!!!!!!
+2024-04-26 11:34:58.384[info] server start!
+2024-04-26 11:34:58.728[info] DB connection Success
+2024-04-26 11:34:58.785[info] Sequelize sync Success!!!!!!
+2024-04-26 11:36:17.898[info] server start!
+2024-04-26 11:36:18.174[info] DB connection Success
+2024-04-26 11:36:18.223[info] Sequelize sync Success!!!!!!
+2024-04-26 11:37:16.646[info] server start!
+2024-04-26 11:37:16.872[info] DB connection Success
+2024-04-26 11:37:16.921[info] Sequelize sync Success!!!!!!
+2024-04-26 11:50:54.235[info] server start!
+2024-04-26 11:50:54.327[error] undefined
+2024-04-26 11:58:36.475[info] server start!
+2024-04-26 11:58:36.507[error] undefined
+2024-04-26 12:45:47.421[info] server start!
+2024-04-26 12:45:47.513[info] DB connection Success
+2024-04-26 12:45:47.652[info] Sequelize sync Success!!!!!!
+2024-04-26 13:14:11.447[info] server start!
+2024-04-26 13:14:11.473[error] undefined
+2024-04-26 13:15:28.414[info] server start!
+2024-04-26 13:15:28.443[error] undefined
+2024-04-26 13:15:59.835[info] server start!
+2024-04-26 13:15:59.863[error] undefined
+2024-04-26 13:16:33.521[info] server start!
+2024-04-26 13:16:33.548[error] undefined
+2024-04-26 13:17:33.972[info] server start!
+2024-04-26 13:17:34.189[info] DB connection Success
+2024-04-26 13:17:34.246[info] Sequelize sync Success!!!!!!
+2024-04-26 13:18:25.646[info] server start!
+2024-04-26 13:18:25.869[info] DB connection Success
+2024-04-26 13:18:25.912[info] Sequelize sync Success!!!!!!
+2024-04-26 13:19:00.307[info] server start!
+2024-04-26 13:19:00.519[info] DB connection Success
+2024-04-26 13:19:00.560[info] Sequelize sync Success!!!!!!
+2024-04-26 13:19:05.479[info] server start!
+2024-04-26 13:19:05.706[info] DB connection Success
+2024-04-26 13:19:05.752[info] Sequelize sync Success!!!!!!
+2024-04-26 13:23:51.475[info] server start!
+2024-04-26 13:23:51.845[info] DB connection Success
+2024-04-26 13:23:51.895[info] Sequelize sync Success!!!!!!
+2024-04-26 13:24:18.478[info] server start!
+2024-04-26 13:24:18.716[info] DB connection Success
+2024-04-26 13:24:18.791[info] Sequelize sync Success!!!!!!
+2024-04-26 13:26:06.201[info] server start!
+2024-04-26 13:26:06.532[info] DB connection Success
+2024-04-26 13:26:06.587[info] Sequelize sync Success!!!!!!
+2024-04-26 13:27:33.754[info] router/auth.js [object Object]
+2024-04-26 13:27:33.866[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDU2NTMsImV4cCI6MjA3NDEwMjA1M30.8RQOilwkmSyjdgixUElKqyaeYoCeCjacGeVGLUecEPw"
+2024-04-26 13:27:33.868[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDU2NTMsImV4cCI6MjA3NDEwMjA1M30.8RQOilwkmSyjdgixUElKqyaeYoCeCjacGeVGLUecEPw"
+2024-04-26 13:28:22.318[info] server start!
+2024-04-26 13:28:22.542[info] DB connection Success
+2024-04-26 13:28:22.586[info] Sequelize sync Success!!!!!!
+2024-04-26 13:33:46.548[info] server start!
+2024-04-26 13:33:46.795[info] DB connection Success
+2024-04-26 13:33:46.841[info] Sequelize sync Success!!!!!!
+2024-04-26 13:34:00.458[info] router/auth.js [object Object]
+2024-04-26 13:34:57.043[info] server start!
+2024-04-26 13:34:57.265[info] DB connection Success
+2024-04-26 13:34:57.314[info] Sequelize sync Success!!!!!!
+2024-04-26 13:35:03.303[info] router/auth.js [object Object]
+2024-04-26 13:35:03.317[error] Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "sadf")
+2024-04-26 13:35:03.318[error] router/auth.js: Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "sadf")
+2024-04-26 13:39:47.915[info] router/auth.js [object Object]
+2024-04-26 13:39:48.134[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDYzODgsImV4cCI6MjA3NDEwMjc4OH0.LqMMHQpW52F1FB-Sp69dNWLZtBWxpDPOw1hJ6H286ds"
+2024-04-26 13:39:48.135[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDYzODgsImV4cCI6MjA3NDEwMjc4OH0.LqMMHQpW52F1FB-Sp69dNWLZtBWxpDPOw1hJ6H286ds"
+2024-04-26 13:42:17.416[info] router/auth.js [object Object]
+2024-04-26 13:42:17.526[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDY1MzcsImV4cCI6MjA3NDEwMjkzN30.whEBdzEOEdQpv_xR67OGyeZWvS2vX9rdWdg4kcYmLgs"
+2024-04-26 13:42:17.527[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDY1MzcsImV4cCI6MjA3NDEwMjkzN30.whEBdzEOEdQpv_xR67OGyeZWvS2vX9rdWdg4kcYmLgs"
+2024-04-26 13:47:41.817[info] server start!
+2024-04-26 13:47:42.041[info] DB connection Success
+2024-04-26 13:47:42.096[info] Sequelize sync Success!!!!!!
+2024-04-26 13:47:49.232[info] server start!
+2024-04-26 13:47:49.443[info] DB connection Success
+2024-04-26 13:47:49.492[info] Sequelize sync Success!!!!!!
+2024-04-26 14:02:26.850[info] router/auth.js [object Object]
+2024-04-26 14:02:26.955[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDc3NDYsImV4cCI6MjA3NDEwNDE0Nn0.uqhYGt7W5OPfe1Yk0-sN-z9ns6VVUmXzKUcOdzr2vic"
+2024-04-26 14:02:26.956[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDc3NDYsImV4cCI6MjA3NDEwNDE0Nn0.uqhYGt7W5OPfe1Yk0-sN-z9ns6VVUmXzKUcOdzr2vic"
+2024-04-26 14:22:06.930[info] server start!
+2024-04-26 14:22:07.147[info] DB connection Success
+2024-04-26 14:22:07.198[info] Sequelize sync Success!!!!!!
+2024-04-26 14:22:18.780[info] router/auth.js [object Object]
+2024-04-26 14:22:18.894[error] Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "sdf")
+2024-04-26 14:22:18.895[error] router/auth.js: Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "sdf")
+2024-04-26 14:24:51.551[info] server start!
+2024-04-26 14:24:51.870[info] DB connection Success
+2024-04-26 14:24:51.913[info] Sequelize sync Success!!!!!!
+2024-04-26 14:24:55.200[info] router/auth.js [object Object]
+2024-04-26 14:24:55.215[error] Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "dd")
+2024-04-26 14:24:55.216[error] router/auth.js: Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "dd")
+2024-04-26 14:25:09.036[info] router/auth.js [object Object]
+2024-04-26 14:25:09.130[error] Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "user")
+2024-04-26 14:25:09.131[error] router/auth.js: Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "user")
+2024-04-26 14:25:20.719[info] router/auth.js [object Object]
+2024-04-26 14:25:20.812[error] Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "user")
+2024-04-26 14:25:20.812[error] router/auth.js: Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "user")
+2024-04-26 14:28:02.782[info] server start!
+2024-04-26 14:28:03.015[info] DB connection Success
+2024-04-26 14:28:03.062[info] Sequelize sync Success!!!!!!
+2024-04-26 14:28:07.771[info] router/auth.js [object Object]
+2024-04-26 14:28:07.783[error] Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "123")
+2024-04-26 14:28:07.784[error] router/auth.js: Error: userService.login, 일치하는 유저정보가 없습니다 (userid: "123")
+2024-04-26 14:29:13.959[info] router/auth.js [object Object]
+2024-04-26 14:29:14.060[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDkzNTQsImV4cCI6MjA3NDEwNTc1NH0.mVHDy8bSpAZw-eHR6PGMXOuqcVcSHqS5nrkcSbqRh_A"
+2024-04-26 14:29:14.061[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDkzNTQsImV4cCI6MjA3NDEwNTc1NH0.mVHDy8bSpAZw-eHR6PGMXOuqcVcSHqS5nrkcSbqRh_A"
+2024-04-26 14:31:53.356[info] server start!
+2024-04-26 14:31:53.674[info] DB connection Success
+2024-04-26 14:31:53.727[info] Sequelize sync Success!!!!!!
+2024-04-26 14:31:56.211[info] router/auth.js [object Object]
+2024-04-26 14:31:56.225[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk1MTYsImV4cCI6MjA3NDEwNTkxNn0.GlkQyGjRMiS40DktjLoU2Rl5Jkp1GS5Wd-v1VTsC1ZQ"
+2024-04-26 14:31:56.226[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk1MTYsImV4cCI6MjA3NDEwNTkxNn0.GlkQyGjRMiS40DktjLoU2Rl5Jkp1GS5Wd-v1VTsC1ZQ"
+2024-04-26 14:33:31.363[info] server start!
+2024-04-26 14:33:31.592[info] DB connection Success
+2024-04-26 14:33:31.638[info] Sequelize sync Success!!!!!!
+2024-04-26 14:33:32.446[info] router/auth.js [object Object]
+2024-04-26 14:33:32.462[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk2MTIsImV4cCI6MjA3NDEwNjAxMn0.n_m9cgdvJ4hE5a0GHV4XeoiizIfVLdbmx9grC8Pz2_E"
+2024-04-26 14:33:32.463[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk2MTIsImV4cCI6MjA3NDEwNjAxMn0.n_m9cgdvJ4hE5a0GHV4XeoiizIfVLdbmx9grC8Pz2_E"
+2024-04-26 14:34:57.242[info] server start!
+2024-04-26 14:34:57.486[info] DB connection Success
+2024-04-26 14:34:57.533[info] Sequelize sync Success!!!!!!
+2024-04-26 14:34:59.890[info] router/auth.js [object Object]
+2024-04-26 14:34:59.910[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk2OTksImV4cCI6MjA3NDEwNjA5OX0.v1HdkAbEhKya7jMwokag1NM6uW6YuSdeZDCHuFy09Qw"
+2024-04-26 14:34:59.912[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk2OTksImV4cCI6MjA3NDEwNjA5OX0.v1HdkAbEhKya7jMwokag1NM6uW6YuSdeZDCHuFy09Qw"
+2024-04-26 14:35:05.858[info] router/auth.js [object Object]
+2024-04-26 14:35:05.865[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk3MDUsImV4cCI6MjA3NDEwNjEwNX0.xJ7ZwKLc40iM9E0HcNumiOD6oKPrikGnGJld8bCKis0"
+2024-04-26 14:35:05.866[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk3MDUsImV4cCI6MjA3NDEwNjEwNX0.xJ7ZwKLc40iM9E0HcNumiOD6oKPrikGnGJld8bCKis0"
+2024-04-26 14:36:01.090[info] server start!
+2024-04-26 14:36:01.423[info] DB connection Success
+2024-04-26 14:36:01.475[info] Sequelize sync Success!!!!!!
+2024-04-26 14:36:04.856[info] router/auth.js [object Object]
+2024-04-26 14:36:04.875[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk3NjQsImV4cCI6MjA3NDEwNjE2NH0.HfBICVk2R7A948udbT5mtg7UVD5rRelYIVx6mZZDBeI"
+2024-04-26 14:36:04.877[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk3NjQsImV4cCI6MjA3NDEwNjE2NH0.HfBICVk2R7A948udbT5mtg7UVD5rRelYIVx6mZZDBeI"
+2024-04-26 14:36:04.878[error] router/auth.js: ReferenceError: alert is not defined
+2024-04-26 14:37:01.035[info] server start!
+2024-04-26 14:37:01.290[info] DB connection Success
+2024-04-26 14:37:01.336[info] Sequelize sync Success!!!!!!
+2024-04-26 14:37:03.306[info] router/auth.js [object Object]
+2024-04-26 14:37:03.323[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk4MjMsImV4cCI6MjA3NDEwNjIyM30.RyGTZurBDdYgftXlieALxNrZb5tSRayskMTd7nNmGFQ"
+2024-04-26 14:37:03.324[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk4MjMsImV4cCI6MjA3NDEwNjIyM30.RyGTZurBDdYgftXlieALxNrZb5tSRayskMTd7nNmGFQ"
+2024-04-26 14:37:19.698[info] router/auth.js [object Object]
+2024-04-26 14:37:19.798[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQxMDk4MzksImV4cCI6MjA3NDEwNjIzOX0.bsfKKbfjHtNNJRlW9uZQyGd4sEdSRKNEYcz6t3MblHQ"
+2024-04-26 14:37:43.284[info] server start!
+2024-04-26 14:37:43.533[info] DB connection Success
+2024-04-26 14:37:43.582[info] Sequelize sync Success!!!!!!
+2024-04-26 14:39:06.343[info] server start!
+2024-04-26 14:39:06.586[info] DB connection Success
+2024-04-26 14:39:06.628[info] Sequelize sync Success!!!!!!
+2024-04-26 14:39:17.891[info] server start!
+2024-04-26 14:39:18.159[info] DB connection Success
+2024-04-26 14:39:18.199[info] Sequelize sync Success!!!!!!
+2024-04-26 15:01:38.645[info] server start!
+2024-04-26 15:01:38.973[info] DB connection Success
+2024-04-26 15:01:39.026[info] Sequelize sync Success!!!!!!
