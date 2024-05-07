@@ -1,0 +1,42 @@
+2024-04-27 00:22:08.550[info] server start!
+2024-04-27 00:22:08.828[info] DB connection Success
+2024-04-27 00:22:08.879[info] Sequelize sync Success!!!!!!
+2024-04-27 00:22:49.087[info] server start!
+2024-04-27 00:22:49.341[info] DB connection Success
+2024-04-27 00:22:49.395[info] Sequelize sync Success!!!!!!
+2024-04-27 00:22:52.950[info] router/user.js [object Object]
+2024-04-27 00:23:13.093[info] server start!
+2024-04-27 00:23:13.338[info] DB connection Success
+2024-04-27 00:23:13.385[info] Sequelize sync Success!!!!!!
+2024-04-27 00:23:18.387[info] router/user.js [object Object]
+2024-04-27 00:24:18.867[info] server start!
+2024-04-27 00:24:19.113[info] DB connection Success
+2024-04-27 00:24:19.161[info] Sequelize sync Success!!!!!!
+2024-04-27 00:24:24.760[info] router/user.js [object Object]
+2024-04-27 00:25:18.441[info] server start!
+2024-04-27 00:25:18.693[info] DB connection Success
+2024-04-27 00:25:18.739[info] Sequelize sync Success!!!!!!
+2024-04-27 00:25:40.634[info] router/user.js [object Object]
+2024-04-27 00:25:40.638[debug] userService.reg - hashPassword: "123456"
+2024-04-27 00:25:40.791[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_pkey" 고유 제약 조건을 위반함
+2024-04-27 00:26:52.864[info] server start!
+2024-04-27 00:26:53.132[info] DB connection Success
+2024-04-27 00:26:53.178[info] Sequelize sync Success!!!!!!
+2024-04-27 00:26:57.830[info] router/user.js [object Object]
+2024-04-27 00:26:57.833[debug] userService.reg - hashPassword: "123456"
+2024-04-27 00:26:57.859[debug] userService.reg : {"id":2,"departmentId":null,"name":"고구려","userid":"user123","password":"l8nEiKmdJEvMwvQUzOpluAEEJsWfvqhjcmCRbSmS5+xbyYfJSXkHl1MRfHJk8ILWOhY0dvNmfImrv9UpzsNGBA==.91ce5d0808438c4d08e944558356c914b338add4c2da4f75736c2c59173d498ea099c8ad4017e2845abfe091761b6d9ec046d0dae1a5eb636fd40227f0ee70a1","role":null,"email":"qq@Qqq","phone":null,"updatedAt":"2024-04-26T15:26:57.838Z","createdAt":"2024-04-26T15:26:57.838Z","updatedPwDate":null,"deletedAt":null}
+2024-04-27 00:28:41.481[info] server start!
+2024-04-27 00:28:41.726[info] DB connection Success
+2024-04-27 00:28:41.769[info] Sequelize sync Success!!!!!!
+2024-04-27 00:29:02.400[info] router/user.js [object Object]
+2024-04-27 00:29:02.404[debug] userService.reg - hashPassword: "123456"
+2024-04-27 00:29:02.593[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_pkey" 고유 제약 조건을 위반함
+2024-04-27 00:29:35.106[info] server start!
+2024-04-27 00:29:35.352[info] DB connection Success
+2024-04-27 00:29:35.395[info] Sequelize sync Success!!!!!!
+2024-04-27 00:29:42.395[info] server start!
+2024-04-27 00:29:42.650[info] DB connection Success
+2024-04-27 00:29:42.691[info] Sequelize sync Success!!!!!!
+2024-04-27 00:30:03.483[info] router/user.js [object Object]
+2024-04-27 00:30:03.487[debug] userService.reg - hashPassword: "12345678"
+2024-04-27 00:30:03.630[error] userService.reg: SequelizeUniqueConstraintError: 중복된 키 값이 "users_pkey" 고유 제약 조건을 위반함

@@ -1,0 +1,6 @@
+2024-04-28 18:28:47.418[info] server start!
+2024-04-28 18:28:47.843[info] DB connection Success
+2024-04-28 18:28:47.937[info] Sequelize sync Success!!!!!!
+2024-04-28 18:29:00.747[info] router/auth.js [object Object]
+2024-04-28 18:29:00.896[debug] userService.login : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQyOTY1NDAsImV4cCI6MjA3NDI5Mjk0MH0.qamZBWffJBwgssXVqDBbDeQmL8sl-gYKUVlR8d7GESU"
+2024-04-28 18:29:00.897[info] router/auth.js.reg.result: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzgsIm5hbW1lIjoi7J247YS0NCIsInVzZXJpZCI6InV1dXUyIiwicm9sZSI6Im1lbWJlcjIiLCJpYXQiOjE3MTQyOTY1NDAsImV4cCI6MjA3NDI5Mjk0MH0.qamZBWffJBwgssXVqDBbDeQmL8sl-gYKUVlR8d7GESU"
